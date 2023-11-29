@@ -1,4 +1,4 @@
-title: Sinan Sagir
+# Sinan Sagir
 
 I am an assistant professor of physics at Karamanoğlu Mehmetbey University and
 visiting faculty at Brown University. I work on experimental particle physics
