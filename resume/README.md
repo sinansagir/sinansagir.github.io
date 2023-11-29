@@ -25,7 +25,7 @@ Publications
 
 Below are the selected publications in refereed journals, for the full list see [inSPIRE](https://inspirehep.net/authors/1312895)
 
-1. **CMS Collaboration** *Combined search for anomalous pseudoscalar HVV couplings in VH (H$\to b\bar{b}$) production and H $\to$ VV decay.*  
+1. **CMS Collaboration** *Combined search for anomalous pseudoscalar HVV couplings in VH (H $\to b\bar{b}$) production and H $\to$ VV decay.*  
    arXiv:1602.04305, *Phys. Lett. B* 759 (2016) 672. [Link to PDF](https://inspirehep.net/files/163f830ef7a32c54f4ae6ea7c51d3816).
 
 2. **CMS Collaboration** *Search for top quark partners with charge 5/3 in proton-proton collisions at $\sqrt{s}=13$ TeV.*  
