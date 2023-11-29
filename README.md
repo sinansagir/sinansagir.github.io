@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Sinan Sagir
 ---
 
@@ -29,5 +28,3 @@ I should spend more time going on mountain hikes, camping, and experimenting wit
 * * * * *
 
 Contact me at: s.sagir42<<nospam>>gmail.com
-
-* * * * *
