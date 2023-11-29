@@ -17,9 +17,13 @@
   </head>
   <body>
 
-      <header>
+      <header class="page-header" role="banner">
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <a href="{{ site.github.url }}" class="button">Home</a>
+        <a href="{{ site.github.url }}/research" class="button">Research</a>
+        <a href="{{ site.github.url }}/teaching" class="button">Teaching</a>
+        <a href="{{ site.github.url }}/resume" class="button">CV</a>
       </header>
 
       <div id="banner">
