@@ -1,5 +1,7 @@
 # Sinan Sagir
 
+![Profile photo](IMG_6349.png "Profile photo")
+
 I am an assistant professor of physics at Karamanoğlu Mehmetbey University and
 visiting faculty at Brown University. I work on experimental particle physics
 in Compact Muon Selenoid ([CMS](https://cms.cern/)) experiment at [CERN](https://home.cern/). 
