@@ -16,13 +16,11 @@ I should spend more time going on mountain hikes, camping, and experimenting wit
   [6]: https://inspirehep.net/files/3fdb270e18e4414ec9c9cd400ddf84fd
   [7]: https://inspirehep.net/files/d1b5f630b033c2b26f61b998f0e6512b
   
-#<!-- 
 * * * * *
 [Home](./) | 
 [Research](research/) | 
 [Teaching](teaching/) | 
 [CV](resume/)
-# -->
 * * * * *
 
 Contact me at: s.sagir42<<nospam>>gmail.com
