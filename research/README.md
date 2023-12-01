@@ -21,6 +21,22 @@ on prototype silicon detectors are directly applicable in this project.
 For more information and some results,
 see [the link](https://twiki.cern.ch/twiki/bin/view/CMSPublic/StripRadiationFeb2019StripLeakageCurrents)
 
+## Search for Vector-Like Quarks
+The Higgs boson discovered at the LHC by both ATLAS and CMS experiments
+has a mass of around 125 GeV, which is significantly smaller than new physics scales
+This causes the so called Hierarchy problem.
+There are different models that attempt to address this problem,
+one of which is the Composite Higgs Model that predicts a very heavy fermionic partner
+to top quark with a charge of 5/3 (often referred to as $X_{5/3}$). 
+I led a searches for this particle where it is produced in pairs at center-of-mass energy
+of $\sqrt{s}=13$ TeV with the CMS detector in Run II.
+$X_{5/3}$ is expected to decay into a W boson and a top quark,
+which then decays into a bottom quark and a W boson.
+We analyze the events where one of the W bosons in the final state decays into
+a lepton and a neutrino and the rest of the three W’s decay hadronically.
+This was the first study of $X_{5/3}$ at the LHC using the semi-leptonic decay channel.
+The results were combined with the more sensitive same-sign dilepton channel nad published in JHEP.
+
 ## Search for Anomalous HVV Couplings
 After the discovery of the Higgs boson at the Large Hadron Collider (LHC) in 2012, 
 the focus of interest now moved on to understanding the physics behind this particle,
