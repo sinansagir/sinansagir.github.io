@@ -1,15 +1,15 @@
 # Teaching
 
-[Return to Main](../README.md)
-
-Current Courses (Fall 2023)
+Current Courses (Spring 2024)
 ==============
 
--   Temel Bilgi Teknolojileri Kullanımı (Fizyoterapi, İş ve Uğraşı Terapisi, Optisyenlik) [Handouts](handouts/README.md)
+-   Geometrik Optik I (Optisyenlik) [Handouts](./README.md)
+-   Optisyenlik Uygulamaları I (Optisyenlik) [Handouts](./README.md)
 
 Past Courses
 ============
 
+-   Basic Information Technology Usage (Fall 2023)
 -   Computational Physics I & II (Spring 2019, Fall 2019, Spring 2020, Fall 2021, Spring 2022, Fall 2022, Spring 2023)
 -   Particle Physics I & II (Spring 2019, Fall 2019, Spring 2023)
 -   Physics II - Electricity and Magnetism (Spring 2019)

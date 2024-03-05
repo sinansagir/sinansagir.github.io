@@ -1,7 +1,5 @@
 # CV
 
-[Return to Main](../README.md)
-
 Education
 =========
 

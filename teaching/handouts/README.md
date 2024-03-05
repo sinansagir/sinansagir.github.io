@@ -1,7 +1,5 @@
 # Handouts
 
-[Return to Main](../../README.md)
-
 Current Handouts (Fall 2023)
 ==============
 
