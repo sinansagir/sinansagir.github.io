@@ -22,7 +22,7 @@ I should spend more time going on mountain hikes, camping, and experimenting wit
 [Home](./) | 
 [Research](research/) | 
 [Teaching](teaching/) | 
-[CV](resume/)
+[CV](resume/) |
 [Calendar](calendar/)
 * * * * *
 

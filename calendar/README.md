@@ -2,7 +2,7 @@
 
 [Return to Main](../README.md)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=s.sagir42%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showTz=1&mode=WEEK&height=600&wkst=1&bgcolor=%23FFFFFF&src=s.sagir42%40gmail.com&ctz=Europe%2FIstanbul" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
 
 Legend:
 
