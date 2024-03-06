@@ -1,5 +1,7 @@
 # Teaching
 
+[Home](../README.md)
+
 Current Courses (Spring 2024)
 ==============
 

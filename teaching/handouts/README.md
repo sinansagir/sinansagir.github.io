@@ -1,5 +1,7 @@
 # Handouts
 
+[Home](../README.md)
+
 Current Handouts (Spring 2024)
 ==============
 
