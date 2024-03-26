@@ -19,6 +19,7 @@ Employment
 -   Visiting Faculty, Department of Physics, Brown University, 2017--present
 -   Research Scientist, Department of Physics, Karamanoğlu Mehmetbey University, 2017--2018
 -   Postdoctoral Research Associate, Department of Physics, Brown University, 2016--2017
+-   Research Assistant, Department of Physics, Selçuk University, 2008--2010
 
 Publications
 ==========
