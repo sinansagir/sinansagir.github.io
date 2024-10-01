@@ -2,15 +2,17 @@
 
 [Home](../README.md)
 
-Current Courses (Spring 2024)
+Current Courses (Fall 2024)
 ==============
 
--   Geometrik Optik I (Optisyenlik) [Handouts](./README.md)
--   Optisyenlik Uygulamaları I (Optisyenlik) [Handouts](./README.md)
+-   Temel Bilgi Teknolojileri Kullanımı (Optisyenlik) [Handouts](./README.md)
+-   Optisyenlik Uygulamaları II (Optisyenlik) [Handouts](./README.md)
 
 Past Courses
 ============
 
+-   Geometric Optics I (Spring 2024)
+-   Opticianry Practices I (Spring 2024)
 -   Basic Information Technology Usage (Fall 2023)
 -   Computational Physics I & II (Spring 2019, Fall 2019, Spring 2020, Fall 2021, Spring 2022, Fall 2022, Spring 2023)
 -   Particle Physics I & II (Spring 2019, Fall 2019, Spring 2023)
