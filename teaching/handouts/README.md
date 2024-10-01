@@ -2,7 +2,7 @@
 
 [Home](../README.md)
 
-Current Handouts (Spring 2024)
+Current Handouts (Fall 2024)
 ==============
 
 -   
