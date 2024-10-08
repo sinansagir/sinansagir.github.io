@@ -5,8 +5,8 @@
 Current Courses (Fall 2024)
 ==============
 
--   Temel Bilgi Teknolojileri Kullanımı (Optisyenlik) [Handouts](./README.md)
--   Optisyenlik Uygulamaları II (Optisyenlik) [Handouts](./README.md)
+-   Temel Bilgi Teknolojileri Kullanımı (Optisyenlik) [Handouts](./handouts/README.md)
+-   Optisyenlik Uygulamaları II (Optisyenlik) [Handouts](./handouts/README.md)
 
 Past Courses
 ============
