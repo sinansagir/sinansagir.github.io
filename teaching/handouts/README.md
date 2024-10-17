@@ -10,8 +10,10 @@ Current Handouts (Fall 2024)
 -   [Ders Notları Hafta 3](https://drive.google.com/file/d/1RzxvTSOT_GRZ5yEqIPJSx8uHNZE9_swN/view)
 -   [Ders Notları Hafta 4](https://persdb.sdu.edu.tr/assets/uploads/sites/128/files/bilgisayar-giris-ders-notlari-4-09022016.pptx)
 
+<!---
 Past Handouts
 ============
 
-[//]: # -   [Word Uygulama Fall 2023](https://drive.google.com/drive/folders/1bAG07fmWQUx67FaGgj5nHatM7uf5O7jv?usp=drive_link)
-[//]: # -   [Excel Uygulama Fall 2023](https://drive.google.com/drive/folders/1BLyE2LfOULogyy3OFNkJ7N0FavgBESIc?usp=sharing)
+-   [Word Uygulama Fall 2023](https://drive.google.com/drive/folders/1bAG07fmWQUx67FaGgj5nHatM7uf5O7jv?usp=drive_link)
+-   [Excel Uygulama Fall 2023](https://drive.google.com/drive/folders/1BLyE2LfOULogyy3OFNkJ7N0FavgBESIc?usp=sharing)
+-->
