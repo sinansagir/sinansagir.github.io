@@ -10,6 +10,7 @@ Current Handouts (Fall 2024)
 -   [Ders Notları Hafta 3](https://drive.google.com/file/d/1RzxvTSOT_GRZ5yEqIPJSx8uHNZE9_swN/view)
 -   [Ders Notları Hafta 4](https://persdb.sdu.edu.tr/assets/uploads/sites/128/files/bilgisayar-giris-ders-notlari-4-09022016.pptx)
 -   [Ders Notları Hafta 5](https://drive.google.com/file/d/1P93FbQ4a3WvNHJryqIRSyfGaiHwuPDyu/view)
+-   [Deneme Sınavı](https://forms.gle/AFQJUx4z23UzVSsv8)
 
 <!---
 Past Handouts
