@@ -10,7 +10,8 @@ Büyük Demirkazık
 
 Aladağlar Büyük Demirkazık is. 
 ![20241028_BDK](20241028_BDK.jpeg "BDK Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189906915&elevation=off&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189906915&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Küçük Demirkazık
 ==============
@@ -20,6 +21,8 @@ Küçük Demirkazık
 
 Aladağlar Küçük Demirkazık is. 
 ![20241027_KDK](20241027_KDK.jpeg "KDK Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189811174&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Mount Erciyes
 ==============
@@ -29,6 +32,8 @@ Mount Erciyes
 
 Mount Erciyes is. 
 ![20240818_Erciyes](20240818_Erciyes.jpeg "Erciyes Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=181529944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Emler
 ==============
@@ -38,6 +43,8 @@ Emler
 
 Aladağlar Emler is. 
 ![20240721_Emler](20240721_Emler.jpg "Aladaglar Emler Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=178126944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Mount Aydos
 ==============
@@ -47,6 +54,8 @@ Mount Aydos
 
 Mount Aydos is. 
 ![20240630_Aydos](20240630_Aydos.jpg "Aydos Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=175810091&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Mount Hasan
 ==============
@@ -56,6 +65,19 @@ Mount Hasan
 
 Mount Hasan is. 
 ![20240609_Hasan](20240609_Hasan.jpg "Hasan Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=173603435&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Özyurt (Hacıbaba)
+==============
+
+-   Elevation: 2.481m
+-   Summit Date: January 6, 2024
+
+Mount Hacibaba is. 
+![20240106_Hacibaba](20240106_Hacibaba.jpg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=157526178&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Mount Dedegöl
 ==============
@@ -72,5 +94,6 @@ Then we made the second mistake and went off-trail in the hopes that we find wat
 The off-trail became very difficult, went away from our camp as we descended, and didn't find any water. 
 We were however lucky to run into a shepherd family who provided us water.
 They also had some guests with offroad truck, who were going to pass by our base camp in Melikler Plateau and were happy to give us a lift.
-In the trail that I recorded, 
+In the trail that I recorded below, Melikler Plateau can be seen at the far distance to left of my right hand. 
 ![20190831_Dedegol](20190831_Dedegol.jpg "Dedegol Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=167076774&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
