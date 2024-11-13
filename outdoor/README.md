@@ -2,20 +2,20 @@
 
 [Home](../README.md)
 
-BŸyŸk Demirkazõk
+BÃ¼yÃ¼k DemirkazÄ±k
 ==============
 
 Elevation: 3.756m
 Summit Date: October 28, 2024
-Aladaglar BŸyŸk Demirkazõk is. 
+AladaÄŸlar BÃ¼yÃ¼k DemirkazÄ±k is. 
 ![20241028_BDK](20241028_BDK.png "BDK Peak")
 
-KŸŸk Demirkazõk
+KÃ¼Ã§Ã¼k DemirkazÄ±k
 ==============
 
 Elevation: 3.456m
 Summit Date: October 27, 2024
-Aladaglar KŸŸk Demirkazõk is. 
+AladaÄŸlar KÃ¼Ã§Ã¼k DemirkazÄ±k is. 
 ![20241027_KDK](20241027_KDK.png "KDK Peak")
 
 Mount Erciyes
@@ -31,7 +31,7 @@ Emler
 
 Elevation: 3.723m
 Summit Date: July 21, 2024
-Aladaglar Emler is. 
+AladaÄŸlar Emler is. 
 ![20240721_Emler](20240721_Emler.png "Aladaglar Emler Peak")
 
 Mount Aydos
@@ -50,12 +50,12 @@ Summit Date: June 9, 2024
 Mount Hasan is. 
 ![20240609_Hasan](20240609_Hasan.png "Hasan Peak")
 
-Mount Dedegšl
+Mount DedegÃ¶l
 ==============
 
 Elevation: 2.998m
 Summit Date: August 31, 2019
-Mount Dedegšl is the  highest peak in the Central Taurus mountains, located in Isparta province in TŸrkiye.
+Mount DedegÃ¶l is the  highest peak in the Central Taurus mountains, located in Isparta province in TÅ¸rkiye.
 I was originally planning to summit this peak alone, but at the last moment I took my nephew with me.
 This was going to be my first climb of a mountain this high, but still I thought we could make this climb easily as it didn't require any technical skill.
 This was a mistake from the beginning as we didn't take enough water with us.
