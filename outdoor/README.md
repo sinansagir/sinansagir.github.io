@@ -10,6 +10,7 @@ Büyük Demirkazık
 
 Aladağlar Büyük Demirkazık is. 
 ![20241028_BDK](20241028_BDK.jpeg "BDK Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189906915&elevation=off&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 Küçük Demirkazık
 ==============
