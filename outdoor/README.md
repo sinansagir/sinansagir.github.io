@@ -52,7 +52,7 @@ Mount Aydos
 -   Elevation: 3.425m
 -   Summit Date: June 30, 2024
 
-Mount Aydos is. 
+Mount Aydos is the highest peak in Konya province of Türkiye and the second highest peak of Bolkar mountains. I was joining a group for this climb. They were planning to arrive early in the morning around 2am and start the hike right away. I decided to arrive earlier and set up a camp and get some sleep before the climb. On June 29, 2024, I arrived in Çakıllar village around 7pm. After the village there is another 8km drive with gravel road. After driving about 4km in this gravel road, my car started showing some problems and I decided to go back to Çakıllar village to meet with the group there and go to the trail base with them. I did't set up a camp, but took a nap in the car while waiting for the group. They arrived around 1:30am and we reached the trail base around 2am. We started hiking the mountain right away following what is called Erdak club route, but with some tweaks. We reached the summit around 10am. The view on the summit was beautiful with Mount Hasan, Erciyes, Demirkazık, Medetsiz that could be seen in the distance. We spent around an hour and half on the summit and started down climbing. We reached the base of the trail around 14:30pm.
 ![20240630_Aydos](20240630_Aydos.jpg "Aydos Peak")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=175810091&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
