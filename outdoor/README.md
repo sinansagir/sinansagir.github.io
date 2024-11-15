@@ -41,7 +41,7 @@ Emler
 -   Elevation: 3.723m
 -   Summit Date: July 21, 2024
 
-Aladağlar Emler is. 
+Emler is the fourth highest peak within the Aladağlar mountain range (beloging to Taurus mountain range). I climbed this mountain together with a club from Mersin. I arrived in Çamardı town of Niğde around noon on July 20, 2024 and met with the rest of the group. We had lunch and completed our supplies from the stores there. Then we went to Turkish Mountaineering Federation (TDF) training center. From there we switched to a tractor that took us to Karayalak camping area. We set up our camp, had dinner together, and went to sleep. We got up around 1:30am and started hiking around 2am. When we reached to Dinlenme Taşı (rest stone), dawn had just broken and it was very cold. I didn't want to rest long as my sweat was getting cold and I didn't have extra layers to put on. So, I let the others know and started to move ahead. I reached the summit around 9am and the rest of the group arrived around an hour later. The view on the summit was spectacular wtih all peaks of Aladağlar range visible. After spending about an hour on the summit (I spent 2 hours with early arrival) having breakfast, taking photos, etc., we headed back down to Karayalak camping area. I reached our camp around 3pm. Emler hike requires good physical and altitude fitness, but no technical climb is required. 
 ![20240721_Emler](20240721_Emler.jpg "Aladaglar Emler Peak")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=178126944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -52,7 +52,7 @@ Mount Aydos
 -   Elevation: 3.425m
 -   Summit Date: June 30, 2024
 
-Mount Aydos is the highest peak in Konya province of Türkiye and the second highest peak of Bolkar mountains. I was joining a group for this climb. They were planning to arrive early in the morning around 2am and start the hike right away. I decided to arrive earlier and set up a camp and get some sleep before the climb. On June 29, 2024, I arrived in Çakıllar village around 7pm. After the village there is another 8km drive with gravel road. After driving about 4km in this gravel road, my car started showing some problems and I decided to go back to Çakıllar village to meet with the group there and go to the trail base with them. I did't set up a camp, but took a nap in the car while waiting for the group. They arrived around 1:30am and we reached the trail base around 2am. We started hiking the mountain right away following what is called Erdak club route, but with some tweaks. We reached the summit around 10am. The view on the summit was beautiful with Mount Hasan, Erciyes, Demirkazık, Medetsiz that could be seen in the distance. We spent around an hour and half on the summit and started down climbing. We reached the base of the trail around 14:30pm.
+Mount Aydos is the highest peak in Konya province of Türkiye and the second highest peak of Bolkar mountain range (part of Taurus mountain range). I was joining a group for this climb. They were planning to arrive early in the morning around 2am and start the hike right away. I decided to arrive earlier and set up a camp and get some sleep before the climb. On June 29, 2024, I arrived in Çakıllar village around 7pm. After the village there is another 8km drive with gravel road. After driving about 4km in this gravel road, my car started showing some problems and I decided to go back to Çakıllar village to meet with the group there and go to the trail base with them. I did't set up a camp, but took a nap in the car while waiting for the group. They arrived around 1:30am and we reached the trail base around 2am. We started hiking the mountain right away following what is called Erdak club route, but with some tweaks. We reached the summit around 10am. The view on the summit was beautiful with Mount Hasan, Erciyes, Demirkazık, Medetsiz that could be seen in the distance. We spent around an hour and half on the summit and started down climbing. We reached the base of the trail around 14:30pm.
 ![20240630_Aydos](20240630_Aydos.jpg "Aydos Peak")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=175810091&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -85,7 +85,7 @@ Mount Dedegöl
 -   Elevation: 2.998m
 -   Summit Date: August 31, 2019
 
-Mount Dedegöl is the  highest peak in the Central Taurus mountains, located in Isparta province in Türkiye.
+Mount Dedegöl is the  highest peak in the Central Taurus mountain range, located in Isparta province in Türkiye.
 I was originally planning to solo summit this peak, but at the last moment I took my nephew with me.
 This was going to be my first climb of a mountain this high, but still I thought we could make this climb easily as it didn't require any technical skill.
 This was a mistake from the beginning as we didn't take enough water with us.
