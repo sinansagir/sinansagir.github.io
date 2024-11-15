@@ -1,4 +1,4 @@
-# Outdoor
+# Summits
 
 [Home](../README.md)
 
