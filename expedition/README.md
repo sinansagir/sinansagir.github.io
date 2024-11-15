@@ -1,4 +1,4 @@
-# Summits
+# Expedition
 
 [Home](../README.md)
 

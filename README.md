@@ -24,6 +24,7 @@ I should spend more time going on mountain hikes, camping, and experimenting wit
 [Teaching](teaching/) | 
 [CV](resume/) |
 [Calendar](calendar/)
+[Expedition](expedition/)
 * * * * *
 
 Contact me at: s.sagir42<<nospam>>gmail.com
