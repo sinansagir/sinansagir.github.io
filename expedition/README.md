@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Mount Hasan
+==============
+
+-   Elevation: 3.268m
+-   Summit Date: December 1, 2024
+
+Mount Hasan, a volcano located in Aksaray province, Türkiye, is one of the most prominent peaks in Anatolia. This climb marked my second ascent of the mountain and my first experience with winter climbing. For this adventure, I joined a club called Alpin Dağcılık. On November 30, 2024, I arrived at the mountain’s base near Karbeyaz Hotel, the typical starting point for hikes, at around 1:30 p.m. and set up camp. We began our hike at 3:15 a.m., following the classical route. Snow from a recent snowfall a week prior covered the mountain, and as the first climbers since the snowfall, there were no visible tracks to follow. Fortunately, the weather was mild enough that we didn’t require technical equipment like ice axes or crampons. After a steady ascent, we reached the summit at approximately 10:45 a.m., taking about 7 hours and 30 minutes from base to summit. We spent around 30 minutes at the summit, enjoying the views, before starting our descent. Aware of the potential for freezing temperatures later in the day, we aimed to return to camp quickly. The descent was smooth and efficient, taking just 2 hours and 15 minutes. We arrived back at our camp at 1:30 p.m., completing a memorable and successful climb.
+![20241201_Hasan](20241201_Hasan.jpg "Hasan Peak Winter")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=193507382&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Büyük Demirkazık
 ==============
 
