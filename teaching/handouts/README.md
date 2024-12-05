@@ -14,6 +14,8 @@ Current Handouts (Fall 2024)
 -   [Ara Sınav](https://forms.gle/Nmaa6dD1A4ZtVhYU8)
 -   [Ders Notları Hafta 9](https://enformatik.cu.edu.tr/storage/TBTK/MSOfficeWord2016.pdf)
 -   [MS Word Uygulamaları](https://drive.google.com/drive/folders/1bAG07fmWQUx67FaGgj5nHatM7uf5O7jv?usp=sharing)
+-   [Ders Notları Hafta 11](https://enformatik.cu.edu.tr/storage/TBTK/MSOfficeExcel2016.pdf)
+-   [MS Excel Uygulamaları](https://drive.google.com/drive/folders/1BLyE2LfOULogyy3OFNkJ7N0FavgBESIc?usp=sharing)
 ![VizeGuz2024](hist_vize_guz24.png "Arasınav Not Dağılımı")
 
 <!---
