@@ -16,6 +16,8 @@ Current Handouts (Fall 2024)
 -   [MS Word Uygulamaları](https://drive.google.com/drive/folders/1bAG07fmWQUx67FaGgj5nHatM7uf5O7jv?usp=sharing)
 -   [Ders Notları Hafta 11](https://enformatik.cu.edu.tr/storage/TBTK/MSOfficeExcel2016.pdf)
 -   [MS Excel Uygulamaları](https://drive.google.com/drive/folders/1BLyE2LfOULogyy3OFNkJ7N0FavgBESIc?usp=sharing)
+-   [Ders Notları Hafta 14_1](https://enformatik.cu.edu.tr/storage/TBTK/MSOfficePowerPoint2016.pdf)
+-   [Ders Notları Hafta 14_2](https://avys.omu.edu.tr/storage/app/public/ahmet.dalkin/136847/8-EtkiliSunumTeknikleri.pdf)
 ![VizeGuz2024](hist_vize_guz24.png "Arasınav Not Dağılımı")
 
 <!---
