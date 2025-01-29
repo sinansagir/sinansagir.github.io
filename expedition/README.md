@@ -2,6 +2,18 @@
 
 [Home](../README.md)
 
+Emler (#2)
+==============
+
+-   Elevation: 3.723m
+-   Date: January 26, 2025
+
+Emler is the fourth-highest peak in the Aladağlar mountain range, part of the Taurus Mountains. I attempted to summit this mountain for the second time, this time in winter, with the Summit Turkey club from Istanbul. On January 25, 2025, I arrived in Çukurbağ village, Niğde, around 10 a.m., where I met up with the rest of the group. After a shared breakfast, we loaded our gear onto a tractor, which took us to the Sokullupınar camping area. We set up camp and then hiked up to the Karayalak camping area for acclimatization. After dinner in our tents, we went to bed early, aiming to wake up around 11:30 p.m. Our hike began at 12:15 a.m., and thanks to the snow tracks from the previous day, we reached the Karayalak camping area in less than an hour. By around 6 a.m., we reached the point known as "Kapı" (Door). This is often considered the real starting point of the climb, but by this time, we were already significantly behind schedule. The challenging snow conditions made the hike much more difficult than anticipated. Before continuing on to the steep section beyond "Kapı," we conducted an avalanche risk assessment. The test indicated a potential risk, especially higher up, near a pass. Considering the avalanche threat and the fact that we were already behind schedule—making the summit unfeasible even if we had continued—we decided to prioritize safety and turn back.
+
+![20250126_Emler](20250126_Emler.jpg "Aladaglar Emler Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=199288867&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Hasan (#2)
 ==============
 
@@ -32,7 +44,7 @@ Küçük Demirkazık
 ==============
 
 -   Elevation: 3.456m
--   Summit Date: October 27, 2024
+-   Date: October 27, 2024
 
 Küçük Demirkazık is a peak in the Aladağlar mountain range. This climb was part of a 4-day, 3-night expedition that aimed to summit three peaks: Küçük Demirkazık, Büyük Demirkazık, and Davlumbaz. For this adventure, I joined a group called Summit Turkey. On October 26, 2024, I met the group in Çukurbağ village, Niğde. After breakfast, we loaded our gear onto a tractor and traveled to Arpalık Plateau, where four horses were waiting to carry our equipment to Obayeri camping area. We arrived just before sunset and quickly set up camp before it got dark. It was extremely cold, and I only managed to get some partial rest during the night due to the low temperatures.
 We woke up around 5:30 a.m., prepared for the day, and left at 6:00 a.m. for our first summit, Küçük Demirkazık. This climb requires technical climbing experience, which I did not have, and it is known as one of the most challenging technical ascents in the region. We reached 3,300 meters elevation around 10:00 a.m. By this point, the climb had not been very technical, but the remaining ascent was much more difficult and required setting up ropes. Our guide, Emre Varol, climbed first and set the ropes along the route. However, after completing the first pitch, he suggested that I refrain from continuing due to the partial snow cover on the pitch and loose rocks. I agreed, recognizing that it wasn’t a safe climb without prior experience.
