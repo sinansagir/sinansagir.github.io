@@ -2,6 +2,18 @@
 
 [Home](../README.md)
 
+Mount Erciyes (#2)
+==============
+
+-   Elevation: 3.917m
+-   Summit Date: August 18, 2024
+
+Mount Erciyes is an inactive volcano located in Kayseri province, Türkiye. It is the highest mountain and volcano in Central Anatolia and the fifth highest peak in Türkiye. I climbed this mountain with the SEDAK club from Konya province. We departed from Konya early in the morning on August 17, 2024, and arrived at the Erciyes Ski Resort in the afternoon. We took the cable car up to the café at the top of the hill, and from there, we hiked about 2 km with all of our gear, including our camping equipment. We set up camp around 5 p.m., enjoyed dinner, and went to bed.
+We woke up at around 1:30 a.m. and began hiking at 2:00 a.m. After a steady ascent, we reached the summit around 8:00 a.m., had breakfast, and began our descent at 9:20 a.m. We returned to camp around 1:00 p.m.
+![20240818_Erciyes](20240818_Erciyes.jpeg "Erciyes Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=181529944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Emler (#2)
 ==============
 
