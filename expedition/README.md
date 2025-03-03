@@ -6,12 +6,13 @@ Mount Erciyes (#2)
 ==============
 
 -   Elevation: 3.917m
--   Summit Date: August 18, 2024
+-   Summit Date: March 2, 2025
 
-Mount Erciyes is an inactive volcano located in Kayseri province, Türkiye. It is the highest mountain and volcano in Central Anatolia and the fifth highest peak in Türkiye. I climbed this mountain with the SEDAK club from Konya province. We departed from Konya early in the morning on August 17, 2024, and arrived at the Erciyes Ski Resort in the afternoon. We took the cable car up to the café at the top of the hill, and from there, we hiked about 2 km with all of our gear, including our camping equipment. We set up camp around 5 p.m., enjoyed dinner, and went to bed.
-We woke up at around 1:30 a.m. and began hiking at 2:00 a.m. After a steady ascent, we reached the summit around 8:00 a.m., had breakfast, and began our descent at 9:20 a.m. We returned to camp around 1:00 p.m.
-![20240818_Erciyes](20240818_Erciyes.jpeg "Erciyes Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=181529944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+Mount Erciyes is an inactive volcano located in Kayseri province, Türkiye. It is the highest mountain and volcano in Central Anatolia and the fifth highest peak in Türkiye. I attempted to summit this mountain for the second time, this time in winter, with the Summit Turkey club from Istanbul. On March 1, 2025, I arrived at the Erciyes Ski Resort, Kayseri, around 10:30 a.m., where I met up with the rest of the group. We took the cable car up to the café at the top of the hill, and from there, the ski resort activated the second cable car for us and took us very close to our camping area. We set up camp around 2:30 p.m. and did some simulations for crampon and ax usage. I had my dinner in my tent around 6:30 p.m. and went to bed around 7:30 p.m. We woke up at around 3:00 a.m. and began hiking at 4:15 a.m. After a steady ascent, we reached the summit around 11:20 a.m. and began our descent at 12:00 p.m. We returned to camp around 14:00 p.m. The ski resort did not activate the second cable car on the way back; therefore, we had to hike down with all of our gear, including our camping equipment. We reached the ski resort around 4 p.m.
+![20250302_Erciyes](20250302_Erciyes.jpg "Erciyes Peak")
+<!---
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=203491398&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+-->
 
 
 Emler (#2)
@@ -72,8 +73,7 @@ Mount Erciyes
 -   Elevation: 3.917m
 -   Summit Date: August 18, 2024
 
-Mount Erciyes is an inactive volcano located in Kayseri province, Türkiye. It is the highest mountain and volcano in Central Anatolia and the fifth highest peak in Türkiye. I climbed this mountain with the SEDAK club from Konya province. We departed from Konya early in the morning on August 17, 2024, and arrived at the Erciyes Ski Resort in the afternoon. We took the cable car up to the café at the top of the hill, and from there, we hiked about 2 km with all of our gear, including our camping equipment. We set up camp around 5 p.m., enjoyed dinner, and went to bed.
-We woke up at around 1:30 a.m. and began hiking at 2:00 a.m. After a steady ascent, we reached the summit around 8:00 a.m., had breakfast, and began our descent at 9:20 a.m. We returned to camp around 1:00 p.m.
+Mount Erciyes is an inactive volcano located in Kayseri province, Türkiye. It is the highest mountain and volcano in Central Anatolia and the fifth highest peak in Türkiye. I climbed this mountain with the SEDAK club from Konya province. We departed from Konya early in the morning on August 17, 2024, and arrived at the Erciyes Ski Resort in the afternoon. We took the cable car up to the café at the top of the hill, and from there, we hiked about 2 km with all of our gear, including our camping equipment. We set up camp around 5 p.m., enjoyed dinner, and went to bed. We woke up at around 1:30 a.m. and began hiking at 2:00 a.m. After a steady ascent, we reached the summit around 8:00 a.m., had breakfast, and began our descent at 9:20 a.m. We returned to camp around 1:00 p.m.
 ![20240818_Erciyes](20240818_Erciyes.jpeg "Erciyes Peak")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=181529944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
