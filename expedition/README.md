@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Mount Kızlar Sivrisi
+==============
+
+-   Elevation: 3.070m
+-   Summit Date: March 23, 2025
+
+Kızlar Sivrisi, the highest peak in the Bey Dağları mountain range, is part of the western Taurus Mountains. For this climb, I joined the Summit Turkey club from Istanbul. On March 21, 2025, I arrived in Elmalı, Antalya, around 11 p.m. and checked into Akça Hotel for the night. The next morning, I met up with the rest of the group, and we set off for Büyüksöyle Village. From there, we loaded our gear onto a tractor, which transported it as close to the base camp as possible. The final stretch required a 1 km hike with all our equipment. At the camping area, there was a chalet where most of the group stayed, but I opted to set up my own tent. We spent some time practicing crampon and ice axe techniques in preparation for the ascent. After dinner in my tent at 7:00 p.m., I went to bed early at 9:00 p.m. The summit push began early the next morning. We woke up at 2:30 a.m. and started our ascent at 3:45 a.m.. After a steady climb, we reached the summit at 11:00 a.m., took a short break to enjoy the breathtaking views, and began our descent at 11:30 a.m.. We arrived back at camp around 3:00 p.m. and eventually returned to Elmalı by 7:30 p.m. Exhausted from the climb and facing a six-hour drive home, I decided to spend another night at Akça Hotel to rest before making the journey back.
+![20250323_KizlarSivrisi](20250323_KizlarSivrisi.jpeg "KizlarSivrisi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=205866607&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Erciyes (#2)
 ==============
 
