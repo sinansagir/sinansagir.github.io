@@ -6,6 +6,7 @@ Geometrik Optik I (Bahar 2025)
 ==============
 
 -   [Devamsızlık Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV53c3XX2q1yzArHtPsvQ4sMrUQealDMIQ6kLNnhmuwwABCH9TKujolVfxAQ5UW0STkXIhHuJX4EE6/pubhtml)
+![VizeBahar2025](hist_vize_bahar25.png "Arasınav Not Dağılımı")
 
 Optisyenlik Uygulamaları I (Bahar 2025)
 ==============
