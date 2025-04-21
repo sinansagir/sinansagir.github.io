@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Mount Dedegöl (#2)
+==============
+
+-   Elevation: 2.998m
+-   Summit Date: April 20, 2025
+
+Mount Dedegöl is the highest peak in the Central Taurus Mountains, located in Isparta province, Türkiye. On April 19, 2025, I arrived at Melikler Plateau around noon with my family and set up our camp. This climb wasn’t pre-planned, but I had the intention to summit if the conditions allowed. Coincidentally, the Anadolu Dağcılık club was also camping in the area, and I asked if I could join their climb. I woke up at 3:30 a.m. and began the ascent at 4:15 a.m. After a steady climb, we started using ice axes and crampons about 300 meters below the summit. We reached the top at 10:00 a.m., took a break to enjoy the breathtaking views, and began our descent at 11:00 a.m. I arrived back at camp around 1:00 p.m.
+![20250420_Dedegol](20250420_Dedegol.jpeg "Dedegol Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=209896323&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Kızlar Sivrisi
 ==============
 
@@ -141,7 +152,7 @@ Although the elevation of Özyurt Mountain isn’t particularly high and the cli
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=157526178&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Dedegöl
+Mount Dedegöl (#1)
 ==============
 
 -   Elevation: 2.998m
