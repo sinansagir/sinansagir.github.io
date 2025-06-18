@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Pilot Tepe
+==============
+
+-   Elevation: 2.973m
+-   Summit Date: June 14, 2025
+
+Located in the beautiful Niğde Province of Türkiye, Pilot Tepe had been on my list for a while. On June 14, 2025, I set out with my family and we arrived at the Meydan Plateau around 11:30 a.m. We hadn’t fully decided whether we’d camp or not—and if we did, whether it would be at the plateau or by Karagöl. So we chose to hike up to Karagöl first, leaving our camping gear behind just in case. About 1.5 kilometers later, we arrived at Karagöl. The view was stunning—wildflowers blooming around the lake, with the mountains still wearing traces of snow. After setting up a small shade tent for my family, I went on a solo hike to Çiniligöl and then continued up to the summit of Pilot Tepe. I reached the top around 2:45 p.m. and spent about 45 minutes soaking in the incredible views of both Karagöl and Çiniligöl. Once I returned, we all agreed to camp by Karagöl. I made a quick round trip back to the Meydan Plateau to grab our gear and managed to set up camp just before nightfall. The next morning, I woke up early around 5 a.m. and took a quiet walk around Karagöl. After breakfast, we did a family hike to Çiniligöl. Later in the day, I carried some of our gear back to the car, returned for the rest, and after a relaxed lunch in our tent, we packed up and headed home—tired, happy, and already thinking about the next adventure.
+![20250614_PilotTepe](20250614_PilotTepe.jpg "Pilot Tepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=218076862&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Dedegöl (#3)
 ==============
 
