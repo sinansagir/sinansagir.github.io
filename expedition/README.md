@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Büyük Demirkazık
+==============
+
+-   Elevation: 3,756m
+-   Summit Date: July 6, 2025
+
+Büyük Demirkazık, the second-highest summit in the Aladağlar range, is one of Turkey’s most iconic and technical peaks. I had climbed it once before, but the mountain commands so much respect that even a second ascent feels like a fresh challenge. For this expedition, I teamed up with the Summit Turkey group again. On July 5, 2025, I met the team in Çukurbağ village, Niğde. After a hearty breakfast, we loaded our gear onto a tractor and set off toward the Karayalak camping area. We arrived around 2:00 p.m., and setting up my tent turned out to be quite the challenge due to strong winds in the area. Once settled, we held a technical briefing covering gear usage, route plan, anchor points, and rope team coordination. Afterward, I returned to my tent, had dinner, and went to sleep around 9:00 p.m. The next morning started very early—we woke at 12:30 a.m. and began our ascent at 1:45 a.m. via the classical Red Scree (Kızılçarşak) route. By 5:15 a.m., we reached the base of the Red Scree section, and around 8:00 a.m., we arrived at the shoulder of the mountain. After a 30-minute break, we began the technical rock face climb. We summited Büyük Demirkazık at 11:30 a.m., enjoying spectacular views and well-earned rest at the top for about an hour. The descent began with two rope-assisted down-climbs, each approximately 60 meters. We completed the remainder of the rocky descent without rope protection and reached the shoulder again at 4:15 p.m. Following another break, we descended the Red Scree and arrived back at the Karayalak camp around 9:00 p.m. Tired but satisfied, we packed our gear and left the area by 10:00 p.m. After a final dinner stop in Çukurbağ village, I began the drive home around 11:45 p.m. Exhaustion caught up with me midway, so I pulled into a gas station, slept in the car until 6:30 a.m., and continued the drive back home. It was a demanding climb—both technically and physically—but an unforgettable adventure in one of Turkey’s most iconic alpine settings.
+![20250706_BDK](20250706_BDK.jpeg "BDK Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=220905642&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Hasan (#3)
 ==============
 
