@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Alaca (Lorut)
+==============
+
+-   Elevation: 3,588m
+-   Summit Date: August 3, 2025
+
+Alaca (also known as Lorut) is the fifth-highest peak in the Aladağlar range, part of the Taurus Mountains. For this expedition, I once again joined the Summit Turkey team. On August 2, 2025, we met in the village of Çukurbağ in Niğde, shared a hearty breakfast, and loaded our gear onto a tractor that transported us to the Belikorman camping area—slightly beyond the Sarı Memedin Yurdu campsite. We arrived around 1:00 p.m., and I immediately set up my tent, anticipating the forecasted rain. Sure enough, a downpour began around 3:00 p.m., forcing us to take shelter in our tents. The rain lasted well beyond 5:00 p.m., which I used as an opportunity to rest. After dinner around 6:30 p.m., we held our technical meeting and reviewed the planned route. I was back in my tent by 8:30 p.m. and asleep by 10:00 p.m. We woke at 1:00 a.m. and set off at 1:45 a.m. under starlit skies. By 7:20 a.m., we reached Avcıbeli. After a steady and scenic climb, we summited Alaca at 10:40 a.m., taking in the breathtaking views from one of Aladağlar’s iconic peaks. Due to the chance of afternoon rain, we limited our summit break to 30 minutes before beginning the descent. We returned to Belikorman camp around 4:30 p.m. I packed my gear quickly, but just as I was about to take down my tent, the rain returned. We waited it out inside our tents. Once the rain stopped, we broke camp and departed by 6:00 p.m. After a well-deserved dinner back in Çukurbağ, I hit the road around 8:00 p.m., tired but fulfilled.
+![20250803_Alaca](20250803_Alaca.jpeg "Alaca Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=224933226&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Büyük Demirkazık (#2)
 ==============
 
