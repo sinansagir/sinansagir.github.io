@@ -51,6 +51,8 @@
               <li><a href="{{ site.github.url }}/research" class="button">Research</a></li>
               <li><a href="{{ site.github.url }}/teaching" class="button">Teaching</a></li>
               <li><a href="{{ site.github.url }}/resume" class="button">CV</a></li>
+              <li><a href="{{ site.github.url }}/calendar" class="button">Calendar</a></li>
+              <li><a href="{{ site.github.url }}/expedition" class="button">Expedition</a></li>
             </ul>
           </div>
       </div><!-- end banner -->
