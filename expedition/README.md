@@ -10,7 +10,7 @@ Medetsiz
 
 Medetsiz, the highest summit in the Bolkarlar mountain range of the Taurus Mountains, had long been on my list. This time, I set out solo. On August 23, 2025, I left home at 15:30 and reached the Meydan Plateau by 17:30. After pitching my tent, I had dinner around 18:45 and spent some time studying the mountain to plan my route before turning in for the night. I woke at 04:30 and started from camp at 05:30 a.m. Instead of following the classical route to Medetsiz, I chose a more challenging alternative that included traversing two additional summits along the way. My first stop was Tahtakayası (≈3,372 m), which I reached at 08:45. After a short 15-minute break, I continued toward Koyunaşağı (≈3,431 m), arriving at 09:40. A 20-minute rest here gave me the energy to push on toward Medetsiz. At 10:00 I left Koyunaşağı and, after a long ridge walk, reached Medetsiz summit (3,524 m) at 11:50 a.m. The panoramic views across the Bolkarlar were stunning. Though I was already tired, Köpükgöl Hill (≈3,438 m) ahead caught my eye, and I decided to include it while I was close. Leaving Medetsiz at 12:15, I summited Köpükgöl Hill at 12:53 and began my return at 13:20. Rather than reclimbing Medetsiz on the way back, I traversed around its slopes and reconnected with my earlier trail from the opposite side. I retraced my path to the pass below Koyunaşağı, then descended via the classical Medetsiz route toward Karagöl. By 17:30 I reached Karagöl, took a short rest, walked around the lake, and refilled my water at the fountain. Finally, I returned to Meydan Plateau at 18:50, packed my gear quickly before sunset, and departed camp at 19:30. It was a demanding yet deeply rewarding solo traverse of four summits in the heart of the Bolkarlar.
 ![20250824_Medetsiz](20250824_Medetsiz.jpeg "Medetsiz Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=219176611&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Tahtakayası
@@ -21,7 +21,7 @@ Tahtakayası
 
 On August 24, 2025, I departed from my camp on Meydan Plateau at 5:30 a.m. and reached the summit of Tahtakayası at approximately 8:45 a.m., marking the first peak of my Medetsiz traverse.
 ![20250824_Tahtakayasi](20250824_Tahtakayasi.jpeg "Tahtakayasi Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=219176611&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Koyunaşağı
@@ -32,7 +32,7 @@ Koyunaşağı
 
 On August 24, 2025, I left my camp on Meydan Plateau at 5:30 a.m., summited Tahtakayası (3,372 m) at 8:45 a.m., and continued on to reach Koyunaşağı at 9:40 a.m., marking the second peak of my Medetsiz traverse.
 ![20250824_Koyunasagi](20250824_Koyunasagi.jpeg "Koyunasagi Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=219176611&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Köpükgöl
@@ -43,7 +43,7 @@ Köpükgöl
 
 On August 24, 2025, I departed my camp on Meydan Plateau at 5:30 a.m., summited Tahtakayası (3,372 m) at 8:45 a.m., Koyunaşağı (3,431 m) at 9:40 a.m., and Medetsiz (3,524 m) at 11:50 a.m., before continuing on to reach Köpükgöl Hill (3,438 m) at 12:53 p.m., the fourth peak of my Medetsiz traverse.
 ![20250824_Kopukgol](20250824_Kopukgol.jpeg "Kopukgol Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=219176611&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Kızılkaya
