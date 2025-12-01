@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Mount Özyurt (Hacıbaba) (#2)
+==============
+
+-   Elevation: 2,481m
+-   Summit Date: November 30, 2025
+
+Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. I solo climbed it last year, but this time I returned with a friend, Özgür Culfa, to attempt a new route from the north side of the mountain. Since I couldn’t find any previous ascents using this line, we had to navigate and discover the route on our own. On November 30, 2025, I woke up at 4:45 a.m. and picked up Özgür at 5:40 a.m. We reached Özyurt village around 6:00 a.m. and started hiking at 6:15. I had previously scouted the lower section of the mountain and recorded the early part of the trail. We followed this track slowly so that by the time the recorded section ended, the sun would rise and give us enough visibility to choose the best line upward. We reached the summit shoulder around 10:30 a.m. From this point, the route transitioned to mixed rocky terrain requiring occasional hands-on movement. We continued carefully, but about 30 meters below the summit, Özgür decided the terrain wasn’t worth the risk. I continued the final push solo and reached the summit at around 12:45 p.m. After a short stay on the top, I descended back to where I had left Özgür, and we had our brunch there. We then began our descent, making our way down the long northern route. We arrived back at our car around 5:30 p.m., completing a full day of exploration and the first known attempt and successful ascent of this specific northern route.
+![20251130_Hacibaba](20251130_Hacibaba.jpeg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=242156925&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Kaldı
 ==============
 
@@ -273,7 +284,7 @@ We reached the summit between 9 and 10 a.m., taking in the breathtaking views. F
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=173603435&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Özyurt (Hacıbaba)
+Mount Özyurt (Hacıbaba) (#1)
 ==============
 
 -   Elevation: 2,481m
