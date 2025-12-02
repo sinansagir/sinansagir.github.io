@@ -2,7 +2,7 @@
 
 [Home](../README.md)
 
-Özyurt (Hacıbaba):2
+Özyurt (Hacıbaba) :2
 ==============
 
 -   Elevation: 2,481m
@@ -13,7 +13,7 @@
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=242156925&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Kaldı:1
+Kaldı :1
 ==============
 
 -   Elevation: 3,734m
@@ -24,7 +24,7 @@ Kaldı, the third-highest peak of the Aladağlar range in the Taurus Mountains, 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=230684984&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Medetsiz:1
+Medetsiz :1
 ==============
 
 -   Elevation: 3,524m
@@ -35,7 +35,7 @@ Medetsiz, the highest summit in the Bolkarlar mountain range of the Taurus Mount
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Tahtakayası:1
+Tahtakayası :1
 ==============
 
 -   Elevation: 3,372m
@@ -46,7 +46,7 @@ On August 24, 2025, I departed from my camp on Meydan Plateau at 5:30 a.m. and r
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Koyunaşağı:1
+Koyunaşağı :1
 ==============
 
 -   Elevation: 3,431m
@@ -57,7 +57,7 @@ On August 24, 2025, I left my camp on Meydan Plateau at 5:30 a.m., summited Taht
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Köpükgöl:1
+Köpükgöl :1
 ==============
 
 -   Elevation: 3,438m
@@ -68,7 +68,7 @@ On August 24, 2025, I departed my camp on Meydan Plateau at 5:30 a.m., summited 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Kızılkaya:1
+Kızılkaya :1
 ==============
 
 -   Elevation: 3,767m
@@ -79,7 +79,7 @@ Kızılkaya, the highest summit in the Aladağlar range and the second-highest p
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=227340076&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Karasay
+Karasay :1
 ==============
 
 -   Elevation: 3,550m
@@ -90,7 +90,7 @@ Karasay is considered one of the easier, non-technical summits of the Aladağlar
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=227340076&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Alaca (Lorut)
+Alaca (Lorut) :1
 ==============
 
 -   Elevation: 3,588m
@@ -101,7 +101,7 @@ Alaca (also known as Lorut) is the fifth-highest peak in the Aladağlar range, p
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=224926571&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Büyük Demirkazık (#2)
+Büyük Demirkazık :2
 ==============
 
 -   Elevation: 3,756m
@@ -112,7 +112,7 @@ Büyük Demirkazık, the second-highest summit in the Aladağlar range, is one o
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=220905642&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Hasan (#3)
+Mount Hasan :3
 ==============
 
 -   Elevation: 3,268m
