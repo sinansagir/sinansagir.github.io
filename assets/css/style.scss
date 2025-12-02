@@ -13,3 +13,14 @@ nav {
   width: 230px !important; /* Varsayılan nav genişliğini korur */
   -webkit-overflow-scrolling: touch;
 }
+
+footer {
+  position: fixed !important;
+  right: 10px !important;
+  left: auto !important;
+  bottom: 10px !important;
+  text-align: right !important;
+  width: auto !important;
+  background: none !important; /* İstersen kaldırılabilir */
+  z-index: 9999 !important;    /* Menünün üstünde görünsün */
+}
