@@ -2,7 +2,7 @@
 
 [Home](../README.md)
 
-Özyurt (Hacıbaba) (#2)
+Özyurt (Hacıbaba):2
 ==============
 
 -   Elevation: 2,481m
