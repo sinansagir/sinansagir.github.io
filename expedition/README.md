@@ -126,7 +126,7 @@ While the group took a one-hour break at the small summit, I seized the opportun
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=219069738&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Pilot Tepe
+Pilot Tepe :1
 ==============
 
 -   Elevation: 2,973m
@@ -137,7 +137,7 @@ Located in the beautiful Niğde Province of Türkiye, Pilot Tepe had been on my 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=218076862&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Dedegöl (#3)
+Dedegöl :3
 ==============
 
 -   Elevation: 2,998m
@@ -148,7 +148,7 @@ Mount Dedegöl, the highest peak in the Central Taurus Mountains, is located in 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=215156117&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Dedegöl (#2)
+Dedegöl :2
 ==============
 
 -   Elevation: 2,998m
@@ -159,7 +159,7 @@ Mount Dedegöl is the highest peak in the Central Taurus Mountains, located in I
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=209896323&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Kızlar Sivrisi
+Kızlar Sivrisi :1
 ==============
 
 -   Elevation: 3,070m
@@ -170,7 +170,7 @@ Kızlar Sivrisi, the highest peak in the Bey Dağları mountain range, is part o
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=205866607&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Erciyes (#2)
+Erciyes :2
 ==============
 
 -   Elevation: 3,917m
@@ -181,7 +181,7 @@ Mount Erciyes, an inactive volcano in Kayseri province, Türkiye, is the highest
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=203491398&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Emler (#2)
+Emler :2
 ==============
 
 -   Elevation: 3,723m
@@ -193,7 +193,7 @@ Emler is the fourth-highest peak in the Aladağlar mountain range, part of the T
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=199288867&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Hasan (#2)
+Mount Hasan :2
 ==============
 
 -   Elevation: 3,268m
@@ -204,7 +204,7 @@ Mount Hasan, a volcano located in Aksaray province, Türkiye, is one of the most
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=193507382&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Büyük Demirkazık (#1)
+Büyük Demirkazık :1
 ==============
 
 -   Elevation: 3,756m
@@ -219,7 +219,7 @@ The recorded trail below ends at the snowy section where we got stuck, as my pho
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189906915&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Küçük Demirkazık
+Küçük Demirkazık :1
 ==============
 
 -   Elevation: 3,456m
@@ -233,7 +233,7 @@ I was only able to record the trail one way because my phone battery died.
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189811174&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Erciyes (#1)
+Erciyes :1
 ==============
 
 -   Elevation: 3,917m
@@ -244,7 +244,7 @@ Mount Erciyes is an inactive volcano located in Kayseri province, Türkiye. It i
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=181529944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Emler (#1)
+Emler :1
 ==============
 
 -   Elevation: 3,723m
@@ -258,7 +258,7 @@ The Emler hike demands strong physical endurance and acclimatization to altitude
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=178126944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Aydos
+Aydos :1
 ==============
 
 -   Elevation: 3,425m
@@ -271,7 +271,7 @@ We started hiking immediately, following what is known as the ERDAK Club Route, 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=175810091&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Hasan (#1)
+Mount Hasan :1
 ==============
 
 -   Elevation: 3,268m
@@ -284,7 +284,7 @@ We reached the summit between 9 and 10 a.m., taking in the breathtaking views. F
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=173603435&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Özyurt (Hacıbaba) (#1)
+Özyurt (Hacıbaba) :1
 ==============
 
 -   Elevation: 2,481m
@@ -298,7 +298,7 @@ Although the elevation of Özyurt Mountain isn’t particularly high and the cli
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=157526178&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Dedegöl (#1)
+Dedegöl :1
 ==============
 
 -   Elevation: 2,998m
