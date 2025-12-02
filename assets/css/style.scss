@@ -3,29 +3,13 @@
 
 @import "{{ site.theme }}";
 
-/* --- Force sidebar scroll (high specificity + !important) --- */
+/* ===========================
+   Leap Day Menü Scroll Fix
+   =========================== */
 
-/* Generic tries for common theme patterns */
-body #sidebar,
-body .sidebar,
-body aside,
-body nav.sidebar,
-body .site-sidebar,
-body .sidebar-nav,
-body .site-navigation {
-  max-height: 100vh !important;
-  overflow-y: auto !important;
-  -webkit-overflow-scrolling: touch !important;
-  padding-right: 12px !important;
-  box-sizing: border-box !important;
-}
-
-/* If the sidebar is a fixed column, ensure it won't expand the page */
-body .site-wrapper > .sidebar,
-body .site-wrapper > aside {
-  height: 100vh !important;
-}
 nav {
-  max-height: calc(100vh - 250px) !important; /* sayfa başlığı ve banner yüksekliği çıkarılıyor */
+  max-height: calc(100vh - 250px) !important;
   overflow-y: auto !important;
+  width: 230px !important; /* Varsayılan nav genişliğini korur */
+  -webkit-overflow-scrolling: touch;
 }
