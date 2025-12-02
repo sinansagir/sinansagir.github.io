@@ -1,11 +1,17 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}";   /* Önce tema css'si yüklenecek */
 
-nav, .sidebar, #sidebar, .sidebar-nav {
-  max-height: 100vh;
-  overflow-y: auto;
-  padding-right: 10px;
+/* Leap Day temasında sol menü #sidebar altında bir <nav> öğesi */
+#sidebar {
+  max-height: 100vh !important;   /* Yükseklik ekranla sınırlı */
+  overflow-y: auto !important;    /* Dikey scroll */
+  padding-right: 10px;            /* Scroll bar sıkışmasın */
 }
 
+/* Menünün içindeki <nav>'a özel */
+#sidebar nav {
+  max-height: 100vh !important;
+  overflow-y: auto !important;
+}
