@@ -1,0 +1,10 @@
+/* Sidebar nav alanını dikey olarak scrollable yapar */
+nav, 
+/* Eğer Leap-Day tema başka element kullanıyorsa: */
+.sidebar, 
+#sidebar, 
+.sidebar-nav {
+  max-height: 100vh;    /* viewport yüksekliğini aşmasın */
+  overflow-y: auto;     /* dikey kaydırma aktif */
+  padding-right: 10px;  /* scrollbar gömme için hafif boşluk */
+}
