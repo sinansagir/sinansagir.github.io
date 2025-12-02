@@ -13,7 +13,7 @@
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=242156925&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Kaldı
+Kaldı:1
 ==============
 
 -   Elevation: 3,734m
@@ -24,7 +24,7 @@ Kaldı, the third-highest peak of the Aladağlar range in the Taurus Mountains, 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=230684984&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Medetsiz
+Medetsiz:1
 ==============
 
 -   Elevation: 3,524m
@@ -35,7 +35,7 @@ Medetsiz, the highest summit in the Bolkarlar mountain range of the Taurus Mount
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Tahtakayası
+Tahtakayası:1
 ==============
 
 -   Elevation: 3,372m
@@ -46,7 +46,7 @@ On August 24, 2025, I departed from my camp on Meydan Plateau at 5:30 a.m. and r
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Koyunaşağı
+Koyunaşağı:1
 ==============
 
 -   Elevation: 3,431m
@@ -57,7 +57,7 @@ On August 24, 2025, I left my camp on Meydan Plateau at 5:30 a.m., summited Taht
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Köpükgöl
+Köpükgöl:1
 ==============
 
 -   Elevation: 3,438m
@@ -68,7 +68,7 @@ On August 24, 2025, I departed my camp on Meydan Plateau at 5:30 a.m., summited 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Kızılkaya
+Kızılkaya:1
 ==============
 
 -   Elevation: 3,767m
