@@ -2,7 +2,7 @@
 
 [Home](../README.md)
 
-Mount Özyurt (Hacıbaba) (#2)
+Özyurt (Hacıbaba) (#2)
 ==============
 
 -   Elevation: 2,481m
@@ -137,7 +137,7 @@ Located in the beautiful Niğde Province of Türkiye, Pilot Tepe had been on my 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=218076862&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Dedegöl (#3)
+Dedegöl (#3)
 ==============
 
 -   Elevation: 2,998m
@@ -148,7 +148,7 @@ Mount Dedegöl, the highest peak in the Central Taurus Mountains, is located in 
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=215156117&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Dedegöl (#2)
+Dedegöl (#2)
 ==============
 
 -   Elevation: 2,998m
@@ -159,7 +159,7 @@ Mount Dedegöl is the highest peak in the Central Taurus Mountains, located in I
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=209896323&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Kızlar Sivrisi
+Kızlar Sivrisi
 ==============
 
 -   Elevation: 3,070m
@@ -170,7 +170,7 @@ Kızlar Sivrisi, the highest peak in the Bey Dağları mountain range, is part o
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=205866607&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Erciyes (#2)
+Erciyes (#2)
 ==============
 
 -   Elevation: 3,917m
@@ -233,7 +233,7 @@ I was only able to record the trail one way because my phone battery died.
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189811174&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Erciyes
+Erciyes (#1)
 ==============
 
 -   Elevation: 3,917m
@@ -258,7 +258,7 @@ The Emler hike demands strong physical endurance and acclimatization to altitude
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=178126944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Aydos
+Aydos
 ==============
 
 -   Elevation: 3,425m
@@ -284,7 +284,7 @@ We reached the summit between 9 and 10 a.m., taking in the breathtaking views. F
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=173603435&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Özyurt (Hacıbaba) (#1)
+Özyurt (Hacıbaba) (#1)
 ==============
 
 -   Elevation: 2,481m
@@ -298,7 +298,7 @@ Although the elevation of Özyurt Mountain isn’t particularly high and the cli
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=157526178&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Dedegöl (#1)
+Dedegöl (#1)
 ==============
 
 -   Elevation: 2,998m
