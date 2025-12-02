@@ -25,3 +25,7 @@ body .site-wrapper > .sidebar,
 body .site-wrapper > aside {
   height: 100vh !important;
 }
+nav {
+  max-height: calc(100vh - 250px) !important; /* sayfa başlığı ve banner yüksekliği çıkarılıyor */
+  overflow-y: auto !important;
+}
