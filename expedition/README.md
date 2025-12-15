@@ -2,6 +2,28 @@
 
 [Home](../README.md)
 
+Özyurt (Hacıbaba) :4
+==============
+
+-   Elevation: 2,481m
+-   Summit Date: December 14, 2025
+
+Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. This ascent marked my fourth attempt on the mountain, once again accompanied by my friend Özgür Culfa. Notably, I had summited Özyurt solo just one day earlier, making this back-to-back effort both physically and mentally demanding. For this climb, we aimed to explore yet another new route, approaching from the western side near Muratdede village. On December 14, 2025, I woke at 5:00 a.m. and picked up Özgür at 7:30 a.m. We reached the trailhead near Muratdede village around 8:30 a.m. and began hiking immediately. Based on my ascent the previous day, I was already familiar with the increasing snow coverage at higher elevations. We made steady progress and reached the summit shoulder around 12:30 p.m. From there, the terrain transitioned into technical ridge climbing, with deep, compact snow significantly increasing both exposure and difficulty. From this point onward, I continued the final push solo, carefully managing each step along the ridge, and reached the summit at approximately 1:30 p.m. After a brief stay at the top, I descended back to where I had left Özgür. During our break, we noticed a domestic goat on the mountain and soon realized it was the same goat we had encountered during our climb two weeks earlier. Shy yet clearly curious, it approached us several times while we rested, sharing tea and food. We offered it some fruit and salty snacks before beginning our descent. We followed the same route down and reached our car around 5:30 p.m., concluding a challenging and memorable winter ascent—made even more special by an unexpected reunion on the mountain.
+![20251214_Hacibaba](20251214_Hacibaba.jpeg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=243780168&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Özyurt (Hacıbaba) :3
+==============
+
+-   Elevation: 2,481m
+-   Summit Date: December 13, 2025
+
+Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. This ascent marked my third attempt on the mountain and my second solo climb. For this outing, I chose to explore another new route, this time approaching from the western side near Kızılyaka village. On December 13, 2025, after final preparations, I left home around 10:00 a.m. and arrived at the trailhead at 10:45 a.m., beginning the ascent immediately. Snow coverage became visible at higher elevations, gradually increasing as I gained altitude. Upon reaching the summit shoulder, the route transitioned into technical ridge climbing, with deep and compact snow significantly increasing the difficulty. Progress from this point required careful movement and precise foot placement to manage exposure and maintain safety. Despite the conditions, I continued steadily and reached the summit at approximately 1:30 p.m. I spent some time at the top enjoying the winter scenery, accompanied by tea and food, before beginning my descent at 2:10 p.m. Following the same route, I returned safely to my vehicle around 3:40 p.m., completing a demanding but rewarding solo ascent.
+![20251213_Hacibaba](20251213_Hacibaba.jpeg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=243602062&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Özyurt (Hacıbaba) :2
 ==============
 
