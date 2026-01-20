@@ -2,21 +2,10 @@
 
 [Home](../README.md)
 
-Geometrik Optik I (Bahar 2025)
+Fizik Laboratuvarı II (Bahar 2026)
 ==============
 
 -   [Devamsızlık Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV53c3XX2q1yzArHtPsvQ4sMrUQealDMIQ6kLNnhmuwwABCH9TKujolVfxAQ5UW0STkXIhHuJX4EE6/pubhtml)
-![VizeBahar2025](hist_vize_bahar25.png "Arasınav Not Dağılımı")
-
-Optisyenlik Uygulamaları I (Bahar 2025)
-==============
-
--   [Devamsızlık Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSJnChBSFis6_sRqu89AYQoFvEGcBj9TqfAATOTaRhQedPjje1paT-pQvUJSaiDnImw9fIqqHfZk2a/pubhtml)
-
-Optisyenlik Uygulamaları III (Bahar 2025)
-==============
-
--   [Devamsızlık Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBQ2Qoeh2KuyrjkV47TB30bvSdzk4YM_qkaenjbzNosIb2N6pvYjr3Uk571wRo8UVCsB0wUZdAMB4h/pubhtml)
 
 <!---
 Temel Bilgi Teknolojileri Kullanımı (Güz 2024)
