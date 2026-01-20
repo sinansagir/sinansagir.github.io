@@ -2,10 +2,10 @@
 
 [Home](../README.md)
 
-Current Courses (Fall 2025)
+Current Courses (Spring 2026)
 ==============
 
--   Fizik I (Fen Bilgisi Öğretmenliği) [Handouts](./handouts/README.md)
+-   Fizik Laboratuvarı II (Matematik) [Handouts](./handouts/README.md)
 
 Past Courses
 ============
