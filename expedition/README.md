@@ -2,6 +2,18 @@
 
 [Home](../README.md)
 
+Özyurt (Hacıbaba) :8
+==============
+
+-   Elevation: 2,481m
+-   Summit Date: January 25, 2026
+
+Özyurt Mountain, locally known as Hacıbaba, stands as the highest summit in Karaman Province, Türkiye. This climb marked my eighth attempt on the mountain and my fourth solo ascent of the mountain. My objective this time was to investigate yet another new route, approaching from the western side near Muratdede village. I set out on January 25, 2026, waking at 6:20 a.m. and reaching the starting point shortly afterward. I began moving at 8:15 a.m., encountering continuous snow cover from the very first steps of the route. The snowpack was inconsistent—alternating between firm, icy sections and softer, unconsolidated layers—forcing a slow pace and careful movement throughout the climb. The ascent followed a gradual line toward the southern shoulder, from where I transitioned onto the summit ridge. Progress along the ridge demanded constant evaluation due to changing footing and exposure. I topped out at approximately 1:50 p.m., under clear and calm conditions. With the weather cooperating, I was able to linger on the summit, taking in the expansive views and refueling before the descent. During the final ridge traverse, I noticed climbers approaching from the eastern, standard route. They arrived roughly half an hour later, and we shared the summit briefly before visibility began to deteriorate as fog moved in, signaling it was time to leave. At 2:45 p.m., I started my descent, intentionally choosing a separate westward ridge to complete the loop. Despite improving visibility lower down, the mixed snow conditions continued to demand focus until I exited the technical terrain. I returned to the trailhead around 5:15 p.m., closing out a physically taxing and mentally demanding winter ascent—one that required disciplined pacing, conservative judgment, and sustained attention in complex terrain.
+![20260125_Hacibaba](20260125_Hacibaba.jpeg "Hacibaba Peak")
+![20260125_Hacibaba2](20260125_Hacibaba2.jpeg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=248268615&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Özyurt (Hacıbaba) :7
 ==============
 
