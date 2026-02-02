@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Özyurt (Hacıbaba) :5
+==============
+
+-   Elevation: 2,310m
+-   Summit Date: February 1, 2026
+
+Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent marked my first climb of the mountain, carried out as part of the SEDAK team from Konya. We chose the classical Yeşiltekke route, aiming for a clean and efficient winter ascent. On February 1, 2026, I woke at 6:15 a.m. and met three teammates in Karaman, from where we drove together to Yeşiltekke. We arrived at the trailhead around 8:30 a.m. and waited for the rest of the SEDAK team coming from Konya. Once the group was complete, we started the hike at 9:45 a.m. The ascent progressed steadily. Above approximately 2,000 meters, snow coverage increased noticeably, but both the weather and snow conditions remained stable and supportive, allowing for consistent movement without major technical difficulty. We reached the summit at around 1:30 p.m. and spent some time there enjoying the views while taking a relaxed break for food and drinks. We began our descent at 2:15 p.m., following the same route back down. The return was uneventful, and we completed the climb around 5:15 p.m., finishing a pleasant and well-paced winter ascent of Sultan Dediği Mountain.
+![20260201_SultanDedigi](20260201_SultanDedigi.jpeg "Sultan Dediği Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=249034155&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Özyurt (Hacıbaba) :8
 ==============
 
