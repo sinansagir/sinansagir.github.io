@@ -2,7 +2,7 @@
 
 [Home](../README.md)
 
-Özyurt (Hacıbaba) :5
+Sultan Dediği :1
 ==============
 
 -   Elevation: 2,310m
