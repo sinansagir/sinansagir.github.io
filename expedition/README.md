@@ -2,6 +2,18 @@
 
 [Home](../README.md)
 
+Özyurt (Hacıbaba) :9
+==============
+
+-   Elevation: 2,481m
+-   Summit Date: February 14, 2026
+
+Özyurt Mountain, locally referred to as Hacıbaba, is the highest peak in Karaman Province, Türkiye. This climb represented my ninth attempt on the mountain and my fifth solo ascent. My goal was to revisit a previously used western approach near Kızılyaka village, this time modifying the line to incorporate an extended south-to-north ridge traverse. On February 14, 2026, after completing final preparations, I left home at 10:00 a.m., reached the trailhead at 11:05 a.m., and began hiking at 11:20 a.m. Fresh snow covered the lower elevations, likely from the previous day, and was already beginning to soften under rising temperatures. I initially followed the gravel road leading toward the marble quarry, then at approximately 1,900 meters diverted toward the southern start of the ridge. Snow depth increased progressively with elevation. Once on the ridge, sections of the route became more technical, with deep, wind-compacted snow adding both physical strain and exposure. Movement required deliberate pacing, stable footing, and continuous terrain assessment to maintain safety along the crest. Maintaining a steady rhythm, I reached the summit at approximately 2:55 p.m. Conditions at the top were calm enough to allow a short but enjoyable break, during which I took in the winter landscape and had tea and food. I began descending at 3:25 p.m., choosing a different line via the northern ridge to complete the traverse. The descent demanded continued focus but remained manageable, and I returned to my vehicle safely at around 5:40 p.m., concluding a physically demanding yet highly satisfying solo winter ascent.
+![20260214_Hacibaba](20260214_Hacibaba.jpeg "Hacibaba Peak")
+![20260214_Hacibaba2](20260214_Hacibaba2.jpeg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=250417784&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Sultan Dediği :1
 ==============
 
