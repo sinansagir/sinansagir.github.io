@@ -6,6 +6,10 @@ Fizik Laboratuvarı II (Bahar 2026)
 ==============
 
 -   [Devamsızlık Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vRV53c3XX2q1yzArHtPsvQ4sMrUQealDMIQ6kLNnhmuwwABCH9TKujolVfxAQ5UW0STkXIhHuJX4EE6/pubhtml)
+-   [Deney 1: Ohm Yasası](https://www.youtube.com/shorts/J-vRQvayeBI)
+-   [Deney 2: RC devresi](https://www.youtube.com/watch?v=P67bm3k24U0)
+-   [Deney 3: Dielektrik sabiti](https://www.youtube.com/shorts/1nwL7oSlT84)
+-   [Deney 4: Wheatstone köprüsü](https://www.youtube.com/shorts/sTCPxtrMnIw)
 
 <!---
 Temel Bilgi Teknolojileri Kullanımı (Güz 2024)
