@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Dedegöl :4
+==============
+
+-   Elevation: 2,998m
+-   Summit Date: February 22, 2026
+
+Mount Dedegöl, the highest peak of the Central Taurus Mountains, is located in Isparta Province, Türkiye. This ascent marked my fourth time on the mountain, undertaken as part of the Summit Turkey team. On February 22, 2026, I arrived at the Vali Fountain around 5:00 p.m. Due to snow-covered sections along the gravel access road, it was not possible to continue by car. As a result, I carried all my equipment—including camping and technical gear—and hiked up to Melikler Plateau. By the time I reached the plateau, the rest of the team had already established camp. I quickly set up my tent and completed preparations for the early alpine start. The following morning, I woke at 3:30 a.m., and we began the ascent at 4:45 a.m. under cold but stable conditions. Maintaining a steady pace, we gained elevation gradually and reached the summit at 11:30 a.m. The winter landscape was exceptional—clear skies, expansive snowfields, and dramatic alpine light combined to create what was likely one of the most stunning winter panoramas I have experienced on Dedegöl. After a brief but memorable summit break, we began descending at 12:20 p.m. and returned to camp around 3:30 p.m. Once back at Melikler Plateau, we packed our equipment and departed at approximately 5:00 p.m., concluding a physically demanding yet visually unforgettable winter ascent.
+![20260222_Dedegol](20260222_Dedegol.jpeg "Dedegol Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=251686599&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Özyurt (Hacıbaba) :9
 ==============
 
