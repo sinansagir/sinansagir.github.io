@@ -2,6 +2,20 @@
 
 [Home](../README.md)
 
+Özyurt (Hacıbaba) :10
+==============
+
+-   Elevation: 2,481m
+-   Summit Date: March 7, 2026
+
+Özyurt Mountain, locally known as Hacıbaba, is the highest peak in Karaman Province, Türkiye. This outing marked my tenth time on the mountain and my sixth solo ascent. For this attempt, I planned to investigate another northwestern line, starting near Akarköy village. On March 7, 2026, after completing my preparations, I left home at 7:30 a.m. I arrived at the trailhead at 8:15 a.m. and began hiking at 8:30 a.m. The morning started under low visibility due to fog, and the forecast indicated that strong winds would develop around midday. The lower part of the climb progressed smoothly up to about 1,800 meters. Beyond this point, the conditions became significantly more demanding. Snow depth increased, and strong northerly winds began to affect balance and movement. In several places, the terrain required more careful climbing, as wind-packed snow formed unstable and physically taxing sections along the route. With the gusts occasionally forcing me to stop and regain stability, progress became slower and more deliberate. Each step required careful placement and constant attention to the terrain to maintain a safe line along the ridge. Despite these difficulties, I continued upward at a controlled pace and reached the summit at approximately 1:25 p.m. Conditions on the summit were harsh, with strong wind and poor visibility, so my stay was brief. After a quick cup of tea, I began descending at 1:40 p.m. I initially retraced my line along the northern ridge, then later diverted onto a separate east–west running ridge to complete the planned traverse. After a long but controlled descent through the windy upper slopes and snowy terrain, I reached my vehicle at around 6:15 p.m., finishing another physically demanding yet deeply rewarding solo winter ascent of Hacıbaba.
+![20260307_Hacibaba](20260307_Hacibaba.jpeg "Hacibaba Peak")
+![20260307_Hacibaba2](20260307_Hacibaba2.jpeg "Hacibaba Peak")
+![20260307_Hacibaba3](20260307_Hacibaba3.jpeg "Hacibaba Peak")
+![20260307_Hacibaba4](20260307_Hacibaba4.jpeg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=253319904&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Dedegöl :4
 ==============
 
