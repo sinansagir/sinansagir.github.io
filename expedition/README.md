@@ -411,7 +411,7 @@ The first attempt was on October 28, 2023, but I had to abandon the hike due to 
 On January 6, 2024, I decided to make a third attempt, this time solo. I successfully reached the summit at around 3:30 p.m. Unfortunately, it got dark half way down and I was descending along a different trail down than the one I had taken up. While the trail wasn’t technical, it was rocky, and my physical fitness wasn’t adequate for such a challenging hike. By the time I finished, my legs were trembling, I struggled to sit for several days, and my toes were covered in blisters.
 Although the elevation of Özyurt Mountain isn’t particularly high and the climb isn’t technical, it does demand a good level of physical fitness—especially for the route I chose. That said, there are alternative, easier trails available for summiting this peak.
 ![20240106_Hacibaba](20240106_Hacibaba.jpeg "Hacibaba Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=157526178&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=253616203&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Dedegöl :1
