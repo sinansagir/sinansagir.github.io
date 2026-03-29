@@ -2,6 +2,34 @@
 
 [Home](../README.md)
 
+Göllücebaşı :1
+==============
+
+-   Elevation: 3,137m
+-   Summit Date: March 28, 2026
+
+Göllücebaşı is one of the prominent summits of the Bolkarlar range in the Taurus Mountains. After completing my solo Medetsiz traverse earlier, I had been eager to return—this time to experience the region under full winter conditions. I monitored the weather closely for weeks and finally found a suitable window, deciding to set out solo once again. On March 28, 2026, I woke at 4:30 a.m., left home at 5:30 a.m., and arrived in Maden village at 7:40 a.m. The road beyond this point, leading to Meydan Plateau, was completely impassable due to snow, so I began my approach on foot. After roughly 6 km of hiking, I reached Meydan Plateau at 9:30 a.m. and continued toward the high alpine basin. My first major waypoint was Karagöl, which I reached at 11:00 a.m. The lake was entirely frozen and buried under a thick layer of snow. I crossed it directly and continued toward Çiniligöl, arriving at 11:40 a.m. Like Karagöl, it was fully frozen and heavily snow-covered. After crossing Çiniligöl, I began the main ascent toward Göllücebaşı, clearly visible ahead. Although the weather was ideal—clear skies, no wind, and strong sun—the long approach began to take its toll. Progress slowed significantly, often limited to short bursts of 10–15 meters followed by rest. Unsure whether I could reach the summit in time, I set a turnaround time of 2:00 p.m. However, at that point I found myself only about 200 meters below the summit, and turning back so close did not feel right. Estimating that the descent would be faster, I decided to continue. I reached the summit of Göllücebaşı at 3:00 p.m. After about 20 minutes on top—enjoying the expansive winter landscape with tea and snacks—I continued my traverse instead of retracing my steps. Descending toward Gökboyun, I reached its summit at 3:40 p.m., roughly 20 minutes below Göllücebaşı. From there, I followed a line west of the lakes, returning to Meydan Plateau at 5:10 p.m. The final 6 km back to Maden village proved particularly exhausting, as the warming temperatures had softened the snow, making each step more demanding. I eventually reached the village at 7:20 p.m., completing a long and physically taxing day. This outing turned into a challenging yet deeply rewarding solo winter traverse, linking two frozen lakes and two summits in the heart of the Bolkarlar.
+![20260328_Gollucebasi](20260328_Gollucebasi.jpeg "Gollucebasi Peak")
+![20260328_Gollucebasi1](20260328_Gollucebasi1.jpeg "Gollucebasi Peak")
+![20260328_Gollucebasi2](20260328_Gollucebasi2.jpeg "Gollucebasi Peak")
+![20260328_Gollucebasi3](20260328_Gollucebasi3.jpeg "Gollucebasi Peak")
+![20260328_Gollucebasi4](20260328_Gollucebasi4.jpeg "Gollucebasi Peak")
+![20260328_Gollucebasi5](20260328_Gollucebasi5.jpeg "Gollucebasi Peak")
+![20260328_Gollucebasi6](20260328_Gollucebasi6.jpeg "Gollucebasi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=256376080&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Gökboyun :1
+==============
+
+-   Elevation: 2,925m
+-   Summit Date: March 28, 2026
+
+On March 28, 2026, I reached the summit of Gökboyun at approximately 3:40 p.m. while descending from Göllücebaşı.
+![20260328_Gokboyun](20260328_Gokboyun.jpeg "Gokboyun Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=256376080&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Özyurt (Hacıbaba) :10
 ==============
 
