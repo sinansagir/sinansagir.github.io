@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Mount Hasan :4
+==============
+
+-   Elevation: 3,268m
+-   Summit Date: April 12, 2026
+
+Mount Hasan, a volcano located in Aksaray province, Türkiye, is one of the most prominent peaks in Anatolia. This climb marked my fourth ascent of the mountain and my second winter experience. For this adventure, I once again joined the SEDAK mountaineering group. On April 11, 2026, I arrived at the base of the mountain—near Karbeyaz Hotel, an area that also offers several convenient camping spots. I reached the site around 5:00 p.m. and was expecting the rest of the group to arrive early the next morning. This area is usually crowded with mountaineers, but this time I was completely alone. After setting up my tent, I went to explore the beginning of our route for the next day. When I returned, another climber had also arrived early to camp before the ascent. We had dinner together and went to bed early, anticipating the group’s arrival around 4:00 a.m. We began our ascent at 4:45 a.m. via the Yılankar route, a classic line that is slightly steeper than the broader southern approach. Snow was minimal at the start but quickly increased with elevation. At lower altitudes, the snow was soft, but as we climbed higher and the terrain steepened, it became increasingly icy. At that point, we put on our technical gear—crampons and ice axes. The weather was unstable throughout the climb, shifting constantly between calm, sunny conditions and foggy, snowy periods. By 11:10 a.m., we reached the summit. Due to the poor weather, we initially planned to keep our stay short and have breakfast during the descent. However, conditions began to improve, and a clear window opened just as we arrived. Taking advantage of this, we spent about an hour on the summit—eating, resting, and enjoying the view, which revealed itself only during our time there. We started our descent around 12:15 p.m. and returned to the campsite at approximately 3:00 p.m.
+![20260412_Hasan](20260412_Hasan.jpeg "Hasan Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=258982633&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Göllücebaşı :1
 ==============
 
@@ -262,7 +273,7 @@ Mount Hasan :3
 -   Elevation: 3,268m
 -   Summit Date: June 22, 2025
 
-Mount Hasan, an impressive stratovolcano in Türkiye’s Aksaray province, stands as one of the most prominent peaks in Anatolia. On June 21, 2024, I arrived at the mountain’s base—an area near Karbeyaz Hotel that also offers several convenient camping spots. I reached the site around 8:00 p.m., set up my tent, had dinner, and went to bed early, anticipating an early start with the SEDAK hiking group, which was scheduled to arrive around 3:00 a.m.
+Mount Hasan, an impressive stratovolcano in Türkiye’s Aksaray province, stands as one of the most prominent peaks in Anatolia. On June 21, 2025, I arrived at the mountain’s base—an area near Karbeyaz Hotel that also offers several convenient camping spots. I reached the site around 8:00 p.m., set up my tent, had dinner, and went to bed early, anticipating an early start with the SEDAK hiking group, which was scheduled to arrive around 3:00 a.m.
 We began our ascent at 3:40 a.m. via the route known as Yılankar, which is considered a classical yet slightly steeper option than the broader southern approach. The route starts with a moderate incline over scree and transitions into rocky, semi-steep terrain around 2,800 meters. Snow presence was minimal to none, and no technical gear was required. 
 By 8:15 a.m., we had reached the so-called "small summit" at 3,256 meters. This is the point where most hikers conclude their climb and consider it the summit of Mount Hasan. However, across the crater lies the mountain’s true summit, slightly higher at 3,268 meters.
 While the group took a one-hour break at the small summit, I seized the opportunity to solo traverse the crater and reach the true summit on the opposite side. I returned around 9:40 a.m., rejoined the group, and we began our descent shortly after at 9:50 a.m. We arrived back at the campsite around 1:30 p.m.
