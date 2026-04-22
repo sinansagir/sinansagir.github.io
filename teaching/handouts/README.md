@@ -10,6 +10,7 @@ Fizik Laboratuvarı II (Bahar 2026)
 -   [Deney 2: RC devresi](https://www.youtube.com/watch?v=P67bm3k24U0)
 -   [Deney 3: Dielektrik sabiti](https://www.youtube.com/shorts/1nwL7oSlT84)
 -   [Deney 4: Wheatstone köprüsü](https://www.youtube.com/shorts/sTCPxtrMnIw)
+![VizeBahar2026](hist_vize_bahar26.png "Arasınav Not Dağılımı")
 
 <!---
 Temel Bilgi Teknolojileri Kullanımı (Güz 2024)
