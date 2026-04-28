@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Mount Bolkardede :1
+==============
+
+-   Elevation: 2,690m
+-   Summit Date: April 23, 2026
+
+Bolkardede is one of the prominent summits of the Bolkarlar range in the Taurus Mountains. It is located in the Ayrancı district of Karaman province, near Çatköy village. This outing was an unplanned solo ascent. On April 23, 2026—National Sovereignty and Children’s Day—I traveled to Ayrancı with my family for sightseeing. While there, I decided to explore the Bolkardede area, a peak I had been considering climbing for some time, although I wasn’t sure how close I could get by vehicle. We managed to reach a point relatively close to the summit at around 4:30 p.m., at an elevation of approximately 2,100 meters. From there, the remaining ascent involved about 550–600 meters of elevation gain. Despite the late hour, I decided to give it a shot. I started climbing at around 4:40 p.m. and reached the summit within an hour. The route was largely covered with snow, but conditions did not require crampons or an ice axe. I spent about 20 minutes at the summit before descending, returning to the starting point in roughly 40 minutes and completing the outing around 6:40 p.m. At the summit, I noticed some structures marked as a tomb. After returning, I researched the site further and discovered that it has a history dating back approximately 800 years. The location is known as Bulgar Bozoğlan Hill, named after a person believed to have died there centuries ago.
+![20260423_Bolkardede](20260423_Bolkardede.jpeg "Bolkardede Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=260774624&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Hasan :4
 ==============
 
