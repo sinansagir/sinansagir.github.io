@@ -2,6 +2,30 @@
 
 [Home](../README.md)
 
+Mount Yıldız :1
+==============
+
+-   Elevation: 3,134m
+-   Summit Date: May 1, 2026
+
+Mount Yıldız is one of the prominent summits of the Bolkarlar range in the Taurus Mountains, located on the border of Mersin and Karaman provinces. This outing was a solo ascent linking two summits—Yıldız first, followed by Çakırcan. On May 1, 2026, I woke up at 4:30 a.m., left home at 5:00 a.m., and reached the starting point of the climb at 7:20 a.m. The approach from Çatköy village involves about 33 km of gravel road. The previous week, I had driven 15 km of it to reach the base of Bolkardede, but the remaining 18 km was unknown to me in terms of accessibility. Fortunately, the road had been cleared of snow up to about 2 km before my planned trailhead. A snowplow left at that point suggested the clearing had been completed just the day before—an unexpected stroke of luck. I was happy to add the extra 2 km to the approach on foot. I started climbing at around 7:30 a.m. After approximately 7 km of hiking and 850 meters of elevation gain, I reached the summit of Mount Yıldız at 10:25 a.m. My plan was to continue to Mount Çakırcan. Based on my initial assessment using an online map, it appeared to be an additional 5 km traverse from Yıldız—challenging but manageable. However, the terrain proved to be far more demanding than expected. From Yıldız, I estimated the location of Çakırcan visually; it seemed distant but achievable. I reached what I initially believed to be the summit at around 1:25 p.m., only to realize that Çakırcan lay further beyond. Frustrated but determined, I pushed on and finally reached the true summit at 2:00 p.m. By that point, my total distance had reached 13.8 km—meaning I had the same distance to cover on the return. More concerning was the terrain between Çakırcan and Yıldız, which required descending and then re-ascending roughly 300 meters. Aware of the late hour and the long return ahead, I began my descent after a quick break. Clouds were moving in, and increasing fog significantly reduced visibility. To minimize risk, I chose to retrace my exact route, following my own tracks whenever visibility deteriorated. I reached the summit of Mount Yıldız again at 5:40 p.m. Strong winds prevented any pause, and I immediately continued descending. I arrived back at the starting point at 8:00 p.m., completing a long and physically demanding day. What began as a straightforward plan evolved into a challenging yet deeply rewarding solo winter traverse—linking two remote summits in the heart of the Bolkarlar.
+![20260501_Yildiz_web](20260501_Yildiz_web.jpeg "Yildiz Peak")
+![20260501_Yildiz](20260501_Yildiz.jpeg "Yildiz Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=262242828&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Çakırcan :1
+==============
+
+-   Elevation: 3,151m
+-   Summit Date: May 1, 2026
+
+On May 1, 2026, I stood on the summit of Çakırcan at approximately 2:00 p.m., having continued on from Yıldız as described above.
+![20260501_Cakircan_web](20260501_Cakircan_web.jpeg "Cakircan Peak")
+![20260501_Cakircan](20260501_Cakircan.jpeg "Cakircan Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=262242828&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Bolkardede :1
 ==============
 
