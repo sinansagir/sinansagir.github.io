@@ -2,6 +2,17 @@
 
 [Home](../README.md)
 
+Özyurt (Hacıbaba) :11
+==============
+
+-   Elevation: 2,481m
+-   Summit Date: May 10, 2026
+
+Özyurt Mountain, locally known as Hacıbaba, is the highest peak in Karaman Province, Türkiye. This outing marked my eleventh ascent of the mountain and my seventh solo climb. This was an entirely unplanned trip. I was having a quiet Sunday when, close to noon, I suddenly decided to climb the mountain. I left home around 11:45 a.m., stopped briefly for some shopping and lunch on the way, and reached the trailhead at approximately 1:00 p.m. After a quick meal there, I began the ascent at 1:15 p.m. I followed one of my previous routes, starting from the Kızılyaka village side and continuing along an extended south-to-north ridge traverse. I reached the summit at 4:00 p.m. After spending around 40 minutes on the summit, I began my descent and returned to the trailhead at approximately 6:30 p.m. During the descent, I encountered a group of nomads gathering goats that had apparently been attacked by wolves. Around 10–15 animals had been killed—possibly even more—and while I was there, they managed to recover one wounded goat alive.
+![20260510_Hacibaba](20260510_Hacibaba.jpeg "Hacibaba Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=263680553&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Yıldız :1
 ==============
 
