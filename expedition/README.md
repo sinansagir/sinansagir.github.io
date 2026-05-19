@@ -2,6 +2,29 @@
 
 [Home](../README.md)
 
+Mount Orta :1
+==============
+
+-   Elevation: 2,639m
+-   Summit Date: May 19, 2026
+
+Orta Mountain is one of the prominent summits of the Bolkarlar range in the Taurus Mountains, located in Karaman, Türkiye. This was my first ascent of the mountain and a solo undertaking. On May 19, 2026, I woke up at 5:40 a.m., left home at 6:30 a.m., and reached the starting point of the climb at 8:20 a.m. I approached the mountain from Berendi village, following approximately 10 km of gravel road. I began the ascent at 8:25 a.m. Since the road had already brought me to nearly 2,200 meters in elevation, the climb itself was relatively easy. I reached the summit at 9:40 a.m. The summit was extremely windy and cold, so I did not stay long and immediately began descending. I returned to the starting point at 11:20 a.m., completing a short, easy, and relaxing day in the Bolkarlar.
+![20260519_OrtaDag](20260519_OrtaDag.jpeg "OrtaDag Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=264998059&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Reze (Büyük Gözet) :1
+==============
+
+-   Elevation: 2,529m
+-   Summit Date: May 17, 2026
+
+Reze Mountain, also known as Büyük Gözet, is one of the prominent peaks of the Küpe mountain range in Konya, Türkiye. This was my first ascent of the mountain and a solo undertaking. At around 8:50 a.m., I arrived at the trailhead, located approximately 1 km beyond the dam near Taraşçı village, and began climbing at 9:00 a.m. I followed a route that ascends directly toward Kızılgeçit. Below Kızılgeçit, I encountered hard snow conditions that I had not anticipated, and as a result, I had not brought technical equipment. Crossing the snowy sections without crampons or an ice axe required careful foot placement and constant attention. The terrain was highly exposed, with steep drop-offs adding to the seriousness of the traverse. After Kızılgeçit, both the exposure and snow coverage decreased significantly. I reached the first summit, Büyük Gözet, at around 1:00 p.m. For the descent, I decided not to retrace my ascent route due to the risks posed by the exposed snow traverse. Instead, I chose to continue traversing the range toward Reze Beli. This decision also gave me the opportunity to climb the highest point of the range, Küpe Sivrisi, which I reached at approximately 2:50 p.m. I then continued the traverse, but the route proved more demanding than expected. The terrain was extremely rocky, requiring constant ascents and descents rather than a straightforward crossing. After the first summit, fog also moved in and significantly reduced visibility. Near Reze Beli, I decided to continue descending toward Kocakoru Nature Park. Along the way, I had to pass near nomad camps and tried to avoid attracting the attention of shepherd dogs. At approximately 6:50 p.m., I completed the traverse—finishing a physically demanding yet deeply satisfying day in the Küpe mountain range.
+![20260517_RezeBuyukGozet](20260517_RezeBuyukGozet.jpeg "RezeBuyukGozet Peak")
+![20260517_RezeBuyukGozet2](20260517_RezeBuyukGozet2.jpeg "RezeBuyukGozet Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=264780389&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Özyurt (Hacıbaba) :11
 ==============
 
