@@ -2,6 +2,53 @@
 
 [Home](../README.md)
 
+Mount Sarp :1
+==============
+
+-   Elevation: 2,548m
+-   Summit Date: May 27, 2026
+
+This outing was originally planned as a climb of Barla and Kıroğ, but it eventually evolved into a two-day, five-summit adventure. I completed my preparations on May 25, 2026, and left Karaman at around 3:15 p.m. After a scenic drive, I arrived at the Barla–Çamdağı Recreation Area at approximately 7:45 p.m. From the recreation area, I followed a gravel road down to a spring. Beyond the spring, the road became impassable. Turning the car around on the rough surface proved challenging, but eventually I made my way back to the recreation area, where I discovered an open mosque that would serve as my shelter for the night. After dinner, I climbed into my sleeping bag inside the mosque at around 10:00 p.m. and went to sleep, hoping for an early start at dawn. Following a somewhat restless night, I got up at 4:45 a.m., packed my gear, and prepared for the climb. At 5:30 a.m., I started hiking. The ascent to Barla Mountain unfolded through forests and open mountain slopes. One of the most memorable aspects of the climb was the presence of wild horses. Throughout the ascent, small groups of horses appeared at various points along the mountain. Each time they noticed me, they would move away, only to reappear later in a different location. This pattern continued throughout the day, creating the feeling that we were sharing the mountain and following parallel routes toward the summit. Another remarkable encounter came in the form of a wild flower known locally as Ayı Gülü, a species I had not expected to find during the climb. Combined with the fog drifting across the mountain and the frequent sightings of the horses, it added a distinctly wild atmosphere to the experience. I reached the summit of Barla at 9:00 a.m. The summit was cold, foggy, and windy, so after spending about fifteen minutes there, I continued toward my second objective, Kıroğ. At approximately 10:45 a.m., I reached the summit of Kıroğ. After a short break for snacks and photographs, I began descending at 11:11 a.m. and completed the hike back at the recreation area around 1:40 p.m. While preparing lunch, I noticed a tick crawling up my trousers near my knee. I immediately removed it and carefully checked both my clothing and body twice. A herd of cattle had been grazing nearby, and the tick had most likely attached itself while I was taking photographs or handling gear around the recreation area. After lunch, I set off for my next objective: Davraz Mountain. I arrived at the ski resort around 3:45 p.m. and attempted to drive higher along a gravel road, but a wooden barrier blocked vehicle access. Fortunately, there was enough space to pass around it, allowing me to continue up to the T-bar lift area. At 4:20 p.m., I began the ascent. The climb was steep but enjoyable, and I reached the summit of Davraz at 6:30 p.m. After a brief stay, I started descending at 6:40 p.m. and returned to the vehicle at approximately 8:00 p.m. With darkness approaching, I quickly drove down and searched for accommodation. I booked a room at the Nafiz Yürekli Anadolu Lisesi Practice Hotel in Eğirdir and spent the night there. The next morning, I woke at 6:00 a.m., had breakfast at 7:30 a.m., and by 8:00 a.m. was back on the road heading for my final objective: Sarp Mountain. I arrived at the trailhead at 9:30 a.m. and began hiking at 9:45 a.m. True to its name, Sarp Dağı ("Steep Mountain") immediately presented rugged terrain and demanding slopes. The route involved continuous steep climbing, exposed sections, and several rugged passages that required careful movement. One of the highlights of the day came when I encountered two red deer. Seeing such shy animals in their natural habitat was a special moment. They noticed me almost immediately and disappeared into the landscape within seconds, but the brief encounter was enough to make the climb even more memorable. At around 12:45 p.m., I finally reached the ridge after a long and strenuous ascent. At approximately 1:30 p.m., I stood on the summit of Tenderek Tepe. After a short rest, I continued along the ridge toward Ayaz Kırığı, arriving there at 2:35 p.m. After a brief stop, I began the long descent. At approximately 5:18 p.m., I returned to my vehicle. Before leaving, I spent some time collecting litter around the area and finally departed at 5:48 p.m. On the drive home, I stopped briefly at Melikler Plateau around 7:50 p.m. Since it was directly on my route, I wanted to visit it as daylight faded. After spending about half an hour enjoying the peaceful atmosphere of the plateau, I continued my journey. Over the course of two days, I climbed five summits, spent a night in a mountain mosque, encountered wild horses, red deer, and a tick, navigated fog, steep ridges, and long traverses, and experienced a wide variety of landscapes. What began as a simple plan for two summits evolved into a much larger adventure filled with unexpected moments and rewarding challenges. It was a physically demanding yet immensely satisfying journey—one that reminded me once again why I am drawn to the mountains.
+![20260527_SarpDagi](20260527_SarpDagi.jpeg "SarpDagi Peak")
+![20260527_SarpDagi2](20260527_SarpDagi2.jpeg "SarpDagi2 Peak")
+![20260527_SarpDagi3](20260527_SarpDagi3.jpeg "SarpDagi3 Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266416680&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Davraz :1
+==============
+
+-   Elevation: 2,637m
+-   Summit Date: May 26, 2026
+
+On May 26, 2026, I stood on the summit of Davraz at around 6:30 p.m., completing the third summit of the two-day, five-summit adventure described above.
+![20260526_DavrazDagi](20260526_DavrazDagi.jpeg "DavrazDagi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266288131&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Kıroğ :1
+==============
+
+-   Elevation: 2,547m
+-   Summit Date: May 26, 2026
+
+On May 26, 2026, I stood on the summit of Kıroğ at around 10:45 a.m., completing the second summit of the two-day, five-summit adventure described above.
+![20260526_KirogDagi](20260526_KirogDagi.jpeg "KirogDagi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266285965&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Barla :1
+==============
+
+-   Elevation: 2,798m
+-   Summit Date: May 26, 2026
+
+On May 26, 2026, I stood on the summit of Barla at around 9:00 a.m., completing the first summit of the two-day, five-summit adventure described above.
+![20260526_BarlaDagi](20260526_BarlaDagi.jpeg "BarlaDagi Peak")
+![20260526_BarlaDagi2](20260526_BarlaDagi2.jpeg "BarlaDagi2 Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266285965&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Orta :1
 ==============
 
