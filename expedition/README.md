@@ -2,6 +2,50 @@
 
 [Home](../README.md)
 
+Mount Gelincikana :1
+==============
+
+-   Elevation: 2,675m
+-   Summit Date: June 14, 2026
+
+This climb was not planned in advance. My family and I had traveled to Konya for a weekend trip to Eğrigöl. We visited Eğrigöl on Saturday as planned, but a change in plans for Sunday unexpectedly left me with a free day. Anticipating that an opportunity for a climb might arise, I had brought my mountaineering equipment with me. As a result, I decided on Saturday evening to attempt a traverse of Arapyayla, Gelincikana, and Keçikaya the following day. Since we had returned late from Eğrigöl, I went straight to bed and woke up at around 6:00 a.m. After getting ready, I left Konya at approximately 7:10 a.m. On the way, I picked up a sandwich, a simit, and a pastry for breakfast, eating them during the drive. Using navigation, I followed my planned approach route and reached Ayvalı Village. From there, the road turned into a gravel track. However, I soon encountered deep tractor ruts, muddy sections, and standing water left behind by rainfall from the previous day. The conditions looked poor, and I decided to turn back. As I was returning, I met a local farmer driving a tractor. He confirmed that the road ahead was difficult even for a tractor. When I asked about accessing the route from Yarıkkaya, he explained that a road collapse during the winter had cut off vehicle access from that direction as well. He suggested that I could leave the car in Yarıkkaya Village and continue on foot. I drove to Yarıkkaya anyway, hoping the road might have reopened without his knowledge. A short inspection quickly proved otherwise. A massive landslide had destroyed part of the road, making vehicle passage impossible. At that point, I had three options: begin the climb from the landslide, return to Yarıkkaya and start from there, or abandon the climb altogether. I chose to continue. Starting from the landslide meant adding roughly 700–800 meters of extra elevation gain and an additional 14–15 kilometers of hiking to the day. At approximately 10:12 a.m., I began the ascent. After gaining some elevation, I spotted the first flock of sheep in the distance. Throughout the day I encountered several more flocks and did my best to pass unnoticed, avoiding unnecessary interactions with shepherd dogs. At around 12:15 p.m., I finally reached the point where I had originally intended to start the hike by vehicle. Just as I arrived, dogs from a flock grazing on a nearby hillside spotted me and began barking. Fortunately, they remained at a distance and eventually lost interest as I continued on my way. At approximately 2:15 p.m., I reached the first summit of the day, Arapyayla. Almost immediately after arriving, dense fog rolled in and drastically reduced visibility. Without lingering, I continued toward Gelincikana. Navigating through the fog, I reached the summit of Gelincikana at around 3:00 p.m. The visibility remained poor, so after a brief stop I continued toward my third objective. At approximately 3:45 p.m., I arrived on the summit of Keçikaya. Shortly after reaching the top, the fog began to lift and the views finally opened up. I was preparing to eat something and recharge my phone when I realized I had forgotten my power bank. My phone battery had dropped to only 7 percent. Knowing that a return of the fog could make navigation significantly more difficult and potentially hazardous, I decided not to waste any time. While visibility remained good, I immediately started the descent. On the way down, I encountered even more sheep flocks than during the ascent. To avoid conflicts with shepherd dogs, I frequently adjusted my route, sometimes making additional ascents and detours to keep a safe distance from the animals. At approximately 6:25 p.m., I completed the hike and returned to my vehicle. What had initially seemed like a straightforward day in the mountains turned into a far more demanding adventure. Unexpected road closures, a major landslide, dense fog, navigation challenges, and numerous encounters with livestock all added complexity to the outing. Yet the successful traverse of three summits—Arapyayla, Gelincikana, and Keçikaya—made the extra effort worthwhile and transformed an unplanned day into a memorable mountain adventure.
+![20260614_Gelincikana](20260614_Gelincikana.jpeg "Gelincikana Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Arapyayla :1
+==============
+
+-   Elevation: 2,592m
+-   Summit Date: June 14, 2026
+
+On June 14, 2026, I stood on the summit of Arapyayla Hill at around 2:15 p.m., completing the first summit of the triple-Summit Traverse described above.
+![20260614_Arapyayla](20260614_Arapyayla.jpeg "Arapyayla Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Keçikaya :1
+==============
+
+-   Elevation: 2,584m
+-   Summit Date: June 14, 2026
+
+On June 14, 2026, I stood on the summit of Keçikaya at around 3:45 p.m., completing the first summit of the triple-Summit Traverse described above.
+![20260614_Kecikaya](20260614_Kecikaya.jpeg "Kecikaya Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Çalamlı :1
+==============
+
+-   Elevation: 2,519m
+-   Summit Date: June 13, 2026
+
+Çalamlı Mountain is a lesser-known summit of the Geyik Mountains, located near Eğrigöl in the Taurus Mountains of Türkiye. The ascent of Çalamlı Mountain was never really part of the plan. We were considering a family trip to the Eğrigöl area, and I packed my climbing equipment just in case an opportunity for a hike presented itself. On June 13, 2026, we arrived at Eğrigöl shortly after 2:00 p.m. After helping my family settle in, I seized the opportunity to head for the mountain. At around 3:00 p.m., I left Eğrigöl by car and drove toward Çalamlı Mountain near Seyircik Plateau. The approach involved roughly 15 kilometers of driving, more than half of it on gravel roads, bringing me close to the mountain. I started hiking at approximately 3:30 p.m. The route was short and straightforward, making for a relaxed afternoon ascent. With favorable weather and light gear, I made steady progress and reached the summit at around 4:10 p.m. After spending some time enjoying the summit and the surrounding views, I began my descent and returned to my vehicle at approximately 5:10 p.m. Although the climb was entirely unplanned and much shorter than many of my recent mountain outings, it provided exactly what I was looking for: a peaceful solo ascent, magnificent views of the Geyik Mountains—including Barçın and Geyik peaks—and another opportunity to explore a lesser-visited summit of the region.
+![20260613_Calamli](20260613_Calamli.jpeg "Calamli Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269289426&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Sarp :1
 ==============
 
