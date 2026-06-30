@@ -2,6 +2,94 @@
 
 [Home](../README.md)
 
+Mount Tekeköprüsü :1
+==============
+
+-   Elevation: 3,400m
+-   Summit Date: June 28, 2026
+
+The Bolkar Mountains are one of the major ranges of the Taurus Mountains in southern Türkiye, renowned for their rugged limestone terrain, high alpine plateaus, and numerous peaks exceeding 3,000 meters. This outing was three-day, nine-summit adventure organized by YEBUDAK Mountaineering Club from Bursa and combined several classic summits of the range with a few lesser-visited peaks, making for three rewarding days in one of my favorite mountain regions. I completed my preparations on June 25, 2026. The following morning, I woke up at 5:00 a.m., left home shortly, and arrived in Pozantı around 7:35 a.m. There I was scheduled to meet with YEBUDAK. While waiting, I had breakfast at a local bakery before the group arrived around 10 a.m. After stopping for supplies, we drove to Elmalı Boğazı and reached the campsite at approximately 1:30 p.m. Once the tents were pitched, we headed out at 2:45 p.m. to Aksivri Peak for the first summit of the adventure. We reached the summit at around 5:40 p.m. and returned to camp at approximately 8:00 p.m. After cooking dinner, I went to bed around 9:30 p.m., knowing that the following day would be considerably longer. I woke at 4:20 a.m. on June 27, and our group departed camp at approximately 5:10 a.m. Strong winds accompanied us throughout the climb. We reached Kocagedik Peak around 10:00 a.m. The summit itself provided one of the most memorable moments of the trip. We had ascended from the northern side, where powerful winds made movement extremely difficult. Crossing the narrow summit ridge to the southern side required several of us to lock arms for stability against the wind. Continuing along the ridge, we reached Kızılgöltopu at approximately 11:15 a.m. After completing the traverse, we returned to camp around 3:40 p.m. We packed our equipment, drove into town for dinner, and then continued to Karboğazı, arriving at the campsite around 8:30 p.m. Another mountaineering club, TODOSK, was already camping there and planned to begin their ascent shortly after midnight. We preferred a more reasonable schedule and decided to start at 4:00 a.m. instead. On June 28, I woke up at 3:25 a.m., had a quick breakfast of coffee and an energy bar, and we left camp at approximately 4:10 a.m. We reached the summit of Bozkaya Hill at around 8:20 a.m. and continued toward Medetsiz, arriving on the highest summit of the Bolkar Mountains at approximately 11:10 a.m. After a long break on the summit, I left the group at around 12:15 p.m. to continue alone. Twenty-five minutes later, I reached Kopukgöl Peak. After only a brief stop, I continued toward Arpalığın Tepe, arriving there at approximately 1:20 p.m. From Arpalığın Tepe, I noticed Tekeköprüsü Peak, which we had discussed extensively the previous day while climbing Kocagedik. Another group had previously attempted the summit from the Kocagedik side but had been unable to cross the narrow rock ridge—known locally as the "goat bridge"—that gives the mountain its name. From my vantage point on Arpalığın Tepe, however, I could clearly see that the opposite side of the mountain offered a much easier approach. Realizing I had an opportunity to add another summit, I immediately changed my plans and headed toward Tekeköprüsü. At approximately 2:15 p.m., I stood on the summit of Tekeköprüsü, completing my fourth summit of the day. From there, I descended toward Alayaka Pass. Although Alayaka Mountain looked tempting, its steep and highly technical terrain convinced me not to attempt it solo. Instead, I continued descending through the valley. The descent passed beneath steep rock faces where rockfall is common, and patches of snow clearly revealed numerous stones that had recently fallen from above, reinforcing that I had made the right decision not to continue toward Alayaka. I returned to camp at approximately 4:35 p.m., where the others were making their final preparations to leave. I quickly packed my tent, and shortly afterward we all departed Karboğazı together. Over the course of three days, I climbed nine summits, shared memorable moments with fellow mountaineers, experienced severe winds on exposed ridges, and completed several solo extensions. What began as a club outing evolved into a rewarding blend of teamwork and independent exploration, once again reinforcing why the Bolkar Mountains remain one of my favorite mountain ranges in Türkiye.
+![20260628_Tekekoprusu](20260628_Tekekoprusu.jpeg "Tekekoprusu Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Arpalığın Hill :1
+==============
+
+-   Elevation: 3,420m
+-   Summit Date: June 28, 2026
+
+On June 28, 2026, I stood on the summit of Arpalığın Hill at around 1:20 p.m., completing the seventh summit of the three-day, nine-summit adventure described above.
+![20260628_Arpaligin](20260628_Arpaligin.jpeg "Arpaligin Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Kopukgöl :2
+==============
+
+-   Elevation: 3,428m
+-   Summit Date: June 28, 2026
+
+On June 28, 2026, I stood on the summit of Kopukgöl Hill at around 12:40 p.m., completing the sixth summit of the three-day, nine-summit adventure described above.
+![20260628_Kopukgol](20260628_Kopukgol.jpeg "Kopukgol Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Medetsiz :2
+==============
+
+-   Elevation: 3,524m
+-   Summit Date: June 28, 2026
+
+On June 28, 2026, I stood on the summit of Mount Medetsiz at around 11:10 a.m., completing the fifth summit of the three-day, nine-summit adventure described above.
+![20260628_Medetsiz](20260628_Medetsiz.jpeg "Medetsiz Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Bozkaya :1
+==============
+
+-   Elevation: 3,240m
+-   Summit Date: June 28, 2026
+
+On June 28, 2026, I stood on the summit of Bozkaya Hill at around 8:20 a.m., completing the fourth summit of the three-day, nine-summit adventure described above.
+![20260628_Bozkaya](20260628_Bozkaya.jpeg "Bozkaya Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Kızılgöltopu :1
+==============
+
+-   Elevation: 3,145m
+-   Summit Date: June 27, 2026
+
+On June 27, 2026, I stood on the summit of Mount Kızılgöltopu at around 11:50 a.m., completing the third summit of the three-day, nine-summit adventure described above.
+![20260627_Kizilgoltopu](20260627_Kizilgoltopu.jpeg "Kizilgoltopu Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271411107&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Kocagedik :1
+==============
+
+-   Elevation: 3,127m
+-   Summit Date: June 27, 2026
+
+On June 27, 2026, I stood on the summit of Mount Kocagedik at around 10:00 a.m., completing the second summit of the three-day, nine-summit adventure described above.
+![20260627_Kocagedik](20260627_Kocagedik.jpeg "Kocagedik Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271411107&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Aksivri :1
+==============
+
+-   Elevation: 2,890m
+-   Summit Date: June 26, 2026
+
+On June 26, 2026, I stood on the summit of Mount Aksivri at around 5:40 p.m., completing the first summit of the three-day, nine-summit adventure described above.
+![20260626_Aksivri](20260626_Aksivri.jpeg "Aksivri Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271304026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Gelincikana :1
 ==============
 
