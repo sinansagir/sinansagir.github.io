@@ -2,6 +2,199 @@
 
 [Home](../README.md)
 
+Mount Cıngıllıbeşik :1
+==============
+
+-   Elevation: 3,200m
+-   Summit Date: July 18, 2026
+
+The Bolkar Mountains are one of the major ranges of the Taurus Mountains in southern Türkiye, renowned for their rugged limestone terrain, high alpine plateaus, and numerous peaks exceeding 3,000 meters. This outing was three-day, nine-summit adventure organized by YEBUDAK Mountaineering Club from Bursa and combined several classic summits of the range with a few lesser-visited peaks, making for three rewarding days in one of my favorite mountain regions. I completed my preparations on June 25, 2026. The following morning, I woke up at 5:00 a.m., left home shortly, and arrived in Pozantı around 7:35 a.m. There I was scheduled to meet with YEBUDAK. While waiting, I had breakfast at a local bakery before the group arrived around 10 a.m. After stopping for supplies, we drove to Elmalı Boğazı and reached the campsite at approximately 1:30 p.m. Once the tents were pitched, we headed out at 2:45 p.m. to Aksivri Peak for the first summit of the adventure. We reached the summit at around 5:40 p.m. and returned to camp at approximately 8:00 p.m. After cooking dinner, I went to bed around 9:30 p.m., knowing that the following day would be considerably longer. I woke at 4:20 a.m. on June 27, and our group departed camp at approximately 5:10 a.m. Strong winds accompanied us throughout the climb. We reached Kocagedik Peak around 10:00 a.m. The summit itself provided one of the most memorable moments of the trip. We had ascended from the northern side, where powerful winds made movement extremely difficult. Crossing the narrow summit ridge to the southern side required several of us to lock arms for stability against the wind. Continuing along the ridge, we reached Kızılgöltopu at approximately 11:15 a.m. After completing the traverse, we returned to camp around 3:40 p.m. We packed our equipment, drove into town for dinner, and then continued to Karboğazı, arriving at the campsite around 8:30 p.m. Another mountaineering club, TODOSK, was already camping there and planned to begin their ascent shortly after midnight. We preferred a more reasonable schedule and decided to start at 4:00 a.m. instead. On June 28, I woke up at 3:25 a.m., had a quick breakfast of coffee and an energy bar, and we left camp at approximately 4:10 a.m. We reached the summit of Bozkaya Hill at around 8:20 a.m. and continued toward Medetsiz, arriving on the highest summit of the Bolkar Mountains at approximately 11:10 a.m. After a long break on the summit, I left the group at around 12:15 p.m. to continue alone. Twenty-five minutes later, I reached Kopukgöl Peak. After only a brief stop, I continued toward Arpalığın Tepe, arriving there at approximately 1:20 p.m. From Arpalığın Tepe, I noticed Tekeköprüsü Peak, which we had discussed extensively the previous day while climbing Kocagedik. Another group had previously attempted the summit from the Kocagedik side but had been unable to cross the narrow rock ridge—known locally as the "goat bridge"—that gives the mountain its name. From my vantage point on Arpalığın Tepe, however, I could clearly see that the opposite side of the mountain offered a much easier approach. Realizing I had an opportunity to add another summit, I immediately changed my plans and headed toward Tekeköprüsü. At approximately 2:15 p.m., I stood on the summit of Tekeköprüsü, completing my fourth summit of the day. From there, I descended toward Alayaka Pass. Although Alayaka Mountain looked tempting, its steep and highly technical terrain convinced me not to attempt it solo. Instead, I continued descending through the valley. The descent passed beneath steep rock faces where rockfall is common, and patches of snow clearly revealed numerous stones that had recently fallen from above, reinforcing that I had made the right decision not to continue toward Alayaka. I returned to camp at approximately 4:35 p.m., where the others were making their final preparations to leave. I quickly packed my tent, and shortly afterward we all departed Karboğazı together. Over the course of three days, I climbed nine summits, shared memorable moments with fellow mountaineers, experienced severe winds on exposed ridges, and completed several solo extensions. What began as a club outing evolved into a rewarding blend of teamwork and independent exploration, once again reinforcing why the Bolkar Mountains remain one of my favorite mountain ranges in Türkiye.
+![20260718_Cingillibesik](20260718_Cingillibesik.jpeg "Cingillibesik Peak")
+![20260718_Cingillibesik2](20260718_Cingillibesik2.jpeg "Cingillibesik2 Peak")
+![20260718_Cingillibesik3](20260718_Cingillibesik3.jpeg "Cingillibesik3 Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274772746&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Eğri Hill :1
+==============
+
+-   Elevation: 3,360m
+-   Summit Date: July 17, 2026
+
+On July 17, 2026, I stood on the summit of Eğri Hill at around 2:37 p.m., completing the second summit of the day and the sixteenth of the seventeen summits climbed during the five-day expedition described above.
+![20260717_Egritepe](20260717_Egritepe.jpeg "Egritepe Peak")
+![20260717_Egritepe2](20260717_Egritepe2.jpeg "Egritepe2 Peak")
+![20260717_Egritepe3](20260717_Egritepe3.jpeg "Egritepe3 Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274573603&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Birocak :1
+==============
+
+-   Elevation: 3,300m
+-   Summit Date: July 17, 2026
+
+On July 17, 2026, I stood on the summit of Birocak at around 12:50 p.m., completing the first summit of the day and the fifteenth of the seventeen summits climbed during the five-day expedition described above.
+![20260717_Birocak](20260717_Birocak.jpeg "Birocak Peak")
+![20260717_Birocak2](20260717_Birocak2.jpeg "Birocak2 Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274573603&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount İkibaş :1
+==============
+
+-   Elevation: 3,200m
+-   Summit Date: July 16, 2026
+
+On July 16, 2026, I stood on the summit of İkibaş at around 6:25 p.m., completing the seventh summit of the day and the fourteenth of the seventeen summits climbed during the five-day expedition described above.
+![20260716_Ikibas](20260716_Ikibas.jpeg "Ikibas Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Akkapız :1
+==============
+
+-   Elevation: 3,205m
+-   Summit Date: July 16, 2026
+
+On July 16, 2026, I stood on the summit of Akkapız at around 5:15 p.m., completing the sixth summit of the day and the thirteenth of the seventeen summits climbed during the five-day expedition described above.
+![20260716_Akkapiz](20260716_Akkapiz.jpeg "Akkapiz Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Küçük Alaca :1
+==============
+
+-   Elevation: 3,360m
+-   Summit Date: July 16, 2026
+
+On July 16, 2026, I stood on the summit of Küçük Alaca at around 4:40 p.m., completing the fifth summit of the day and the twelfth of the seventeen summits climbed during the five-day expedition described above.
+![20260716_KucukAlaca](20260716_KucukAlaca.jpeg "KucukAlaca Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Alaca (Lorut) :2
+==============
+
+-   Elevation: 3,588m
+-   Summit Date: July 16, 2026
+
+On July 16, 2026, I stood on the summit of Alaca (Lorut) at around 3:00 p.m., completing the fourth summit of the day and the eleventh of the seventeen summits climbed during the five-day expedition described above.
+![20260716_Alaca](20260716_Alaca.jpeg "Alaca Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Körtekli :1
+==============
+
+-   Elevation: 3,428m
+-   Summit Date: July 16, 2026
+
+On July 16, 2026, I stood on the summit of Körtekli at around 12:40 p.m., completing the third summit of the day and the tenth of the seventeen summits climbed during the five-day expedition described above.
+![20260716_Kortekli](20260716_Kortekli.jpeg "Kortekli Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Mangırcı II :1
+==============
+
+-   Elevation: 2,910m
+-   Summit Date: July 16, 2026
+
+On July 16, 2026, I stood on the summit of Mangırcı II at around 10:00 a.m., completing the second summit of the day and the nineth of the seventeen summits climbed during the five-day expedition described above.
+![20260716_MangirciII](20260716_MangirciII.jpeg "MangirciII Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Mangırcı I :1
+==============
+
+-   Elevation: 2,844m
+-   Summit Date: July 16, 2026
+
+On July 16, 2026, I stood on the summit of Mangırcı I at around 7:47 a.m., completing the first summit of the day and the eighth of the seventeen summits climbed during the five-day expedition described above.
+![20260716_MangirciI](20260716_MangirciI.jpeg "MangirciI Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Alacadağ :1
+==============
+
+-   Elevation: 3,080m
+-   Summit Date: July 15, 2026
+
+On July 15, 2026, I stood on the summit of Alacadağ at around 3:55 p.m., completing the sixth summit of the day and the seventh of the seventeen summits climbed during the five-day expedition described above.
+![20260715_Alacadag](20260715_Alacadag.jpeg "Alacadag Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Teke Hill :1
+==============
+
+-   Elevation: 3,250m
+-   Summit Date: July 15, 2026
+
+On July 15, 2026, I stood on the summit of Teke Hill at around 1:30 p.m., completing the fifth summit of the day and the sixth of the seventeen summits climbed during the five-day expedition described above.
+![20260715_Teketepe](20260715_Teketepe.jpeg "Teketepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Çömlek Hill :1
+==============
+
+-   Elevation: 3,210m
+-   Summit Date: July 15, 2026
+
+On July 15, 2026, I stood on the summit of Çömlek Hill at around 12:40 p.m., completing the fourth summit of the day and the fifth of the seventeen summits climbed during the five-day expedition described above.
+![20260715_Comlek](20260715_Comlek.jpeg "Comlek Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Çobankırı :1
+==============
+
+-   Elevation: 2,962m
+-   Summit Date: July 15, 2026
+
+On July 15, 2026, I stood on the summit of Çobankırı at around 10:50 p.m., completing the third summit of the day and the fourth of the seventeen summits climbed during the five-day expedition described above.
+![20260715_Cobankiri](20260715_Cobankiri.jpeg "Cobankiri Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Hışır :1
+==============
+
+-   Elevation: 2,902m
+-   Summit Date: July 15, 2026
+
+On July 15, 2026, I stood on the summit of Hışır at around 9:30 a.m., completing the second summit of the day and the third of the seventeen summits climbed during the five-day expedition described above.
+![20260715_Hisir](20260715_Hisir.jpeg "Hisir Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Kızılınbaşı :1
+==============
+
+-   Elevation: 2,944m
+-   Summit Date: July 15, 2026
+
+On July 15, 2026, I stood on the summit of Kızılınbaşı at approximately 8:25 a.m., completing the first summit of the day and the second of the seventeen summits climbed during the five-day expedition described above.
+![20260715_Kizilinbasi](20260715_Kizilinbasi.jpeg "Kizilinbasi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Ortaburun :1
+==============
+
+-   Elevation: 2,500m
+-   Summit Date: July 14, 2026
+
+On July 14, 2026, I stood on the summit of Ortaburun at around 4:20 p.m., completing the first of the seventeen summits climbed during the five-day expedition described above.
+![20260714_Ortaburun](20260714_Ortaburun.jpeg "Ortaburun Peak")
+![20260714_Ortaburun2](20260714_Ortaburun2.jpeg "Ortaburun Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274111260&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Tekeköprüsü :1
 ==============
 
