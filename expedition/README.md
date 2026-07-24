@@ -2,7 +2,7 @@
 
 [Home](../README.md)
 
-Mount Cıngıllıbeşik :1
+Cıngıllıbeşik :1
 ==============
 
 -   Elevation: 3,200m
@@ -10,26 +10,26 @@ Mount Cıngıllıbeşik :1
 
 Seventeen Summits in Five Days: A Mountaineering Expedition in the Aladağlar
 
-The Aladağlar are the highest and most rugged section of the Taurus Mountains in southern Türkiye. Characterized by steep limestone walls, exposed ridges, and numerous peaks exceeding 3,500 meters, they are widely regarded as one of the country's premier mountaineering destinations. This expedition, organized with the YEBUDAK Mountaineering Club, combined long alpine traverses with several technical objectives over five days in the heart of the range. I completed my preparations on July 13, 2026. Early the following morning, I left home and arrived in Niğde around 9:15 a.m., where I met the YEBUDAK team. From there, we drove to Çukurbağ Village and then continued to Sarımemedin Yurdu in the Emli Valley. Our camping equipment was loaded onto pack mules, allowing us to hike with only daypacks. At approximately 1:00 p.m., we began our approach to Alaca Yayla via Ortaburun Peak. We reached the summit of Ortaburun at around 4:20 p.m., then descended a short distance to Alaca Yayla, where we established our base camp. After preparing dinner, I turned in early, knowing that the following days would be long and demanding.
+The Aladağlar are the highest and most rugged section of the Taurus Mountains in southern Türkiye. Characterized by steep limestone walls, exposed ridges, and numerous peaks exceeding 3,000 meters, they are widely regarded as one of the country's premier mountaineering destinations. This expedition, organized with the YEBUDAK Mountaineering Club, combined long alpine traverses with several technical objectives over five days in the heart of the range. I completed my preparations on July 13, 2026. Early the following morning, I left home and arrived in Niğde around 9:15 a.m., where I met the YEBUDAK team. From there, we drove to Çukurbağ Village and then continued to Sarımemedin Yurdu in the Emli Valley. Our camping equipment was loaded onto pack mules, allowing us to hike with only daypacks. At approximately 1:00 p.m., we began our approach to Alaca Yayla via Ortaburun Peak. We reached the summit of Ortaburun at around 4:20 p.m., then descended a short distance to Alaca Yayla, where we established our base camp. After preparing dinner, I turned in early, knowing that the following days would be long and demanding.
 
 Day 2 – Kızılınbaşı, Hışır, Çobankırı, Çömlek Hill, Teke Hill, and Alacadağ: We left camp shortly after 6:00 a.m. and spent the day traversing a long chain of summits. The route led us successively over Kızılınbaşı, Hışır, Çobankırı, Çömlek Hill, Teke Hill, and finally Alacadağ. The day involved continuous ascents and descents across rugged alpine terrain before we eventually returned to camp at approximately 6:35 p.m. After preparing dinner, I went to sleep shortly before 10:00 p.m.
 
 Day 3 – Mangırcı I, Mangırcı II, Körtekli, Alaca (Lorut), Küçük Alaca, Akkapız, and İkibaş: We left camp shortly after 6:00 a.m., once again crossing Ortaburun before heading deeper into the range. The route continued over Mangırcı I, Mangırcı II, and Körtekli, where our plans began to diverge. At Körtekli, Onur and I separated from the main group to continue toward Alaca (Lorut), while the others headed directly for Küçük Alaca. After reaching Alaca (Lorut), we climbed Küçük Alaca together. At this point, Onur decided not to continue to the remaining summits. I left one of my walkie-talkie with him, asked him to follow the group's descent route, and set off alone for Akkapız. After reaching the summit, I descended along the connecting ridge and met up with Onur again near the base of İkibaş. By then, the rest of the team had already climbed İkibaş and had begun descending. I decided to continue alone toward the summit. The final 50–100 meters of İkibaş consist of a steep chimney requiring hands-on climbing. As I entered the chimney, I met the rest of the team descending through the same passage. After exchanging a few words, I continued upward alone, reached the summit, and then descended to rejoin the group below. From there, we returned to camp together after another long and rewarding day in the Aladağlar.
 
-Day 4 – Technical Ascent of Birocak and Eğritepe: The fourth day focused on two of the expedition's more technical objectives: Birocak and Eğritepe. Only four members of the group continued beyond the point where the climbing became more serious; the rest returned back to camp. Although we carried technical equipment, careful route selection and favorable conditions allowed us to complete both summits without needing to use the rope. We reached Birocak around 12:50 p.m. and continued to Eğritepe, arriving at approximately 2:37 p.m. After completing the traverse, we returned to camp around 7:00 p.m.
+Day 4 – Technical Ascent of Birocak and Eğritepe: The fourth day focused on two of the expedition's more technical objectives: Birocak and Eğritepe. Only four members of the group continued beyond the point where the climbing became more serious; the rest returned back to camp. Although we carried technical equipment, careful route selection and favorable conditions allowed us to complete both summits without needing to use the rope. We reached Birocak around 12:50 p.m. and continued to Eğritepe, arriving at approximately 2:37 p.m. After completing the traverse, we returned to camp around 7:00 p.m. To the best of our knowledge, no previous traverse between Birocak and Eğritepe has been documented.
 
 Day 5 – Technical Ascent of Cıngıllıbeşik: Our final climbing objective was Cıngıllıbeşik, another classic technical summit of the Aladağlar. This time six of us attempted the climb together. After several hours of steep scrambling, we reached the summit at approximately 1:45 p.m. One section of the route required negotiating an exposed rock step of roughly 30 meters, where we protected the climb using a rope. Although technically straightforward, this section demanded careful movement and teamwork, adding a different character to the ascent compared with the previous days. Following the summit, we descended safely and returned to camp shortly after 7:00 p.m., completing the final climb of the expedition.
 
 Return from Alaca Yayla: On the final morning, we packed our camp, once again loaded the heavy equipment onto the pack mules, and left Alaca Yayla at approximately 9:25 a.m. By 11:25 a.m., we had returned to Sarımemedin Yurdu, where our vehicles were waiting. After changing clothes and taking a final group photograph, we began the journey home.
 
-During the expedition, I completed 22 summit ascents, covering 17 distinct summits over six days in the Aladağlar, ranging from long ridge traverses to technical alpine objectives. The expedition demanded endurance, efficient camp life, and teamwork, while also providing opportunities for independent decision-making on more challenging terrain. From the broad ridges of Alacadağ to the exposed rock of Cıngıllıbeşik, every day offered a different experience and reinforced why the Aladağlar remain one of the finest mountaineering regions in Türkiye.
+During the expedition, I completed 22 summit ascents (summited Ortaburun six times along the way), covering 17 distinct summits over six days in the Aladağlar, ranging from long ridge traverses to technical alpine objectives. The expedition demanded endurance, efficient camp life, and teamwork, while also providing opportunities for independent decision-making on more challenging terrain. From the broad ridges of Alacadağ to the exposed rock of Cıngıllıbeşik, every day offered a different experience and reinforced why the Aladağlar remain one of the finest mountaineering regions in Türkiye.
 ![20260718_Cingillibesik](20260718_Cingillibesik.jpeg "Cingillibesik Peak")
 ![20260718_Cingillibesik2](20260718_Cingillibesik2.jpeg "Cingillibesik2 Peak")
 ![20260718_Cingillibesik3](20260718_Cingillibesik3.jpeg "Cingillibesik3 Peak")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274772746&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Eğri Hill :1
+Eğri Hill :1
 ==============
 
 -   Elevation: 3,360m
@@ -42,7 +42,7 @@ On July 17, 2026, I stood on the summit of Eğri Hill at around 2:37 p.m., compl
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274573603&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Birocak :1
+Birocak :1
 ==============
 
 -   Elevation: 3,300m
@@ -54,7 +54,7 @@ On July 17, 2026, I stood on the summit of Birocak at around 12:50 p.m., complet
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274573603&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount İkibaş :1
+İkibaş :1
 ==============
 
 -   Elevation: 3,200m
@@ -65,7 +65,7 @@ On July 16, 2026, I stood on the summit of İkibaş at around 6:25 p.m., complet
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Akkapız :1
+Akkapız :1
 ==============
 
 -   Elevation: 3,205m
@@ -76,7 +76,7 @@ On July 16, 2026, I stood on the summit of Akkapız at around 5:15 p.m., complet
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Küçük Alaca :1
+Küçük Alaca :1
 ==============
 
 -   Elevation: 3,360m
@@ -98,7 +98,7 @@ On July 16, 2026, I stood on the summit of Alaca (Lorut) at around 3:00 p.m., co
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Körtekli :1
+Körtekli :1
 ==============
 
 -   Elevation: 3,428m
@@ -109,7 +109,7 @@ On July 16, 2026, I stood on the summit of Körtekli at around 12:40 p.m., compl
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Mangırcı II :1
+Mangırcı II :1
 ==============
 
 -   Elevation: 2,910m
@@ -120,7 +120,7 @@ On July 16, 2026, I stood on the summit of Mangırcı II at around 10:00 a.m., c
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Mangırcı I :1
+Mangırcı I :1
 ==============
 
 -   Elevation: 2,844m
@@ -131,7 +131,7 @@ On July 16, 2026, I stood on the summit of Mangırcı I at around 7:47 a.m., com
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Alacadağ :1
+Alacadağ :1
 ==============
 
 -   Elevation: 3,080m
@@ -142,7 +142,7 @@ On July 15, 2026, I stood on the summit of Alacadağ at around 3:55 p.m., comple
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Teke Hill :1
+Teke Hill :1
 ==============
 
 -   Elevation: 3,250m
@@ -153,7 +153,7 @@ On July 15, 2026, I stood on the summit of Teke Hill at around 1:30 p.m., comple
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Çömlek Hill :1
+Çömlek Hill :1
 ==============
 
 -   Elevation: 3,210m
@@ -164,7 +164,7 @@ On July 15, 2026, I stood on the summit of Çömlek Hill at around 12:40 p.m., c
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Çobankırı :1
+Çobankırı :1
 ==============
 
 -   Elevation: 2,962m
@@ -175,7 +175,7 @@ On July 15, 2026, I stood on the summit of Çobankırı at around 10:50 p.m., co
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Hışır :1
+Hışır :1
 ==============
 
 -   Elevation: 2,902m
@@ -186,7 +186,7 @@ On July 15, 2026, I stood on the summit of Hışır at around 9:30 a.m., complet
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Kızılınbaşı :1
+Kızılınbaşı :1
 ==============
 
 -   Elevation: 2,944m
@@ -197,7 +197,7 @@ On July 15, 2026, I stood on the summit of Kızılınbaşı at approximately 8:2
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Ortaburun :1
+Ortaburun :1
 ==============
 
 -   Elevation: 2,500m
@@ -209,7 +209,7 @@ On July 14, 2026, I stood on the summit of Ortaburun at around 4:20 p.m., comple
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274111260&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Tekeköprüsü :1
+Tekeköprüsü :1
 ==============
 
 -   Elevation: 3,400m
@@ -264,7 +264,7 @@ On June 28, 2026, I stood on the summit of Bozkaya Hill at around 8:20 a.m., com
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Kızılgöltopu :1
+Kızılgöltopu :1
 ==============
 
 -   Elevation: 3,145m
@@ -275,7 +275,7 @@ On June 27, 2026, I stood on the summit of Mount Kızılgöltopu at around 11:50
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271411107&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Kocagedik :1
+Kocagedik :1
 ==============
 
 -   Elevation: 3,127m
@@ -286,7 +286,7 @@ On June 27, 2026, I stood on the summit of Mount Kocagedik at around 10:00 a.m.,
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271411107&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Aksivri :1
+Aksivri :1
 ==============
 
 -   Elevation: 2,890m
@@ -297,7 +297,7 @@ On June 26, 2026, I stood on the summit of Mount Aksivri at around 5:40 p.m., co
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271304026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Gelincikana :1
+Gelincikana :1
 ==============
 
 -   Elevation: 2,675m
@@ -308,7 +308,7 @@ Arapyayla, Gelincikana, and Keçikaya are prominent summits of the Sultan Mounta
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Arapyayla :1
+Arapyayla :1
 ==============
 
 -   Elevation: 2,592m
@@ -319,7 +319,7 @@ On June 14, 2026, I stood on the summit of Arapyayla Hill at around 2:15 p.m., c
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Keçikaya :1
+Keçikaya :1
 ==============
 
 -   Elevation: 2,584m
@@ -330,7 +330,7 @@ On June 14, 2026, I stood on the summit of Keçikaya at around 3:45 p.m., comple
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Çalamlı :1
+Çalamlı :1
 ==============
 
 -   Elevation: 2,519m
@@ -354,7 +354,7 @@ This outing was originally planned as a climb of Barla and Kıroğ, but it event
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266416680&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Davraz :1
+Davraz :1
 ==============
 
 -   Elevation: 2,637m
@@ -365,7 +365,7 @@ On May 26, 2026, I stood on the summit of Davraz at around 6:30 p.m., completing
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266288131&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Kıroğ :1
+Kıroğ :1
 ==============
 
 -   Elevation: 2,547m
