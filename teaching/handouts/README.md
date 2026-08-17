@@ -5,7 +5,7 @@
 Fizik Laboratuvarı I (Güz 2026)
 ==============
 
--   [Deney Grupları ve Tamamlama Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHCuYtPpY4ecJkoIWRvqFRzVG3TRKakK-cNTyQ02YSL7erIYOTr8yilMmRudodfONWIi88bNoGpcQY/pubhtml)
+-   [Deney Grupları ve Tamamlama Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFRpn9qHbHOBkpFXDYw8_va1P1M-ZX6Meqo-FkMjp4sIwFaOE8v5CIL8XCP0Hf8eNS21H4zhj4bMY1/pubhtml)
 
 <!---
 Fizik Laboratuvarı II (Bahar 2026)
