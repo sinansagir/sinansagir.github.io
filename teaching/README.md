@@ -5,7 +5,7 @@
 Current Courses (Spring 2026)
 ==============
 
--   Fizik Laboratuvarı II (Matematik) [Handouts](./handouts/README.md)
+-   Fizik Laboratuvarı I (Matematik) [Handouts](./handouts/README.md)
 
 Past Courses
 ============
@@ -19,6 +19,7 @@ Past Courses
 -   Particle Physics I & II (Spring 2019, Fall 2019, Spring 2023)
 -   Physics I - Classical Mechanics (Fall 2025)
 -   Physics II - Electricity and Magnetism (Spring 2019)
+-   Physics II Lab - Electricity and Magnetism (Spring 2026)
 -   Fiber Optics Communication (Spring 2019)
 -   Programming in C++ (Spring 2019, Spring 2020)
 -   Computer Programming (Spring 2020)

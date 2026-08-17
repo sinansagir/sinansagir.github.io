@@ -7,7 +7,7 @@ Education
 
 -   Ph.D. in Physics, Brown University, 2016
     -   Dissertation: *Search for Heavy Top Quark Partners with Charge 5/3 and Anomalous Higgs ($\to b\bar{b}$) Couplings to Vector Bosons*
-    -   Committee: Meenakshi Narain (advisor), Ulrich Heintz, David Cutts
+    -   Committee: David Cutts, Ulrich Heintz, Meenakshi Narain (advisor)
 
 -   M.Sc. in Physics, Brown University, 2013
 -   B.Sc. in Physics, Selçuk University, 2008
@@ -16,7 +16,7 @@ Employment
 ==========
 
 -   Assistant Professor, Department of Physics, Karamanoğlu Mehmetbey University, 2025--present
--   Visiting Faculty, Department of Physics, Brown University, 2017--present
+-   Visiting Faculty, Department of Physics, Brown University, 2017--2025
 -   Assistant Professor, Department of Medical Techniques and Services, Karamanoğlu Mehmetbey University, 2018--2025
 -   Research Scientist, Department of Physics, Karamanoğlu Mehmetbey University, 2017--2018
 -   Postdoctoral Research Associate, Department of Physics, Brown University, 2016--2017

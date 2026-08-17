@@ -2,6 +2,98 @@
 
 [Home](../README.md)
 
+Keşif Hill :1
+==============
+
+-   Elevation: 3,475m
+-   Summit Date: August 15, 2026
+
+The Bolkar Mountains are among the most rugged sections of the Taurus range in southern Türkiye, with a landscape of high alpine ridges, limestone peaks, scree slopes, and remote plateaus. I had originally planned a two-day outing from Meydan Plateau. However, changing weather conditions and the unexpected length of the first day's traverse ultimately led me to abandon the plan for the second day. I completed my preparations on Friday, August 14, 2026, left home at around 7:30 p.m., and reached Meydan Plateau at approximately 10:00 p.m. Since setting up the tent in the dark would have taken time and effort, I decided to sleep in the back seat of my car instead. Around 2:30 a.m., I woke up feeling cold. I had left the windows slightly open for ventilation and had not covered myself with anything. I closed all but one window almost completely and used my sleeping bag as a blanket before going back to sleep. The next morning, I woke to my alarm at 5:00 a.m. Although I was still sleepy, I got ready and started hiking at approximately 5:30 a.m. My first objective was Camız Lake, after which I continued toward Top Tepe, reaching the summit at around 8:10 a.m. During the ascent, I spotted four or five mountain goats on the rocky ridges below Tahtakayası. While descending from Top Tepe, I encountered a much larger herd—around 15–20 mountain goats—moving rapidly across the opposite rocky slopes. I stopped and watched them until they disappeared from sight. From Top Tepe, I continued toward Tahtakayası and reached its summit at around 9:55 a.m. From here, I initially considered bypassing Koyunaşağı summit and heading directly toward Kızıldökük, with the idea of adding Koyunaşağı on the way back if time allowed since I had summited Koyunaşağı last year. However, the lower traverse looked more complicated than expected, and climbing Koyunaşağı and then joining the Medetsiz trail seemed like the more sensible option. I reached Koyunaşağı at approximately 10:45 a.m. I checked the weather again on the summit. Rain was forecast to begin around 12:15 p.m., so I decided not to linger and continued toward Kızıldökük. I reached the summit at approximately 12:20 p.m., took a few photographs, and immediately began descending. By the time I returned back to the Medetsiz trail, the sky had darkened considerably, although there was still no rain. The updated forecast suggested that rain would begin around 2:00 p.m. and end around 3:00 p.m. I decided to take the chance and continue toward Keşif Hill, hoping that the rain might miss my location. I made it to within roughly 100–150 meters of the summit when the first drops began to fall. The rain quickly intensified. I first put a rain cover over my backpack and then put on my own rain jacket. Around 2:00 p.m., the rain became heavy enough that I found a small depression in the terrain and crouched down, using my rain jacket to protect myself as much as possible. For a long time, there was little I could do except wait. Remaining still became increasingly uncomfortable, but getting soaked in those conditions would have been far more dangerous. The rain occasionally turned into hail, and I became concerned that the hailstones might grow larger. I heard thunder a few times in the distance, although fortunately there was no active lightning storm. I remained there until approximately 2:50 p.m., when the rain finally weakened. I was already cold from being sweaty, and my feet had gone numb from remaining in the same position for so long. I decided to continue, but after moving only a short distance, another dark cloud approached and the rain appeared to intensify again. I quickly returned to my previous shelter and waited another ten minutes. At around 3:00 p.m., I finally continued toward Keşif Hill. I reached the summit at approximately 3:10 p.m. The weather remained cloudy and light rain was still falling, so I stayed only briefly before beginning my descent. I followed the classic Medetsiz route down through Koyunaşağı Pass and eventually reached the ridge connecting Eğerkaya. The normal Medetsiz route descends from here toward the area below Karagöl. However, I still had enough time to attempt another summit, so I decided to climb Eğerkaya. I reached Eğerkaya at around 6:00 p.m. and quickly continued toward Erkaya, reaching its summit approximately twenty minutes later. By this point, I was already very tired, and it was getting late. One of my original plans had been to continue toward Göllücebaşı, but I decided to abandon that objective. Instead, I chose a route from Erkaya toward Karagedik Pass, above Çiniligöl, with the intention of reaching Gökboyun before darkness. The main concern was whether I could reach Karagedik Pass while there was still enough daylight to identify the route toward Gökboyun. Once beyond Gökboyun, I was confident that I could descend toward Meydan Plateau even in darkness. While traversing from Erkaya, I noticed several nomad tents far below and soon heard a shepherd calling out. A little farther on, I saw the shepherd slowly moving uphill, and shortly afterward I encountered his goats. He had been calling them down because leaving them high on the mountain overnight would make them more vulnerable to wolf attacks. I tried to help by driving the goats downhill. This involved several short ascents and descents and cost me some valuable time. Eventually, I managed to move them lower, but continuing down with them would have taken me too far from my route. As darkness was approaching, I decided to continue toward Karagedik. The shepherd called out to me, asking where I was going. I answered, "Meydan." He asked where I had come from, and I replied, "Medetsiz." His response was simple and memorable: "Yolun açık olsun!" — May your path be clear. I continued alone. The traverse from Erkaya to Karagedik Pass turned out to be one of the hardest sections of the day. It involved steep descents over loose scree-covered rock followed by very long traverses across unstable terrain. It may have felt even more difficult because of how tired I was by that point, but it was certainly a demanding section. By the time I reached Karagedik Pass, daylight had faded into twilight. Fortunately, I could still make out the rock cairn on Gökboyun summit. Even better, a very distinct trail led from the pass toward the summit, almost resembling part of an old migration route between Niğde and Adana. With the remaining light, I was able to follow the trail without difficulty. At approximately 8:10 p.m., I reached the summit of Gökboyun. From the summit, I descended carefully and slowly. Eventually, I reached the tractor road and followed it back toward Meydan Plateau. At around 10:00 p.m., I finally reached my car. After changing clothes, I decided to abandon my plans for the following day. I had originally intended to spend Saturday night at Meydan Plateau and climb the Göllücebaşı–Türbe Tepe route on Sunday. However, the afternoon storm had already pushed me into taking more risk than I was comfortable with. The forecast for Sunday was even worse, with rain accompanied by thunderstorms and lightning. I therefore decided that the sensible choice was to call off the second day and return home. What began as a planned two-day outing ultimately became a long solo traverse involving Top Hill, Tahtakayası, Koyunaşağı, Kızıldökük, Keşif Hill, Eğerkaya, Erkaya, and Gökboyun. Along the way, I encountered mountain goats, a shepherd moving his herd before nightfall, rapidly changing weather, heavy rain and hail, and several challenging sections of loose mountain terrain. It was a physically exhausting and occasionally uncomfortable day, but also one of those mountain experiences where the unexpected events become the most memorable part of the journey.
+![20260815_Kesif](20260815_Kesif.jpeg "Kesif Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Gökboyun :2
+==============
+
+-   Elevation: 2,925m
+-   Summit Date: August 15, 2026
+
+On August 15, 2026, I reached the summit of Gökboyun at approximately 8:10 p.m., marking the eighth summit of the traverse described above.
+![20260815_Gokboyun](20260815_Gokboyun.jpeg "Gokboyun Peak")
+![20260815_Gokboyun2](20260815_Gokboyun2.jpeg "Gokboyun Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Erkaya :1
+==============
+
+-   Elevation: 3,326m
+-   Summit Date: August 15, 2026
+
+On August 15, 2026, I reached the summit of Erkaya Hill at approximately 6:20 p.m., marking the seventh summit of the traverse described above.
+![20260815_Erkaya](20260815_Erkaya.jpeg "Erkaya Peak")
+![20260815_Erkaya2](20260815_Erkaya2.jpeg "Erkaya Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Eğerkaya :1
+==============
+
+-   Elevation: 3,347m
+-   Summit Date: August 15, 2026
+
+On August 15, 2026, I reached the summit of Eğerkaya Hill at approximately 6:00 p.m., marking the sixth summit of the traverse described above.
+![20260815_Egerkaya](20260815_Egerkaya.jpeg "Egerkaya Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kızıldökük Hill :1
+==============
+
+-   Elevation: 3,451m
+-   Summit Date: August 15, 2026
+
+On August 15, 2026, I reached the summit of Kızıldökük Hill at approximately 12:20 p.m., marking the fourth summit of the traverse described above.
+![20260815_Kizildokuk](20260815_Kizildokuk.jpeg "Kizildokuk Peak")
+![20260815_Kizildokuk2](20260815_Kizildokuk2.jpeg "Kizildokuk Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Koyunaşağı :2
+==============
+
+-   Elevation: 3,399m
+-   Summit Date: August 15, 2026
+
+On August 15, 2026, I reached the summit of Koyunaşağı at approximately 10:45 a.m., marking the third summit of the traverse described above.
+![20260815_Koyunasagi](20260815_Koyunasagi.jpeg "Koyunasagi Peak")
+![20260815_Koyunasagi2](20260815_Koyunasagi2.jpeg "Koyunasagi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Tahtakayası :2
+==============
+
+-   Elevation: 3,372m
+-   Summit Date: August 15, 2026
+
+On August 15, 2026, I reached the summit of Tahtakayası at approximately 9:55 a.m., marking the second summit of the traverse described above.
+![20260815_Tahtakayasi](20260815_Tahtakayasi.jpeg "Tahtakayasi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Top Hill :1
+==============
+
+-   Elevation: 3,036m
+-   Summit Date: August 15, 2026
+
+On August 15, 2026, I reached the summit of Top Hill at approximately 8:10 a.m., marking the first summit of the traverse described above.
+![20260815_Top](20260815_Top.jpeg "Top Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Cıngıllıbeşik :1
 ==============
 
@@ -640,7 +732,7 @@ Medetsiz :1
 -   Elevation: 3,524m
 -   Summit Date: August 24, 2025
 
-Medetsiz, the highest summit in the Bolkarlar mountain range of the Taurus Mountains, had long been on my list. This time, I set out solo. On August 23, 2025, I left home at 15:30 and reached the Meydan Plateau by 17:30. After pitching my tent, I had dinner around 18:45 and spent some time studying the mountain to plan my route before turning in for the night. I woke at 04:30 and started from camp at 05:30 a.m. Instead of following the classical route to Medetsiz, I chose a more challenging alternative that included traversing two additional summits along the way. My first stop was Tahtakayası (≈3,372 m), which I reached at 08:45. After a short 15-minute break, I continued toward Koyunaşağı (≈3,431 m), arriving at 09:40. A 20-minute rest here gave me the energy to push on toward Medetsiz. At 10:00 I left Koyunaşağı and, after a long ridge walk, reached Medetsiz summit (3,524 m) at 11:50 a.m. The panoramic views across the Bolkarlar were stunning. Though I was already tired, Köpükgöl Hill (≈3,438 m) ahead caught my eye, and I decided to include it while I was close. Leaving Medetsiz at 12:15, I summited Köpükgöl Hill at 12:53 and began my return at 13:20. Rather than reclimbing Medetsiz on the way back, I traversed around its slopes and reconnected with my earlier trail from the opposite side. I retraced my path to the pass below Koyunaşağı, then descended via the classical Medetsiz route toward Karagöl. By 17:30 I reached Karagöl, took a short rest, walked around the lake, and refilled my water at the fountain. Finally, I returned to Meydan Plateau at 18:50, packed my gear quickly before sunset, and departed camp at 19:30. It was a demanding yet deeply rewarding solo traverse of four summits in the heart of the Bolkarlar.
+Medetsiz, the highest summit in the Bolkarlar mountain range of the Taurus Mountains, had long been on my list. This time, I set out solo. On August 23, 2025, I left home at 15:30 and reached the Meydan Plateau by 17:30. After pitching my tent, I had dinner around 18:45 and spent some time studying the mountain to plan my route before turning in for the night. I woke at 04:30 and started from camp at 05:30 a.m. Instead of following the classical route to Medetsiz, I chose a more challenging alternative that included traversing two additional summits along the way. My first stop was Tahtakayası (≈3,372 m), which I reached at 08:45. After a short 15-minute break, I continued toward Koyunaşağı (≈3,399 m), arriving at 09:40. A 20-minute rest here gave me the energy to push on toward Medetsiz. At 10:00 I left Koyunaşağı and, after a long ridge walk, reached Medetsiz summit (3,524 m) at 11:50 a.m. The panoramic views across the Bolkarlar were stunning. Though I was already tired, Köpükgöl Hill (≈3,438 m) ahead caught my eye, and I decided to include it while I was close. Leaving Medetsiz at 12:15, I summited Köpükgöl Hill at 12:53 and began my return at 13:20. Rather than reclimbing Medetsiz on the way back, I traversed around its slopes and reconnected with my earlier trail from the opposite side. I retraced my path to the pass below Koyunaşağı, then descended via the classical Medetsiz route toward Karagöl. By 17:30 I reached Karagöl, took a short rest, walked around the lake, and refilled my water at the fountain. Finally, I returned to Meydan Plateau at 18:50, packed my gear quickly before sunset, and departed camp at 19:30. It was a demanding yet deeply rewarding solo traverse of four summits in the heart of the Bolkarlar.
 ![20250824_Medetsiz](20250824_Medetsiz.jpeg "Medetsiz Peak")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -659,7 +751,7 @@ On August 24, 2025, I departed from my camp on Meydan Plateau at 5:30 a.m. and r
 Koyunaşağı :1
 ==============
 
--   Elevation: 3,431m
+-   Elevation: 3,399m
 -   Summit Date: August 24, 2025
 
 On August 24, 2025, I left my camp on Meydan Plateau at 5:30 a.m., summited Tahtakayası (3,372 m) at 8:45 a.m., and continued on to reach Koyunaşağı at 9:40 a.m., marking the second peak of my Medetsiz traverse.

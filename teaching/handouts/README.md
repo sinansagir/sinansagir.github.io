@@ -2,6 +2,12 @@
 
 [Home](../README.md)
 
+Fizik Laboratuvarı I (Güz 2026)
+==============
+
+-   [Deney Grupları ve Tamamlama Durumları](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHCuYtPpY4ecJkoIWRvqFRzVG3TRKakK-cNTyQ02YSL7erIYOTr8yilMmRudodfONWIi88bNoGpcQY/pubhtml)
+
+<!---
 Fizik Laboratuvarı II (Bahar 2026)
 ==============
 
@@ -12,7 +18,6 @@ Fizik Laboratuvarı II (Bahar 2026)
 -   [Deney 4: Wheatstone köprüsü](https://www.youtube.com/shorts/sTCPxtrMnIw)
 ![VizeBahar2026](hist_vize_bahar26.png "Arasınav Not Dağılımı")
 
-<!---
 Temel Bilgi Teknolojileri Kullanımı (Güz 2024)
 ==============
 
