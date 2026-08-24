@@ -2,6 +2,76 @@
 
 [Home](../README.md)
 
+Türbe Hill :1
+==============
+
+-   Elevation: 3,123m
+-   Summit Date: August 23, 2026
+
+The Bolkar Mountains are one of the most rugged sections of the Taurus range in southern Türkiye, characterized by high alpine ridges, limestone peaks, deep valleys, and remote plateaus. Having already completed several solo ascents and traverses in the range, I wanted to explore another long ridge system starting from Meydan Plateau.
+
+I completed my preparations on Saturday, August 22, 2026. The following morning, I woke up at around 4:20 a.m. and, after getting ready, left home at approximately 4:40 a.m. I reached Meydan Plateau at around 6:40 a.m. and started hiking just a few minutes later.
+
+My first objective was Gökboyun. I reached the summit at approximately 8:15 a.m. and continued almost immediately toward Göllücebaşı, arriving at its summit around 8:50 a.m. From there, I continued along the ridge and reached Adsız at 9:20 a.m. The traverse continued with a steady succession of summits. I reached Karatepe at approximately 10:20 a.m., followed by Geyikdede at 11:00 a.m. and Bozdağ at 11:35 a.m. By 12:20 p.m., I had reached Türbe Tepe, and only twenty minutes later, at 12:40 p.m., I stood on the summit of Küçük Yayla Tepe. I descended from Küçük Yayla Tepe toward the plateau and reached the Tersakan spring. 
+
+From Tersakan spring, I started climbing again toward the next section of the route. At approximately 1:50 p.m., I reached Göreme Tepe, followed by Tersakantepe at 2:20 p.m. The traverse continued across the rugged terrain, and at 3:25 p.m. I reached Tersakantaş Tepe. My final summit of the day was Kuşkayası Tepe, which I reached at approximately 4:10 p.m. From Kuşkayası Tepe, I began the long descent toward Darboğaz. After descending into the Darboğaz area, I continued for several kilometers before climbing another roughly 200-meter-high hill on the right side of the valley. From there, the route eventually brought me back toward Meydan Plateau. I finally reached the plateau at approximately 7:20 p.m. After changing clothes and packing up, I started the drive home and arrived around 10:00 p.m.
+
+In total, the day became an unexpectedly long solo traverse linking 13 summits across the Bolkar Mountains: Gökboyun, Göllücebaşı, Adsız, Karatepe, Geyikdede, Bozdağ, Türbe Tepe, Küçük Yayla Tepe, Göreme Tepe, Tersakantepe, Tersakantaş Tepe, and Kuşkayası Tepe, together with the intervening ridges, valleys, and plateaus.
+
+What began with an early-morning start from Meydan Plateau turned into a full-day exploration of a large and relatively remote section of the Bolkarlar. By the time I returned to the plateau, I had spent almost thirteen hours on the mountain. It was another long and demanding solo day in the Bolkar Mountains, but also a rewarding opportunity to connect a large number of summits into a single continuous traverse.
+![20260823_Turbe](20260823_Turbe.jpeg "Turbe Peak")
+![20260823_Turbe2](20260823_Turbe2.jpeg "Turbe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Geyikdede :1
+==============
+
+-   Elevation: 3,283m
+-   Summit Date: August 23, 2026
+
+On August 23, 2026, I reached the summit of Geyikdede at approximately 11:00 a.m., marking the fourth summit of the traverse described above.
+![20260823_Geyikdede](20260823_Geyikdede.jpeg "Geyikdede Peak")
+![20260823_Geyikdede2](20260823_Geyikdede2.jpeg "Geyikdede Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Karatepe :1
+==============
+
+-   Elevation: 3,266m
+-   Summit Date: August 23, 2026
+
+On August 23, 2026, I reached the summit of Karatepe at approximately 10:20 a.m., marking the third summit of the traverse described above.
+![20260823_Karatepe](20260823_Karatepe.jpeg "Karatepe Peak")
+![20260823_Karatepe2](20260823_Karatepe2.jpeg "Karatepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Göllücebaşı :2
+==============
+
+-   Elevation: 3,137m
+-   Summit Date: August 23, 2026
+
+On August 23, 2026, I reached the summit of Göllücebaşı at approximately 8:50 a.m., marking the second summit of the traverse described above.
+![20260823_Gollucebasi](20260823_Gollucebasi.jpeg "Gollucebasi Peak")
+![20260823_Gollucebasi2](20260823_Gollucebasi2.jpeg "Gollucebasi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Gökboyun :3
+==============
+
+-   Elevation: 2,925m
+-   Summit Date: August 23, 2026
+
+On August 23, 2026, I reached the summit of Gökboyun at approximately 8:15 a.m., marking the first summit of the traverse described above.
+![20260823_Gokboyun](20260823_Gokboyun.jpeg "Gokboyun Peak")
+![20260823_Gokboyun2](20260823_Gokboyun2.jpeg "Gokboyun Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Keşif Hill :1
 ==============
 
