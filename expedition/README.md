@@ -13,9 +13,8 @@ After descending from Alayaka, I packed up my gear and left Elmalı. However, th
 I woke up around 3:00 a.m. on the climbing day. I tried to go back to sleep, but ended up mostly lying awake in my tent until around 4:30 a.m. The wind had picked up outside, and because I had not properly secured my tent's lines, it kept making noise throughout the night. At around 4:45 a.m., I finally got up, packed the tent, and prepared for the climb. After having a cup of coffee and a small snack, I started hiking at approximately 5:40 a.m. The ascent progressed steadily, and I reached the summit at around 8:50 a.m. I stayed there for roughly an hour, taking in the surroundings including a clear view of south face of Aladağlar range and enjoying the summit before beginning my descent. At approximately 11:35 a.m., I completed the hike and returned to my vehicle. After packing up, I stopped at the nearby fountain and rested my feet in the cold water for a while—a simple but very welcome way to recover after the climb. I left the camping area at around 12:15 p.m.
 ![20260827_Karanfil](20260827_Karanfil.jpeg "Karanfil Peak")
 ![20260827_Karanfil2](20260827_Karanfil2.jpeg "Karanfil Peak")
-<!---
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
--->
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=282348522&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Alayaka :1
 ==============
@@ -33,9 +32,8 @@ The final rocky ridge and the exposed summit towers made Alayaka a very differen
 ![20260826_Alayaka](20260826_Alayaka.jpeg "Alayaka Peak")
 ![20260826_Alayaka2](20260826_Alayaka2.jpeg "Alayaka Peak")
 ![20260826_Alayaka3](20260826_Alayaka3.jpeg "Alayaka Peak")
-<!---
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
--->
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=282197729&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
 
 Türbe Hill :1
 ==============
