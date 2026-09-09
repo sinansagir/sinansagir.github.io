@@ -2,6 +2,67 @@
 
 [Home](../README.md)
 
+Eznevit Yayla Hill :1
+==============
+
+-   Elevation: 2,538m
+-   Summit Date: September 7, 2026
+
+After returning from Vay Vay Mountain during the night, I reached my tent at around 2:00 a.m. and went straight to sleep. The following morning, September 7, 2026, I woke up at around 8:00 a.m. After having something to eat and drinking some coffee and tea, I slowly got myself ready for another ascent. At around 10:25 a.m., I left the Sarımemedin Yurdu campsite and started walking directly toward Eznevit Plateau. From there, I continued upward toward Eznevit Yayla Hill. The ascent was relatively straightforward, and at around 1:30 p.m., I reached the summit.
+
+The view from the top was beautiful. Many of the major peaks and valleys of the Aladağlar were visible from there, including Bölük Ormanı, Kocadölek, Vali Konağı, Kaldı, Alaca, Sulağankaya, and Güzeller. There was also another detail that made the view particularly interesting for me. During the Vay Vay climb the previous night, we had crossed the area between Cebel Pass and Bölük Ormanı both on the way in and on the way back entirely in the dark. From the summit of Eznevit Yayla Hill, I could clearly see that same section of the route. Seeing it in daylight gave me a completely different perspective on the terrain we had passed through only hours earlier. I spent some time enjoying the scenery before starting my descent.
+
+On the way down, I noticed a very clear trail leading from Eznevit Plateau toward the end of the Kocadölek–Bölük Ormanı area. I decided to follow it rather than retracing my ascent route. It turned out to be an excellent decision. The trail continued with a gentle, pleasant descent, accompanied by beautiful views of Bölük Ormanı Valley and the imposing peaks of the Aladağlar. Along the way, I came across a tree covered with small red fruits. They looked somewhat like cherries. Since I did not know what they were, I did not eat them, although I tasted one. It had a distinctly sour flavor. A flock of partridges had also disappeared into the surrounding vegetation, and I wondered whether they might have been feeding on the same fruits. I picked a few of them and later asked people about them and searched online. I learned that they were probably known locally as mountain plums or mountain cherries.
+
+Just after passing the fruit-bearing trees, I noticed a purple crocus growing among the rocks. It looked remarkably beautiful, almost like a small artificial flower carefully placed between the stones. I photographed it and later researched it as well. It turned out to be autumn crocus, also known as meadow saffron. I also learned that, despite its delicate appearance, it is highly poisonous.
+
+The trail eventually brought me to the lower end of Bölük Ormanı. From there, I continued through the forest on a long walk back toward the campsite. At around 4:30 p.m., I finally arrived at Sarımemedin Yurdu. Since I was already in the area, I decided to make one more useful exploration before leaving. I wanted to see whether it was possible to reach Karayalak campsite by my vehicle after coming out of Emli Valley. I first drove toward the lower Sokullupınar campsite and successfully reached it. From there, I continued along the road and eventually made it all the way to Karayalak campsite.
+
+Although this was a relatively short and relaxed climb compared with Vay Vay, it turned out to be quite useful. Besides enjoying another beautiful section of the Aladağlar, I had also explored the road access to Karayalak. It gave me a much better reference point for planning future climbs in this part of the range.
+![20260907_EznevitYaylaTepe](20260907_EznevitYaylaTepe.jpeg "Eznevit Yayla Peak")
+![20260907_EznevitYaylaTepe2](20260907_EznevitYaylaTepe2.jpeg "Eznevit Yayla Peak")
+![20260907_EznevitYaylaTepe3](20260907_EznevitYaylaTepe3.jpeg "Eznevit Yayla Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=284498913&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Vay Vay :1
+==============
+
+-   Elevation: 3,600m
+-   Summit Date: September 6, 2026
+
+The Aladağlar are among the most spectacular and rugged mountain ranges in Türkiye, rising in the eastern Taurus Mountains with vast limestone walls, deep valleys, high passes, and remote alpine terrain. Vay Vay Mountain lies deep within this range and is one of the more remote summits of the Aladağlar. Reaching it from the north requires a long traverse through the mountains, making the ascent as much an expedition through the Aladağlar as it is a summit climb.
+
+I completed my preparations on Saturday, September 5, 2026, and left Karaman at around 1:00 p.m. I reached Çamardı at approximately 4:00 p.m., where I bought the remaining supplies, had a meal, and picked up some food for the camp. I then continued toward Sarımemedin Yurdu and arrived there around 5:45 p.m. After setting up my tent, I had the dürüm and dessert I had bought in Çamardı and went to sleep shortly after dark. I managed to sleep for only three or four hours. At 11:45 p.m., I woke up and began preparing for the climb. The Demirkazık Mountaineering team was also heading into the mountains, and they kindly picked me up along the way in their pickup truck. Together, we drove to the Bölükormanı camping area, where we began the activity at approximately 12:50 a.m. on September 6.
+
+We started through the forest under darkness. Once we emerged from the trees, we entered the Kocadölek Valley and continued deeper into the Aladağlar. Around 3:00 a.m., we reached the Vali Konağı camping area. There was running water here, allowing us to refill our bottles. We continued upward through the darkness and reached Cebel East Pass at around 6:20 a.m. Just as dawn was breaking, we stopped at the pass and watched the first light spread across the surrounding peaks. It was one of those moments that makes the long approach worthwhile.
+
+Before descending into the Kokorot Valley, we noticed that Küçük Cebel was only about 90–100 meters above us. We decided to make the short detour and reached its summit at approximately 7:20 a.m. After spending some time there, we descended into the Kokorot Valley and continued across it. Eventually, we reached the area around the Vay Vay base camp. From here, the character of the landscape changed noticeably. The southern side of the Aladağlar opened before us, and we could see the alternative southern approach to Vay Vay Mountain in the distance.
+
+The northern approach we were following is a long and demanding traverse across the Aladağlar, involving considerable elevation loss and gain. The southern approach is considerably more direct. From our position, we could see the plateau and camping area used for this route. The approach begins at Acıman Plateau, which can reportedly be reached by ordinary vehicles, while the road from there to Köküt Plateau requires a 4×4 vehicle. Climbers generally reach Köküt Plateau the day before, camp there, and begin the summit attempt during the night.
+
+After reaching the Vay Vay base-camp area, we started climbing again. Shortly after crossing the first ridge, we came across Teyyare Çukuru—literally, the "Aircraft Pit." The site takes its name from an aircraft accident in the 1950s, when a British aircraft reportedly struck the mountain and crashed into this depression. The pit was covered in snow during our ascent, but aircraft wreckage can apparently still be seen when the snow has disappeared. Beyond Teyyare Çukuru, the route became considerably more technical. The rocky section of Vay Vay Mountain required careful scrambling and climbing. We ultimately managed this section without using technical climbing equipment, relying instead on careful movement through the rock. At approximately 2:00 p.m., after a long approach and a demanding final section, we reached the summit of Vay Vay Mountain. The summit rewarded us with an extraordinary panorama. The weather was clear, and the entire Aladağlar range stretched out around us. After the long hours of approach, it was difficult to leave such a spectacular viewpoint. We stayed on the summit for more than an hour before finally beginning our descent.
+
+For the return, we followed essentially the same route, with one difference: instead of Cebel East Pass, we used Cebel West Pass. By the time we had crossed the Kokorot Valley again, the sun had already set and the mountains were fading into twilight. We pushed ourselves to reach the pass while there was still some daylight, but darkness arrived before we could get there. We reached Cebel West Pass at approximately 8:45 p.m. After a short break, we started descending. The wind was extremely strong on the ridge, so there was little reason to linger. We descended toward Vali Konağı, where those who had run out of water refilled their bottles, and then continued down through Kocadölek Valley and eventually into the forest. At 1:05 a.m. on Monday, September 7, we finally reached the Bölükormanı camping area. Bilal abi was waiting for us there with the pickup truck. We drove back toward Sarımemedin Yurdu, where I was dropped off at my campsite. After a quick change of clothes, I went straight into my tent and finally allowed myself to sleep.
+
+This was a long and demanding expedition into the heart of the Aladağlar. The summit itself was only one part of the experience. The real challenge was the journey to reach it: moving through forests and remote valleys in darkness, crossing high passes, traversing the Kokorot Valley, climbing the rocky upper slopes of Vay Vay, and then making the entire journey back after sunset. Vay Vay was not simply another summit—it was a long journey through one of Türkiye's wildest mountain landscapes, and reaching its summit made every kilometer of the approach worthwhile.
+![20260906_VayVay](20260906_VayVay.jpeg "Vay Vay Peak")
+![20260906_VayVay2](20260906_VayVay2.jpeg "Vay Vay Peak")
+![20260906_VayVay3](20260906_VayVay3.jpeg "Vay Vay Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=284442507&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Küçük Cebel :1
+==============
+
+-   Elevation: 3,377m
+-   Summit Date: September 6, 2026
+
+On September 6, 2026, I reached the summit of Küçük Cebel Hill at approximately 7:20 a.m., marking the first summit of the Vay Vay expedition described above.
+![20260906_KucukCebel](20260906_KucukCebel.jpeg "Kucuk Cebel Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=284442507&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Mount Karanfil :1
 ==============
 
