@@ -2,6 +2,105 @@
 
 [Home](../README.md)
 
+Karatepe :2
+==============
+
+-   Elevation: 3,266m
+-   Summit Date: September 16, 2026
+
+Karagölbaşı to Karatepe: Two days of exploration in the Bolkarlar
+
+On Tuesday, September 15, I left home at around 8:20 a.m., reached Berendi at approximately 9:45 a.m. and continued for another 10 kilometers along the gravel road, arriving at around 10:10 a.m. at an elevation of roughly 2,100 meters. This was the same point where I had started my ascent of Ortadağ before. From here onward, however, everything was new territory for me. The road gradually became rougher and rougher. At several points, I considered turning around, but there was always the same thought in my mind: I had already driven this far, and if I turned back now, all the distance I had covered would have been for nothing. So I kept going. For a long time, I did not encounter anyone. Eventually, I passed a shepherd with a flock of sheep. A little farther along the road, I saw a man named Veli and offered him a ride. I soon learned that the shepherd I had passed earlier was actually his cousin, and Veli was returning to his tent. I picked him up and we continued together.
+
+About 37 kilometers after Berendi, we reached Veli's tent at around noon. He kindly offered me some tea, but I thanked him and continued. Just a little farther ahead, he showed me a mountain hut and told me that I could stay there if I ever needed a place to sleep. He also mentioned that he was there with his brother. When I reached the mountain hut, I stopped briefly to have a look and happened to meet Veli's brother, Şaban. We had a long conversation. He told me that, rather than returning the way I had come, there was a shorter way down toward Niğde. He had not personally seen the road, but had heard that it had recently been improved. After leaving the mountain hut, I continued toward my destination. 
+
+At around kilometer 44 and around 1:15 p.m., I parked the car at what I had identified as a suitable starting point for Karagölbaşı, prepared my gear, and began the ascent. As I climbed, I was also trying to decide how I would approach Karayelek Mountain. Initially, I had planned to climb the two mountains separately. But by the time I finished Karagölbaşı, it would already be getting late, meaning that Karayelek might have to wait until the following day. Another possibility was to continue directly from the Karagölbaşı summit along the ridge toward Karayelek and then descend to my vehicle from the other side. The problem was that I had no previously recorded route for these two mountains, so I could only estimate the distance. If the ridge contained significant ups and downs, the traverse could take much longer than expected. I would also be moving farther away from my car. I decided to make the final decision once I reached Karagölbaşı summit. I had chosen a dry streambed for the ascent. At around 2:40 p.m., I reached the summit. From the top, I could finally see the lake that had given Karagölbaşı its name: Karagöl. Looking down at it, I realized that I might have chosen a better route if I had approached the summit by passing beside the lake. It would have allowed me to see Karagöl up close and might also have provided an easier ascent.
+
+After a short evaluation, I decided to continue toward Karayelek. I did not spend much time on the Karagölbaşı summit and immediately set off. A little farther along, I spotted a herd of goats in the distance. I remembered Veli's warning about the shepherd dogs and hesitated briefly. After considering the situation, I decided to continue while staying out of sight of the herd. At around 4:15 p.m., I reached the summit of Karayelek. By now, I was conscious of the time. I wanted to reach my car before dark and then find a suitable place to spend the night, so I did not linger on the summit. I immediately began descending. At around 5:55 p.m., I reached the car, completing both the Karagölbaşı and Karayelek ascents. I quickly changed clothes and continued by car toward Yazıgöl. At around 6:30 p.m., I reached the area in front of Kızıltepe. I was trying to decide whether Kekrecik Mountain would be easier to approach from the Yazıgöl side or from the opposite side. After a quick look at the terrain, I decided to explore the opposite side first, since the road seemed to get closer to the mountain there. If it did not work, I could always continue toward Yazıgöl. At around 6:50 p.m., I reached the closest point I could drive to. There was a goat herd nearby, and darkness was approaching quickly. For a moment, I considered driving to Yazıgöl and setting up camp there, but it was already getting late. I decided it would be safer and simpler to stay where I was and attempt Kekrecik from this side the following morning. I quickly prepared dinner. By the time I finished eating, it was already dark and the temperature had dropped considerably. I spent a little time looking at the stars before going to sleep at around 8:30 p.m. There was not enough time to pitch the tent, so I simply left one of the rear doors of the car open, climbed into my sleeping bag on the back seat, and spent the night there.
+
+I woke up at around 5:00 a.m. the next morning. After a quick coffee, I got ready and started climbing at approximately 5:37 a.m. I wanted to watch the sunrise from the summit, so I moved quickly. At around 6:13 a.m., I reached the summit of Kekrecik. There were still about ten minutes before sunrise, but the summit ridge was quite windy. I walked along the ridge until I found a spot where I could enjoy the sunrise properly, and waited for the first light of the day. Once the sun had risen, I spent some time enjoying the view from Kekrecik. I had not originally planned another summit, but Kızıltepe was apparently a well-known hill among people in the area. Since it was visible from Kekrecik and seemed within reach, I decided to continue toward it. I left Kekrecik and reached the summit of Kızıltepe at around 7:20 a.m. From there, I descended toward the car and arrived at approximately 8:12 a.m., completing the Kekrecik and Kızıltepe ascents.
+
+After reaching the car, I decided to have breakfast at Yazıgöl. I arrived there around 9:00 a.m. and finally had my breakfast. But the day was not over yet. While I was in the area, I remembered Türbe Tepe, the final summit of one of my previous traverses that had started from Meydan Plateau. I decided to climb it again, this time from Yazıgöl. I started the ascent at around 9:37 a.m. At approximately 10:37, I reached the point I had previously named Gözet Hill during that traverse. I continued along the ridge and reached Küçük Yayla Hill at around 10:47. At approximately 11:00 a.m., I reached the summit of Türbe Hill.
+
+From there, the ridge continued toward Geyikdede, another summit from my previous traverse. It began to tempt me almost immediately. After a quick calculation of the time and distance, I decided to go for it. At around noon, I reached the summit of Geyikdede. And then, once again, another summit caught my attention. This time it was Karatepe. I continued toward it and reached the summit at approximately 12:40 p.m. By now, I had accumulated quite a few more summits than originally planned for the day. I finally turned around and began the long descent toward the vehicle. At around 2:50 p.m., I reached the car, bringing the climbing part of the day to an end.
+
+I decided to descend toward Darboğaz, but before committing to the road, I wanted to ask someone about its condition. There is usually someone around Hüseyin Çavuşun Yurdu in the Tersakan area, so I decided to stop there first. When I arrived, I found two off-road pickup trucks and a group of people. They were preparing a barbecue. I greeted them and asked about the road to Darboğaz. They told me that I could descend that way. They insisted that I stay for the meal, but the weather was unsettled and I did not know the road well, so I preferred to continue while I still had plenty of daylight. At around 5:25 p.m., I completed the descent to Darboğaz. The descent itself was not particularly difficult, but I quickly realized that the road would be too steep to climb back up with a normal vehicle. It was therefore a useful route to know for future trips, but not one I would want to use as a vehicle approach with my current car. From Darboğaz, I continued toward Ereğli. By the time I stopped for dinner, the weather had deteriorated further and strong winds had begun to blow. Looking back, I was glad that I had not spent too much time hesitating on the mountains and had chosen to descend while the conditions were still manageable. After dinner, I continued home and arrived at around 8:30 p.m.
+
+What had started as an attempt to climb Karagölbaşı, Karayelek, and Kekrecik had turned into two days of exploration and a series of unexpected additions: Kekrecik and Kızıltepe at sunrise, followed by Türbe Tepe, Geyikdede and Karatepe. Once again, the mountains had turned a relatively simple plan into something much bigger.
+![20260916_Karatepe](20260916_Karatepe.jpeg "Karatepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Geyikdede :2
+==============
+
+-   Elevation: 3,283m
+-   Summit Date: September 16, 2026
+
+On September 16, 2026, I reached the summit of Geyikdede at approximately 12:00 p.m., marking the sixth summit of the two-day exploration in the Bolkarlar described above.
+![20260916_Geyikdede](20260916_Geyikdede.jpeg "Geyikdede Peak")
+![20260916_Geyikdede2](20260916_Geyikdede2.jpeg "Geyikdede Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Türbe Hill :2
+==============
+
+-   Elevation: 3,123m
+-   Summit Date: September 16, 2026
+
+On September 16, 2026, I reached the summit of Türbe Hill at approximately 11:00 a.m., marking the fifth summit of the two-day exploration in the Bolkarlar described above.
+![20260916_Turbe](20260916_Turbe.jpeg "Turbe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kızıltepe :1
+==============
+
+-   Elevation: 3,086m
+-   Summit Date: September 16, 2026
+
+On September 16, 2026, I reached the summit of Kızıltepe at approximately 7:20 a.m., marking the fourth summit of the two-day exploration in the Bolkarlar described above.
+![20260916_Kiziltepe](20260916_Kiziltepe.jpeg "Kiziltepe Peak")
+![20260916_Kiziltepe2](20260916_Kiziltepe2.jpeg "Kiziltepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286070187&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kekrecik :1
+==============
+
+-   Elevation: 3,110m
+-   Summit Date: September 16, 2026
+
+On September 16, 2026, I reached the summit of Mount Kekrecik at approximately 6:15 a.m., marking the third summit of the two-day exploration in the Bolkarlar described above.
+![20260916_Kekrecik](20260916_Kekrecik.jpeg "Kekrecik Peak")
+![20260916_Kekrecik2](20260916_Kekrecik2.jpeg "Kekrecik Peak")
+![20260916_Kekrecik3](20260916_Kekrecik3.jpeg "Kekrecik Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286070187&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Karayelek :1
+==============
+
+-   Elevation: 3,058m
+-   Summit Date: September 15, 2026
+
+On September 15, 2026, I reached the summit of Karayelek at approximately 4:15 p.m., marking the second summit of the two-day exploration in the Bolkarlar described above.
+![20260915_Karayelek](20260915_Karayelek.jpeg "Karayelek Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286060503&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Karagölbaşı :1
+==============
+
+-   Elevation: 3,057m
+-   Summit Date: September 15, 2026
+
+On September 15, 2026, I reached the summit of Karayelek at approximately 2:40 p.m., marking the first summit of the two-day exploration in the Bolkarlar described above.
+![20260915_Karagolbasi](20260915_Karagolbasi.jpeg "Karagolbasi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286060503&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Eznevit Yayla Hill :1
 ==============
 
