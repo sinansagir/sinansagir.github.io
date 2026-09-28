@@ -25,7 +25,7 @@ At around 5:10 p.m., I left Bozkaya and began descending toward Narpuz Valley th
 I eventually reached Narpuz Valley at around 6:45 p.m. Twilight had already begun to settle over the valley. But I was no longer worried about finding my way. I had now rejoined the route I had followed in the dark that morning, and I knew the rest of the way back to the car. At around 7:25 p.m., I reached my car at Karayalak campsite. After changing clothes, I left the campsite at around 8:00 p.m. What had started as a plan to explore a few peaks around the Yedigöller Plateau had turned into a long traverse with eight summits, a knife-edge ridge, an unfamiliar scree descent, and two unforgettable encounters with wild goats. It was a long day, but exactly the kind of day I had hoped for when I set out.
 ![20260926_Bozkaya](20260926_Bozkaya.jpeg "Bozkaya Peak")
 ![20260926_Bozkaya2](20260926_Bozkaya2.jpeg "Bozkaya Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Hürtepe :1
@@ -37,7 +37,7 @@ Hürtepe :1
 On September 26, 2026, I reached the summit of Hürtepe at approximately 4:10 p.m., marking the sixth summit of the Yedigöller traverse described above.
 ![20260926_Hurtepe](20260926_Hurtepe.jpeg "Hürtepe Peak")
 ![20260926_Hurtepe2](20260926_Hurtepe2.jpeg "Hürtepe Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Emler :2
@@ -49,7 +49,7 @@ Emler :2
 On September 26, 2026, I reached the summit of Emler at approximately 3:30 p.m., marking the fifth summit of the Yedigöller traverse described above.
 ![20260926_Emler](20260926_Emler.jpeg "Emler Peak")
 ![20260926_Emler2](20260926_Emler2.jpeg "Emler Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Oğlak Kaya :1
@@ -60,7 +60,7 @@ Oğlak Kaya :1
 
 On September 26, 2026, I reached the summit of Oğlak Kaya at approximately 2:20 p.m., marking the fourth summit of the Yedigöller traverse described above.
 ![20260926_OglakKaya](20260926_OglakKaya.jpeg "Oğlak Kaya Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Yumru Hill :1
@@ -72,7 +72,7 @@ Yumru Hill :1
 On September 26, 2026, I reached the summit of Yumru Hill at approximately 12:30 p.m., marking the third summit of the Yedigöller traverse described above.
 ![20260926_Yumru](20260926_Yumru.jpeg "Yumru Peak")
 ![20260926_Yumru2](20260926_Yumru2.jpeg "Yumru Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Kocasarp :1
@@ -83,7 +83,7 @@ Kocasarp :1
 
 On September 26, 2026, I reached the summit of Kocasarp at approximately 10:35 a.m., marking the second summit of the Yedigöller traverse described above.
 ![20260926_Kocasarp](20260926_Kocasarp.jpeg "Kocasarp Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Sematepe :1
@@ -95,7 +95,7 @@ Sematepe :1
 On September 26, 2026, I reached the summit of Sematepe at approximately 9:30 a.m., marking the first summit of the Yedigöller traverse described above.
 ![20260926_Sematepe](20260926_Sematepe.jpeg "Sematepe Peak")
 ![20260926_Sematepe2](20260926_Sematepe2.jpeg "Sematepe Peak")
-<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
 Karatepe :2
