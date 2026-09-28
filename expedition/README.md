@@ -2,6 +2,102 @@
 
 [Home](../README.md)
 
+Bozkaya :1
+==============
+
+-   Elevation: 3,500m
+-   Summit Date: September 26, 2026
+
+I made my preparations on Friday, September 25, and left Karaman at around 6:00 p.m. I reached Demirkazık Mountain Hut at approximately 9:20 p.m. When I arrived, I found myself deciding between two options: staying at the mountain hut or driving up to Karayalak campsite and pitching my tent there. Camping at Karayalak would have given me a useful backup for the following day in case I returned late or exhausted from the mountains. In the end, however, I decided not to bother with the tent. I parked the car at Demirkazık Mountain Hut and spent the night sleeping inside my car. I woke up at around 4:15 a.m. and drove toward Karayalak campsite. I arrived shortly before 5:00 a.m. After a cup of coffee and two bananas, I started walking at around 5:00. I followed the clearly visible trail through Narpuz Valley toward the Demirkazık–Red Scree junction. From there, I could see two climbers ascending toward Demirkazık through the red scree. They had probably started about an hour before me.
+
+I continued from the junction into the northwestern couloir of Sematepe. The couloir involved some scrambling, with sections where I had to use my hands. At one point, I came across an installed anchor. It may have been placed for rappelling on the descent or perhaps for winter climbing. After climbing above Yasemin Pass, I reached the ridge. The scene that opened up in front of me was spectacular. The Yedigöller Plateau stretched out below my feet, while Büyük Demirkazık stood across from me in all its grandeur. As I was taking photographs, I noticed a herd of wild goats spread out across the slopes below. At first, neither they nor I had noticed each other. It was only later, when I looked back at the photographs I had taken, that I realized the goats had been quietly grazing in the background of my pictures. The moment they noticed me, however, everything changed. They suddenly began running noisily across the slopes, and only then did I realize they were there. Fortunately, my phone was already in my hand, so I was able to record the moment. Watching them move so effortlessly across the steep terrain was an unexpected highlight of the ascent.
+
+After a short climb along the ridge, I reached Sematepe at around 9:30 a.m. I stopped briefly to eat something and then continued toward Kocasarp. At approximately 10:35 a.m., I reached the summit of Kocasarp. From Kocasarp, I descended toward Büyük Lake. I spent a short while beside the lake before continuing toward Yumru Tepe. Yumru Hill had not originally been part of my plan. However, the route passed so close to its summit that I could not convince myself to simply walk past it without climbing to the top. So I changed my plan and made the short detour. At around 12:30 p.m., I reached the summit of Yumru Hill. From the top, I had a panoramic view of the Yedigöller Plateau and the surrounding peaks. I stayed for a while to take in the scenery before descending.
+
+My next planned target was Oğlak Kaya, but I noticed that Yumurta Hill was almost directly on the route. It required only a short climb of around 20–30 meters and, as its name suggests, its shape resembled an egg. I reached its summit at around 1:00 p.m. From Yumurta Hill, I descended to the small lake immediately below it. By the end of the season, the lake had shrunk considerably. I sat beside it for a while, ate and drank something, and reapplied sunscreen before continuing. At around 2:20 p.m., I reached the summit of Oğlak Kaya. My original plan from there was to continue toward Hürtepe. However, I was also considering whether I could fit in Emler summit first. Time seemed to be on my side, but I was uncertain about the ridge between Hürtepe and Bozkaya. I did not know how long the knife-edge section would take or how difficult the subsequent scree descent from Bozkaya would be. After considering the options, I decided to include Emler as well.
+
+At approximately 3:30 p.m., I reached the summit of Emler. I did not stay long because I still had Hürtepe and Bozkaya ahead of me. I descended toward Hürtepe and reached its summit at around 4:10 p.m. Sunset was at approximately 6:32 p.m., and darkness would arrive around 7:00 p.m. That gave me a little less than three hours to complete the remaining section. The route from Hürtepe to Bozkaya did not look particularly long, but almost the entire ridge appeared to consist of a knife-edge traverse. Technical difficulties could easily consume more time than expected, so I did not linger on Hürtepe.
+
+I carefully traversed the ridge. There were several sections where the exposure created a strong sense of emptiness, with drops of roughly 400–500 meters on one side. I moved slowly and deliberately, focusing on each step. At around 4:40 p.m., I finally completed the knife-edge traverse and reached Bozkaya, the final summit of the day. The descent from Bozkaya looked considerably more manageable from the summit than it had from a distance. Since I still had some time before darkness, I decided to spend almost half an hour there. I changed my upper layers, put on my knee braces, changed my socks, and ate something before starting the descent.
+
+At around 5:10 p.m., I left Bozkaya and began descending toward Narpuz Valley through the scree. The descent followed a couloir that gradually narrowed and eventually became more like a streambed, before widening again as it approached Narpuz Valley. When I reached the narrower section, I took out my phone to photograph the surroundings. At that exact moment, a herd of wild goats suddenly burst from the rocks nearby and ran uphill. I immediately started recording. I suspect they had been using that sheltered section as a place to spend the night, and unfortunately my arrival had disturbed them. Watching them climb away was an incredible experience. Their ability to move across the rock was extraordinary. From a distance, the section they crossed looked almost like a vertical wall, yet the goats simply ran across it and disappeared into the mountains.
+
+I eventually reached Narpuz Valley at around 6:45 p.m. Twilight had already begun to settle over the valley. But I was no longer worried about finding my way. I had now rejoined the route I had followed in the dark that morning, and I knew the rest of the way back to the car. At around 7:25 p.m., I reached my car at Karayalak campsite. After changing clothes, I left the campsite at around 8:00 p.m. What had started as a plan to explore a few peaks around the Yedigöller Plateau had turned into a long traverse with eight summits, a knife-edge ridge, an unfamiliar scree descent, and two unforgettable encounters with wild goats. It was a long day, but exactly the kind of day I had hoped for when I set out.
+![20260926_Bozkaya](20260926_Bozkaya.jpeg "Bozkaya Peak")
+![20260926_Bozkaya2](20260926_Bozkaya2.jpeg "Bozkaya Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Hürtepe :1
+==============
+
+-   Elevation: 3,570m
+-   Summit Date: September 26, 2026
+
+On September 26, 2026, I reached the summit of Hürtepe at approximately 4:10 p.m., marking the sixth summit of the Yedigöller traverse described above.
+![20260926_Hurtepe](20260926_Hurtepe.jpeg "Hürtepe Peak")
+![20260926_Hurtepe2](20260926_Hurtepe2.jpeg "Hürtepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Emler :2
+==============
+
+-   Elevation: 3,723m
+-   Summit Date: September 26, 2026
+
+On September 26, 2026, I reached the summit of Emler at approximately 3:30 p.m., marking the fifth summit of the Yedigöller traverse described above.
+![20260926_Emler](20260926_Emler.jpeg "Emler Peak")
+![20260926_Emler2](20260926_Emler2.jpeg "Emler Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Oğlak Kaya :1
+==============
+
+-   Elevation: 3,470m
+-   Summit Date: September 26, 2026
+
+On September 26, 2026, I reached the summit of Oğlak Kaya at approximately 2:20 p.m., marking the fourth summit of the Yedigöller traverse described above.
+![20260926_OglakKaya](20260926_OglakKaya.jpeg "Oğlak Kaya Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Yumru Hill :1
+==============
+
+-   Elevation: 3,333m
+-   Summit Date: September 26, 2026
+
+On September 26, 2026, I reached the summit of Yumru Hill at approximately 12:30 p.m., marking the third summit of the Yedigöller traverse described above.
+![20260926_Yumru](20260926_Yumru.jpeg "Yumru Peak")
+![20260926_Yumru2](20260926_Yumru2.jpeg "Yumru Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kocasarp :1
+==============
+
+-   Elevation: 3,621m
+-   Summit Date: September 26, 2026
+
+On September 26, 2026, I reached the summit of Kocasarp at approximately 10:35 a.m., marking the second summit of the Yedigöller traverse described above.
+![20260926_Kocasarp](20260926_Kocasarp.jpeg "Kocasarp Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Sematepe :1
+==============
+
+-   Elevation: 3,654m
+-   Summit Date: September 26, 2026
+
+On September 26, 2026, I reached the summit of Sematepe at approximately 9:30 a.m., marking the first summit of the Yedigöller traverse described above.
+![20260926_Sematepe](20260926_Sematepe.jpeg "Sematepe Peak")
+![20260926_Sematepe2](20260926_Sematepe2.jpeg "Sematepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Karatepe :2
 ==============
 
