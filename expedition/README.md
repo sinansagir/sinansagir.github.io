@@ -2,6 +2,170 @@
 
 [Home](../README.md)
 
+Çağalınbaşı :1
+==============
+
+-   Elevation: 3,612m
+-   Summit Date: October 11, 2026
+
+A Two-Day Traverse in the Aladağlar: From Maltepe to Çağalınbaşı
+
+I initially considered spending the night at the Turkish Mountaineering Federation's mountain hut, but eventually decided that camping at Arpalık Plateau would be more convenient. I could also use the tent the following night if necessary. I arrived at Arpalık Plateau at around 9:30 p.m. and stopped near a water fountain. The surroundings were dark, and I could hear sheep bells in the distance. A little farther away, I could see the light of a shepherd's tent. I got out of the car to look for a suitable place to pitch my tent, but the ground was rocky and sloped, with hardly any flat space. While I was looking around, the dogs suddenly started barking, and I quickly returned to the car. Between the lack of a suitable campsite and my uneasiness about the dogs, I decided to sleep in the car instead. Unlike on previous trips, however, I could not leave a door open because of the animals nearby. I reclined the passenger seat as far as possible and tried to make myself comfortable. While I was still settling in, a dog suddenly appeared beside me. It did not seem aggressive and sat down a short distance away, apparently hoping I might give it something to eat. I spent the night trying to sleep in an awkward position, never quite managing to get comfortable.
+
+I woke up at around 4:20 a.m. on Saturday. After a cup of coffee and two bananas, I set off at approximately 5:00 a.m. Knowing that there were flocks of sheep and their dogs somewhere nearby, I did my best to move quietly through the initial section. I kept my headlamp on its red-light setting and paid close attention to my surroundings. Fortunately, I managed to get through without provoking any barking. Shortly after crossing the mountain pass known as Kapı, I reached Teke Spring at around 6:00 a.m. Dawn had not yet broken. The sky began to brighten near the junction for the eastern couloir route of Küçük Demirkazık. Before reaching Obayeri Plateau, I turned left and began climbing toward the ridge between Davlumbaz and Maltepe. At 8:42 a.m., I reached the summit of Maltepe. I took a break of around twenty minutes before setting off toward Davlumbaz at 9:00 a.m. I reached Davlumbaz at 9:40 a.m. After another half-hour break, I left the summit at around 10:12 a.m. The northern side of Davlumbaz, where I intended to descend, was covered in snow. Below the snowline, a group of mountain goats was grazing. I tested the snow conditions and found that the snow was soft enough to descend without technical equipment, so I began making my way down. After descending approximately 200–300 meters, I started climbing toward Karakule. The slope was not particularly steep, and I reached its summit at 10:57 a.m. Kelkır was just beyond a short descent and ascent from Karakule, but I had planned to visit İspir Hill first. I descended into the basin between Karakule and Kelkır and tried following a ridge that appeared to lead toward İspir. However, I soon realized that it formed a very sharp, exposed knife-edge. It was unclear whether the ridge would remain passable farther along. After checking my planned route, I realized that I needed to descend from a lower saddle, bypass part of the ridge, and rejoin it farther ahead. The alternative involved a very steep couloir loaded with snow. There did not seem to be another viable option, so I began descending the couloir carefully. At 11:40 a.m., I reached the summit of İspir Hill. While approaching İspir, I had noticed two additional summits that were not part of my original plan: Emmi Hill and Beygiruçuğu. I had previously considered checking whether Emmi Hill could be reached after Adalıgöl, but from my current position it seemed that Beygiruçuğu would be a more straightforward addition. It involved descending roughly 200–300 meters from İspir and then climbing approximately 100 meters. I decided to visit Beygiruçuğu first and reached its summit at 12:18 p.m. The summit had two very different sides. I had approached from the sloping side, while the opposite side ended in steep, exposed rock. The actual summit point was separated from the main rock mass by a narrow, continuous fissure. The gap began about ten meters before the summit and left the final section slightly detached from the main formation. After looking for a way across, I found a small section where I could descend and climb over the rocks to reach the summit itself. I was still tempted to continue toward Emmi Hill, but its ascent route looked more complicated from here. Some sections appeared difficult, and I could not be certain they would be passable. Spending additional time exploring an uncertain route could jeopardize the rest of my traverse. I also knew that Emmi Hill was sometimes climbed in winter from the paved road, following a non-technical ridge. Since it could be approached separately on another occasion, I decided not to attempt it that day. I would reconsider the possibility when I reached Adalıgöl. I left Beygiruçuğu at around 12:36 p.m. and headed toward Kelkır via İspir Pass. At 1:35 p.m., I reached the summit of Kelkır and departed nineteen minutes later. I continued along the route, reaching Adalıgöl at 2:17 p.m. and the Kader Kısmet Towers at 2:28 p.m. From there, a traverse toward Emmi Hill no longer seemed feasible, so I returned to my original plan and headed for Hacettepe. I reached Hacettepe at 2:53 p.m. The final 100–150 meters involved an exposed knife-edge ridge, with deep drops on both sides. I did not linger and left the summit at 3:00 p.m. At 3:26 p.m., I reached Paşa Hill. After a short stay, I began descending toward Teke Spring, arriving at 4:53 p.m. Tekekule was another summit I had considered climbing either that day or the following morning. After a quick assessment of the remaining time, I decided to climb it immediately rather than leave it for another day. I reached Tekekule at 5:48 p.m. and left at 5:56 p.m. I had caught the sunset from the summit, but I could not afford to stay much longer. I still needed to find a suitable place to pitch my tent before darkness set in. At 6:40 p.m., I arrived back at Arpalık Plateau. Twilight was already fading. The previous evening, I had parked beside the fountain, but I had noticed that the road continued a little farther and that the ground beyond it looked flatter. I quickly moved the car to that spot and pitched my tent. After changing clothes, I prepared my backpack for the following day's climb and began making dinner. I went to bed at around 9:30 p.m., but sleep did not come easily. My nose was blocked, the tent was pitched on a slight slope, and my legs were aching after the long day. Eventually, however, exhaustion caught up with me, and I fell asleep.
+
+At around 2:30 a.m. on Sunday, I was awakened by the arrival of a group of climbers. Their voices kept me awake for another fifteen to twenty minutes. They eventually set off, but a little later, the dogs began barking again. I got up at around 3:00 a.m. and looked outside. I could see the climbers' headlamps moving into the mountains. I returned to my tent, but I could no longer fall asleep. I ate something, packed the tent, and then had a cup of coffee in the car. After getting everything ready, I started my own ascent at around 4:15 a.m. The group that had left earlier was already out of sight. As on the previous morning, I tried to pass the area without disturbing the dogs. This time, however, I knew that the sheep were farther down the slope. They might still be able to see me during the first kilometer or so, but beyond that, I would be outside their line of sight. I reached Teke Spring at around 5:13 a.m. As I approached Obayeri Plateau, dawn was breaking, revealing the magnificent silhouettes of Büyük Demirkazık and Küçük Demirkazık. I continued climbing and reached Yıldız Batı at 8:25 a.m. A chilly breeze was blowing across the summit, so I ate a little and left at 8:45 a.m. At 9:22 a.m., I reached Yıldızbaşı. From there, the route ahead was clearly visible. Long, exposed knife-edge sections lay between me and Çağalınbaşı, followed by an ascent that did not look particularly easy. The forecast called for showers later in the afternoon, reminding me that I needed to keep moving. I left Yıldızbaşı at 9:30 a.m. The route first descended into a basin, followed by a steep climb toward the beginning of the knife-edge ridge. This section faced north and was largely snow-covered. Because the snow was still very hard in the early morning, I needed to find a way up through the snow-free terrain rather than rely on the icy slopes. After completing the steep climb, I traversed the ridge and reached Bozkurt Hill at around 10:24 a.m. I did not stop, continuing toward Çağalınbaşı just six minutes later. At approximately 11:00 a.m., I reached the summit of Çağalınbaşı. Just beyond the summit, I noticed another peak with a cairn on top. I immediately wondered whether it might be Beşparmak Sivrisi. I checked Wikiloc, and the location seemed to match. I inspected the terrain to see whether I could reach it. The route required descending a section with considerable exposure and a drop of around 15–20 meters, followed by an apparently straightforward ascent to the summit. Since it was so close, I decided to give it a try. However, when I reached the top, I realized that it was not the summit I had been looking for. I immediately turned around and returned to Çağalınbaşı. My original plan had been to continue from Çağalınbaşı toward MTA summit. After considering the situation, I decided against it. The additional traverse would take considerable time, and I did not want to risk being caught in the deteriorating afternoon weather. I had also noticed snow along the ridge normally used for the passage. If the snow remained hard, crossing it could be difficult or even impossible. MTA could be approached more easily from the Yedigöller Plateau on another occasion, so I decided to leave it for a future trip rather than spend valuable time on an uncertain route. At 11:24 a.m., I began descending from Çağalınbaşı. There was a short chimney section just below the summit. Snow in the chimney had made me somewhat uneasy during the ascent, so I negotiated it particularly carefully on the way down. After completing the knife-edge traverse, I reached Akçay Pass and descended directly toward Dipsiz Göl. I arrived at the lake at around 12:55 p.m. and took a break to eat. I continued toward Teke Spring, reaching it at approximately 2:30 p.m. I collected four liters of water to take home and then made my way back to the car. At 3:22 p.m., I reached the vehicle. After changing clothes, I left Arpalık Plateau at around 4:10 p.m.
+
+The two days had brought a long series of summits, exposed ridges, steep couloirs, hard snow, and several decisions about when to continue and when to leave a peak for another day. Not every summit on my mind had been reached, and a few unexpected ones had found their way into the itinerary. But that was part of the appeal of this trip: adapting to the terrain, managing the time and conditions, and leaving something for the next visit to the Aladağlar.
+![20261011_Cagalinbasi](20261011_Cagalinbasi.jpeg "Cagalinbasi Peak")
+![20261011_Cagalinbasi2](20261011_Cagalinbasi2.jpeg "Cagalinbasi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Bozkurt Hill :1
+==============
+
+-   Elevation: 3,444m
+-   Summit Date: October 11, 2026
+
+On October 11, 2026, I reached the summit of Bozkurt Hill at approximately 10:24 a.m., marking the thirteenth summit of the two-day traverse in the Aladağlar described above.
+![20261011_Bozkurt](20261011_Bozkurt.jpeg "Bozkurt Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Yıldızbaşı :1
+==============
+
+-   Elevation: 3,454m
+-   Summit Date: October 11, 2026
+
+On October 11, 2026, I reached the summit of Yıldızbaşı at approximately 9:22 a.m., marking the twelfth summit of the two-day traverse in the Aladağlar described above.
+![20261011_Yildizbasi](20261011_Yildizbasi.jpeg "Yildizbasi Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Yıldız Batı :1
+==============
+
+-   Elevation: 3,300m
+-   Summit Date: October 11, 2026
+
+On October 11, 2026, I reached the summit of Yıldız Batı at approximately 8:25 a.m., marking the eleventh summit of the two-day traverse in the Aladağlar described above.
+![20261011_YildizBati](20261011_YildizBati.jpeg "YildizBati Peak")
+![20261011_YildizBati2](20261011_YildizBati2.jpeg "YildizBati Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Tekekule :1
+==============
+
+-   Elevation: 2,700m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Tekekule at approximately 5:48 p.m., marking the tenth summit of the two-day traverse in the Aladağlar described above.
+![20261010_Tekekule](20261010_Tekekule.jpeg "Tekekule Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Paşa Hill :1
+==============
+
+-   Elevation: 3,270m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Paşa Hill at approximately 3:26 p.m., marking the nineth summit of the two-day traverse in the Aladağlar described above.
+![20261010_Pasa](20261010_Pasa.jpeg "Pasa Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Hacettepe :1
+==============
+
+-   Elevation: 3,214m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Hacettepe at approximately 2:53 p.m., marking the eighth summit of the two-day traverse in the Aladağlar described above.
+![20261010_Hacettepe](20261010_Hacettepe.jpeg "Hacettepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Adalıgöl :1
+==============
+
+-   Elevation: 3,277m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Adalıgöl at approximately 2:17 p.m., marking the seventh summit of the two-day traverse in the Aladağlar described above.
+![20261010_Adaligol](20261010_Adaligol.jpeg "Adaligol Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kelkır :1
+==============
+
+-   Elevation: 3,300m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Kelkır at approximately 1:35 p.m., marking the sixth summit of the two-day traverse in the Aladağlar described above.
+![20261010_Kelkir](20261010_Kelkir.jpeg "Kelkir Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Beygiruçuğu :1
+==============
+
+-   Elevation: 3,194m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Beygiruçuğu at approximately 12:18 p.m., marking the fifth summit of the two-day traverse in the Aladağlar described above.
+![20261010_Beygirucugu](20261010_Beygirucugu.jpeg "Beygirucugu Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+İspir :1
+==============
+
+-   Elevation: 3,362m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of İspir Hill at approximately 11:41 a.m., marking the fourth summit of the two-day traverse in the Aladağlar described above.
+![20261010_Ispir](20261010_Ispir.jpeg "Ispir Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Karakule :1
+==============
+
+-   Elevation: 3,363m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Karakule at approximately 10:57 a.m., marking the third summit of the two-day traverse in the Aladağlar described above.
+![20261010_Karakule](20261010_Karakule.jpeg "Karakule Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Davlumbaz :1
+==============
+
+-   Elevation: 3,487m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Davlumbaz at approximately 9:40 a.m., marking the second summit of the two-day traverse in the Aladağlar described above.
+![20261010_Davlumbaz](20261010_Davlumbaz.jpeg "Davlumbaz Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Maltepe :1
+==============
+
+-   Elevation: 3,420m
+-   Summit Date: October 10, 2026
+
+On October 10, 2026, I reached the summit of Maltepe at approximately 8:42 a.m., marking the first summit of the two-day traverse in the Aladağlar described above.
+![20261010_Maltepe](20261010_Maltepe.jpeg "Maltepe Peak")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Bozkaya :1
 ==============
 
