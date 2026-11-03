@@ -2,6 +2,281 @@
 
 [Home](../README.md)
 
+Sarı Kaya :1
+==============
+
+-   Elevation: 2,716m
+-   Summit Date: October 25, 2026
+
+A Three-Day Summit Expedition in the Tahtalı Mountains
+
+On Friday, October 23, I arrived in Tomarza town in Kayseri at around 10:50, had something to eat, and left the town at 11:55. At approximately 12:45, I arrived at Kurubel Pass, beyond Arslantaş on the road from Tomarza. The YEBUDAK team arrived at around 1:30 p.m. While waiting for them, I had explored the surroundings and located the toilets, the small mosque, and places where mobile phone reception was available. When the team arrived, they decided to shelter in the small mosque. I preferred to pitch my tent nearby, so I set it up close by. We then set off for our first activity. To get as close as possible to the starting point of the climb, we drove to Arslantaş village and continued uphill along an unpaved road. Once we reached a point beyond which my car could not go, I joined others in their SUV vehicle and continued with the others. We managed to get quite close to Yalman and Kuş Kayası. At one point, we even considered adding a third summit to the day's plan, but the afternoon was already advancing. We left the vehicle and started climbing. After approximately 30–40 minutes, we reached Yalman summit at 3:52 p.m. Kuş Kayası was actually supposed to be our first summit, but we had accidentally passed beside it without noticing. We therefore visited it on our way back, reaching the summit at 4:22 p.m. We then returned to the vehicles and drove back to the campsite. After dinner, we spent some time together in the small mosque before I went to sleep sometime between 9:00 and 10:00 p.m.
+
+I woke up at around 4:20 a.m. on Saturday. We began climbing at 5:10, with our objective being the group of nine summits south of Kurubel Pass. Three more climbers from Kayseri joined us for the day's activity. We reached our first summit, Kızılgöl, at 7:56 a.m. From there, we continued along our planned route, visiting Kızılkaya at 9:07, Deliktaş at 11:08, Deliktaşın Başı at 12:28, Büyük Sığ at 1:00 p.m., Corlavık at 1:48, Saydaş at 2:18, and Sarıkaya Başı at 3:15. At 3:52 p.m., we reached Kürebel, the ninth and final summit of the day. We then began our descent and arrived back at the campsite at around 6:00 p.m., approximately half an hour before sunset. While there was still some daylight, I quickly changed my clothes and prepared my summit pack for the following day. I then started getting dinner ready. Once everything was prepared, I went to the small mosque, where the others were waiting, and we had dinner together. Sema Abla had also cooked some of the mushrooms Kadir Abi had found. There were only a few, but everyone got to taste them. Since we had a very demanding day planned for the following morning, we called it a night and went to rest.
+
+I woke up at around 4:30 a.m. on Sunday. Since we were going to start the climb from a different location, we drove there first and began hiking at approximately 5:35. We reached the first summit of the day, Kartalpınarı, at 8:10 a.m. Continuing along the route, we reached Aslantaş at 9:22, Kelpınarsivrisi at 9:43, Aygörmez at 10:18, Karakaya at 11:39, Kartalkaya at 12:18, Akdağ at 1:13 p.m., and Soğanlı at 1:40 p.m. Our original plan was to descend towards Kınık, climb that summit, and then complete the route. The climbers who had joined us from Kayseri the previous day had also recommended this option, explaining that continuing towards the more distant peaks would be very difficult. However, while we were at Soğanlı, we reconsidered the route. Instead of traversing down towards Kınık, we thought it might make more sense to continue towards Kurubel and descend from there. We decided to carry on and reached Kurubel at 2:35 p.m. From this point, Mount Çem looked relatively close, so we decided to include it as well and assess our options for the return afterwards. Furkan decided not to continue at this stage. We gave him a radio, showed him the point where we planned to meet again, and asked him to head there while we continued towards Mount Çem. As we approached the mountain, we realised that it was much bigger than it had appeared from a distance. Our fatigue may have contributed to this impression, but the perspective from afar had certainly been misleading. Nevertheless, we reached Mount Çem summit at 3:27 p.m. From there, Kurtbeli did not look like an overly difficult addition, so we decided to continue. We reached its summit at 3:55 p.m. We then considered pushing on to Kurt Kulağı, our twelfth summit of the day. Enes said he did not want to climb any further, so we directed him towards the return route as well, showing him the meeting point where we would reunite. Kadir Abi and I continued towards Kurt Kulağı and reached the summit at 4:51 p.m. While we were there, I told him that I had a rather crazy idea in mind: I wanted to continue to Sarı Kaya. My plan was to descend quickly afterwards and catch up with them before darkness fell.
+
+I reached Sarı Kaya, the thirteenth summit of the day, at 5:34 p.m. I did not spend much time there and immediately started descending. I was keen to meet the others before nightfall. At the same time, I kept an eye on their progress from a distance and tried to find a route that would eventually intersect with theirs. As twilight was fading, I caught up with Kadir Abi and Enes. It was probably around 6:15–6:30 p.m. We continued together, aiming to reach the ridge where we had sent Furkan. We had been keeping in touch with him by radio, checking in every half hour. At around 6:45 p.m., we reached Furkan, and the four of us began descending together through the streambed. We arrived at our vehicles at 8:47 p.m. After another 10–15 minutes of driving, we were back at the campsite. We all had dinner together, followed by tea and conversation. By the time I returned to my tent and went to bed, it was nearly 11:00 p.m. I had to be at work the following day and was still four to five hours away from home by car. I therefore planned to get a little sleep, wake up early, and head straight back. I woke up at around 3:00 a.m. on Monday. After packing my tent and belongings, I made myself a cup of coffee and set off at approximately 3:30. Apart from one stop at a petrol station to refuel, I drove straight home without taking any further breaks. I arrived at around 7:20 a.m., just in time to get ready for the day ahead.
+![](pics/20261025_Sarikaya.jpeg "Sarı Kaya Summit – 25 October 2026")
+![](pics/20261025_Sarikaya2.jpeg "Sarı Kaya Summit – 25 October 2026")
+![](pics/20261025_Sarikaya3.jpeg "Sarı Kaya Summit – 25 October 2026")
+![](pics/20261025_Sarikaya4.jpeg "Sarı Kaya Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kurt Kulağı :1
+==============
+
+-   Elevation: 2,923m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Kurt Kulağı at approximately 4:51 p.m., marking the 23rd summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Kurtkulagi.jpeg "Kurt Kulağı Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kurtbeli :1
+==============
+
+-   Elevation: 2,889m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Kurtbeli at approximately 3:55 p.m., marking the 22rd summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Kurtbeli.jpeg "Kurtbeli Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Mount Çem :1
+==============
+
+-   Elevation: 2,948m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Mount Çem at approximately 3:27 p.m., marking the 21st summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Cem.jpeg "Mount Çem Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kurubel :1
+==============
+
+-   Elevation: 2,902m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Kurubel at approximately 2:35 p.m., marking the 20th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Kurubel.jpeg "Kurubel Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Soğanlı :1
+==============
+
+-   Elevation: 2,967m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Soğanlı at approximately 1:40 p.m., marking the 19th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Soganli.jpeg "Soğanlı Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Akdağ :1
+==============
+
+-   Elevation: 2,920m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Akdağ at approximately 1:13 p.m., marking the 18th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Akdag.jpeg "Akdağ Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kartalkaya :1
+==============
+
+-   Elevation: 2,876m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Kartalkaya at approximately 12:18 p.m., marking the 17th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Kartalkaya.jpeg "Kartalkaya Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Karakaya :1
+==============
+
+-   Elevation: 2,864m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Karakaya at approximately 11:39 a.m., marking the 16th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Karakaya.jpeg "Karakaya Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Aygörmez :1
+==============
+
+-   Elevation: 2,898m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Aygörmez at approximately 10:18 a.m., marking the 15th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Aygörmez.jpeg "Aygörmez Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kelpınar Sivrisi :1
+==============
+
+-   Elevation: 2,875m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Kelpınar Sivrisi at approximately 9:43 a.m., marking the 14th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Kelpınarsivrisi.jpeg "Kelpınar Sivrisi Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Aslantaş :1
+==============
+
+-   Elevation: 2,901m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Aslantaş at approximately 9:22 a.m., marking the 13th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Aslantas.jpeg "Aslantaş Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kartal Pınarı :1
+==============
+
+-   Elevation: 2,843m
+-   Summit Date: October 25, 2026
+
+On October 25, 2026, I reached the summit of Kartal Pınarı at approximately 8:10 a.m., marking the 12th summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261025_Kartalpinari.jpeg "Kartal Pınarı Summit – 25 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kürebel :1
+==============
+
+-   Elevation: 2,659m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Kürebel at approximately 3:52 p.m., marking the eleventh summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_Kurebel.jpeg "Kürebel Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Sarıkaya Başı :1
+==============
+
+-   Elevation: 2,646m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Sarıkaya Başı at approximately 3:15 p.m., marking the tenth summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_SarikayaBasi.jpeg "Sarıkaya Başı Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Saydaş :1
+==============
+
+-   Elevation: 2,635m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Saydaş at approximately 2:18 p.m., marking the nineth summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_Saydas.jpeg "Saydaş Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Corlavık :1
+==============
+
+-   Elevation: 2,588m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Corlavık at approximately 1:48 p.m., marking the eighth summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_Corlavik.jpeg "Corlavık Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Büyük Sığ :1
+==============
+
+-   Elevation: 2,576m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Büyük Sığ at approximately 1:00 p.m., marking the seventh summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_BuyukSig.jpeg "Büyük Sığ Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Deliktaşın Başı :1
+==============
+
+-   Elevation: 2,569m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Deliktaşın Başı at approximately 12:28 p.m., marking the sixth summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_DeliktasinBasi.jpeg "Deliktaşın Başı Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Deliktaş :1
+==============
+
+-   Elevation: 2,673m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Deliktaş at approximately 11:08 a.m., marking the fifth summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_Deliktas.jpeg "Deliktaş Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kızılkaya :1
+==============
+
+-   Elevation: 2,667m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Kızılkaya at approximately 9:07 a.m., marking the fourth summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_Kizilkaya.jpeg "Kızılkaya Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kızılgöl :1
+==============
+
+-   Elevation: 2,692m
+-   Summit Date: October 24, 2026
+
+On October 24, 2026, I reached the summit of Kızılgöl at approximately 7:56 a.m., marking the third summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261024_Kizilgol.jpeg "Kızılgöl Summit – 24 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Kuş Kayası :1
+==============
+
+-   Elevation: 2,613m
+-   Summit Date: October 23, 2026
+
+On October 23, 2026, I reached the summit of Kuş Kayası at approximately 4:22 p.m., marking the second summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261023_KusKayasi.jpeg "Kuş Kayası Summit – 23 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292667223&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
+Yalman :1
+==============
+
+-   Elevation: 2,645m
+-   Summit Date: October 23, 2026
+
+On October 23, 2026, I reached the summit of Yalman at approximately 3:52 p.m., marking the first summit of the three-day summit expedition in the Tahtalı Mountains described above.
+![](pics/20261023_Yalman.jpeg "Yalman Summit – 23 October 2026")
+<iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292667223&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
+
+
 Çağalınbaşı :1
 ==============
 
