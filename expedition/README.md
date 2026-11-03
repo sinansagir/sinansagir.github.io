@@ -17,8 +17,8 @@ I woke up at around 4:20 a.m. on Saturday. After a cup of coffee and two bananas
 At around 2:30 a.m. on Sunday, I was awakened by the arrival of a group of climbers. Their voices kept me awake for another fifteen to twenty minutes. They eventually set off, but a little later, the dogs began barking again. I got up at around 3:00 a.m. and looked outside. I could see the climbers' headlamps moving into the mountains. I returned to my tent, but I could no longer fall asleep. I ate something, packed the tent, and then had a cup of coffee in the car. After getting everything ready, I started my own ascent at around 4:15 a.m. The group that had left earlier was already out of sight. As on the previous morning, I tried to pass the area without disturbing the dogs. This time, however, I knew that the sheep were farther down the slope. They might still be able to see me during the first kilometer or so, but beyond that, I would be outside their line of sight. I reached Teke Spring at around 5:13 a.m. As I approached Obayeri Plateau, dawn was breaking, revealing the magnificent silhouettes of Büyük Demirkazık and Küçük Demirkazık. I continued climbing and reached Yıldız Batı at 8:25 a.m. A chilly breeze was blowing across the summit, so I ate a little and left at 8:45 a.m. At 9:22 a.m., I reached Yıldızbaşı. From there, the route ahead was clearly visible. Long, exposed knife-edge sections lay between me and Çağalınbaşı, followed by an ascent that did not look particularly easy. The forecast called for showers later in the afternoon, reminding me that I needed to keep moving. I left Yıldızbaşı at 9:30 a.m. The route first descended into a basin, followed by a steep climb toward the beginning of the knife-edge ridge. This section faced north and was largely snow-covered. Because the snow was still very hard in the early morning, I needed to find a way up through the snow-free terrain rather than rely on the icy slopes. After completing the steep climb, I traversed the ridge and reached Bozkurt Hill at around 10:24 a.m. I did not stop, continuing toward Çağalınbaşı just six minutes later. At approximately 11:00 a.m., I reached the summit of Çağalınbaşı. Just beyond the summit, I noticed another peak with a cairn on top. I immediately wondered whether it might be Beşparmak Sivrisi. I checked Wikiloc, and the location seemed to match. I inspected the terrain to see whether I could reach it. The route required descending a section with considerable exposure and a drop of around 15–20 meters, followed by an apparently straightforward ascent to the summit. Since it was so close, I decided to give it a try. However, when I reached the top, I realized that it was not the summit I had been looking for. I immediately turned around and returned to Çağalınbaşı. My original plan had been to continue from Çağalınbaşı toward MTA summit. After considering the situation, I decided against it. The additional traverse would take considerable time, and I did not want to risk being caught in the deteriorating afternoon weather. I had also noticed snow along the ridge normally used for the passage. If the snow remained hard, crossing it could be difficult or even impossible. MTA could be approached more easily from the Yedigöller Plateau on another occasion, so I decided to leave it for a future trip rather than spend valuable time on an uncertain route. At 11:24 a.m., I began descending from Çağalınbaşı. There was a short chimney section just below the summit. Snow in the chimney had made me somewhat uneasy during the ascent, so I negotiated it particularly carefully on the way down. After completing the knife-edge traverse, I reached Akçay Pass and descended directly toward Dipsiz Göl. I arrived at the lake at around 12:55 p.m. and took a break to eat. I continued toward Teke Spring, reaching it at approximately 2:30 p.m. I collected four liters of water to take home and then made my way back to the car. At 3:22 p.m., I reached the vehicle. After changing clothes, I left Arpalık Plateau at around 4:10 p.m.
 
 The two days had brought a long series of summits, exposed ridges, steep couloirs, hard snow, and several decisions about when to continue and when to leave a peak for another day. Not every summit on my mind had been reached, and a few unexpected ones had found their way into the itinerary. But that was part of the appeal of this trip: adapting to the terrain, managing the time and conditions, and leaving something for the next visit to the Aladağlar.
-![20261011_Cagalinbasi](pics/20261011_Cagalinbasi.jpeg "Cagalinbasi Peak")
-![20261011_Cagalinbasi2](pics/20261011_Cagalinbasi2.jpeg "Cagalinbasi Peak")
+![20261011_Cagalinbasi](pics/20261011_Cagalinbasi.jpeg "Çağalınbaşı Summit – 11 October 2026")
+![20261011_Cagalinbasi2](pics/20261011_Cagalinbasi2.jpeg "Çağalınbaşı Summit – 11 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -29,7 +29,7 @@ Bozkurt Hill :1
 -   Summit Date: October 11, 2026
 
 On October 11, 2026, I reached the summit of Bozkurt Hill at approximately 10:24 a.m., marking the thirteenth summit of the two-day traverse in the Aladağlar described above.
-![20261011_Bozkurt](20261011_Bozkurt.jpeg "Bozkurt Peak")
+![20261011_Bozkurt](pics/20261011_Bozkurt.jpeg "Bozkurt Summit – 11 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -40,7 +40,7 @@ Yıldızbaşı :1
 -   Summit Date: October 11, 2026
 
 On October 11, 2026, I reached the summit of Yıldızbaşı at approximately 9:22 a.m., marking the twelfth summit of the two-day traverse in the Aladağlar described above.
-![20261011_Yildizbasi](20261011_Yildizbasi.jpeg "Yildizbasi Peak")
+![20261011_Yildizbasi](pics/20261011_Yildizbasi.jpeg "Yıldızbaşı Summit – 11 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -51,8 +51,8 @@ Yıldız Batı :1
 -   Summit Date: October 11, 2026
 
 On October 11, 2026, I reached the summit of Yıldız Batı at approximately 8:25 a.m., marking the eleventh summit of the two-day traverse in the Aladağlar described above.
-![20261011_YildizBati](20261011_YildizBati.jpeg "YildizBati Peak")
-![20261011_YildizBati2](20261011_YildizBati2.jpeg "YildizBati Peak")
+![20261011_YildizBati](pics/20261011_YildizBati.jpeg "Yıldız Batı Summit – 11 October 2026")
+![20261011_YildizBati2](pics/20261011_YildizBati2.jpeg "Yıldız Batı Summit – 11 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290610810&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -63,7 +63,7 @@ Tekekule :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Tekekule at approximately 5:48 p.m., marking the tenth summit of the two-day traverse in the Aladağlar described above.
-![20261010_Tekekule](20261010_Tekekule.jpeg "Tekekule Peak")
+![20261010_Tekekule](pics/20261010_Tekekule.jpeg "Tekekule Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -74,7 +74,7 @@ Paşa Hill :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Paşa Hill at approximately 3:26 p.m., marking the nineth summit of the two-day traverse in the Aladağlar described above.
-![20261010_Pasa](20261010_Pasa.jpeg "Pasa Peak")
+![20261010_Pasa](pics/20261010_Pasa.jpeg "Paşa Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -85,7 +85,7 @@ Hacettepe :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Hacettepe at approximately 2:53 p.m., marking the eighth summit of the two-day traverse in the Aladağlar described above.
-![20261010_Hacettepe](20261010_Hacettepe.jpeg "Hacettepe Peak")
+![20261010_Hacettepe](pics/20261010_Hacettepe.jpeg "Hacettepe Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -96,7 +96,7 @@ Adalıgöl :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Adalıgöl at approximately 2:17 p.m., marking the seventh summit of the two-day traverse in the Aladağlar described above.
-![20261010_Adaligol](20261010_Adaligol.jpeg "Adaligol Peak")
+![20261010_Adaligol](pics/20261010_Adaligol.jpeg "Adalıgöl Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -107,7 +107,7 @@ Kelkır :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Kelkır at approximately 1:35 p.m., marking the sixth summit of the two-day traverse in the Aladağlar described above.
-![20261010_Kelkir](20261010_Kelkir.jpeg "Kelkir Peak")
+![20261010_Kelkir](pics/20261010_Kelkir.jpeg "Kelkır Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -118,7 +118,7 @@ Beygiruçuğu :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Beygiruçuğu at approximately 12:18 p.m., marking the fifth summit of the two-day traverse in the Aladağlar described above.
-![20261010_Beygirucugu](20261010_Beygirucugu.jpeg "Beygirucugu Peak")
+![20261010_Beygirucugu](pics/20261010_Beygirucugu.jpeg "Beygiruçuğu Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -129,7 +129,7 @@ On October 10, 2026, I reached the summit of Beygiruçuğu at approximately 12:1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of İspir Hill at approximately 11:41 a.m., marking the fourth summit of the two-day traverse in the Aladağlar described above.
-![20261010_Ispir](20261010_Ispir.jpeg "Ispir Peak")
+![20261010_Ispir](pics/20261010_Ispir.jpeg "İspir Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -140,7 +140,7 @@ Karakule :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Karakule at approximately 10:57 a.m., marking the third summit of the two-day traverse in the Aladağlar described above.
-![20261010_Karakule](20261010_Karakule.jpeg "Karakule Peak")
+![20261010_Karakule](pics/20261010_Karakule.jpeg "Karakule Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -151,7 +151,7 @@ Davlumbaz :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Davlumbaz at approximately 9:40 a.m., marking the second summit of the two-day traverse in the Aladağlar described above.
-![20261010_Davlumbaz](20261010_Davlumbaz.jpeg "Davlumbaz Peak")
+![20261010_Davlumbaz](pics/20261010_Davlumbaz.jpeg "Davlumbaz Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -162,7 +162,7 @@ Maltepe :1
 -   Summit Date: October 10, 2026
 
 On October 10, 2026, I reached the summit of Maltepe at approximately 8:42 a.m., marking the first summit of the two-day traverse in the Aladağlar described above.
-![20261010_Maltepe](20261010_Maltepe.jpeg "Maltepe Peak")
+![20261010_Maltepe](pics/20261010_Maltepe.jpeg "Maltepe Summit – 10 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=290393472&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -187,8 +187,8 @@ I carefully traversed the ridge. There were several sections where the exposure 
 At around 5:10 p.m., I left Bozkaya and began descending toward Narpuz Valley through the scree. The descent followed a couloir that gradually narrowed and eventually became more like a streambed, before widening again as it approached Narpuz Valley. When I reached the narrower section, I took out my phone to photograph the surroundings. At that exact moment, a herd of wild goats suddenly burst from the rocks nearby and ran uphill. I immediately started recording. I suspect they had been using that sheltered section as a place to spend the night, and unfortunately my arrival had disturbed them. Watching them climb away was an incredible experience. Their ability to move across the rock was extraordinary. From a distance, the section they crossed looked almost like a vertical wall, yet the goats simply ran across it and disappeared into the mountains.
 
 I eventually reached Narpuz Valley at around 6:45 p.m. Twilight had already begun to settle over the valley. But I was no longer worried about finding my way. I had now rejoined the route I had followed in the dark that morning, and I knew the rest of the way back to the car. At around 7:25 p.m., I reached my car at Karayalak campsite. After changing clothes, I left the campsite at around 8:00 p.m. What had started as a plan to explore a few peaks around the Yedigöller Plateau had turned into a long traverse with eight summits, a knife-edge ridge, an unfamiliar scree descent, and two unforgettable encounters with wild goats. It was a long day, but exactly the kind of day I had hoped for when I set out.
-![20260926_Bozkaya](20260926_Bozkaya.jpeg "Bozkaya Peak")
-![20260926_Bozkaya2](20260926_Bozkaya2.jpeg "Bozkaya Peak")
+![20260926_Bozkaya](pics/20260926_Bozkaya.jpeg "Bozkaya Summit – 26 September 2026")
+![20260926_Bozkaya2](pics/20260926_Bozkaya2.jpeg "Bozkaya Summit – 26 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -199,8 +199,8 @@ Hürtepe :1
 -   Summit Date: September 26, 2026
 
 On September 26, 2026, I reached the summit of Hürtepe at approximately 4:10 p.m., marking the sixth summit of the Yedigöller traverse described above.
-![20260926_Hurtepe](20260926_Hurtepe.jpeg "Hürtepe Peak")
-![20260926_Hurtepe2](20260926_Hurtepe2.jpeg "Hürtepe Peak")
+![20260926_Hurtepe](pics/20260926_Hurtepe.jpeg "Hürtepe Summit – 26 September 2026")
+![20260926_Hurtepe2](pics/20260926_Hurtepe2.jpeg "Hürtepe Summit – 26 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -211,8 +211,8 @@ Emler :2
 -   Summit Date: September 26, 2026
 
 On September 26, 2026, I reached the summit of Emler at approximately 3:30 p.m., marking the fifth summit of the Yedigöller traverse described above.
-![20260926_Emler](20260926_Emler.jpeg "Emler Peak")
-![20260926_Emler2](20260926_Emler2.jpeg "Emler Peak")
+![20260926_Emler](pics/20260926_Emler.jpeg "Emler Summit – 26 September 2026")
+![20260926_Emler2](pics/20260926_Emler2.jpeg "Emler Summit – 26 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -223,7 +223,7 @@ Oğlak Kaya :1
 -   Summit Date: September 26, 2026
 
 On September 26, 2026, I reached the summit of Oğlak Kaya at approximately 2:20 p.m., marking the fourth summit of the Yedigöller traverse described above.
-![20260926_OglakKaya](20260926_OglakKaya.jpeg "Oğlak Kaya Peak")
+![20260926_OglakKaya](pics/20260926_OglakKaya.jpeg "Oğlak Kaya Summit – 26 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -234,8 +234,8 @@ Yumru Hill :1
 -   Summit Date: September 26, 2026
 
 On September 26, 2026, I reached the summit of Yumru Hill at approximately 12:30 p.m., marking the third summit of the Yedigöller traverse described above.
-![20260926_Yumru](20260926_Yumru.jpeg "Yumru Peak")
-![20260926_Yumru2](20260926_Yumru2.jpeg "Yumru Peak")
+![20260926_Yumru](pics/20260926_Yumru.jpeg "Yumru Summit – 26 September 2026")
+![20260926_Yumru2](pics/20260926_Yumru2.jpeg "Yumru Summit – 26 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -246,7 +246,7 @@ Kocasarp :1
 -   Summit Date: September 26, 2026
 
 On September 26, 2026, I reached the summit of Kocasarp at approximately 10:35 a.m., marking the second summit of the Yedigöller traverse described above.
-![20260926_Kocasarp](20260926_Kocasarp.jpeg "Kocasarp Peak")
+![20260926_Kocasarp](pics/20260926_Kocasarp.jpeg "Kocasarp Summit – 26 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -257,8 +257,8 @@ Sematepe :1
 -   Summit Date: September 26, 2026
 
 On September 26, 2026, I reached the summit of Sematepe at approximately 9:30 a.m., marking the first summit of the Yedigöller traverse described above.
-![20260926_Sematepe](20260926_Sematepe.jpeg "Sematepe Peak")
-![20260926_Sematepe2](20260926_Sematepe2.jpeg "Sematepe Peak")
+![20260926_Sematepe](pics/20260926_Sematepe.jpeg "Sematepe Summit – 26 September 2026")
+![20260926_Sematepe2](pics/20260926_Sematepe2.jpeg "Sematepe Summit – 26 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=288024620&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -287,7 +287,7 @@ From there, the ridge continued toward Geyikdede, another summit from my previou
 I decided to descend toward Darboğaz, but before committing to the road, I wanted to ask someone about its condition. There is usually someone around Hüseyin Çavuşun Yurdu in the Tersakan area, so I decided to stop there first. When I arrived, I found two off-road pickup trucks and a group of people. They were preparing a barbecue. I greeted them and asked about the road to Darboğaz. They told me that I could descend that way. They insisted that I stay for the meal, but the weather was unsettled and I did not know the road well, so I preferred to continue while I still had plenty of daylight. At around 5:25 p.m., I completed the descent to Darboğaz. The descent itself was not particularly difficult, but I quickly realized that the road would be too steep to climb back up with a normal vehicle. It was therefore a useful route to know for future trips, but not one I would want to use as a vehicle approach with my current car. From Darboğaz, I continued toward Ereğli. By the time I stopped for dinner, the weather had deteriorated further and strong winds had begun to blow. Looking back, I was glad that I had not spent too much time hesitating on the mountains and had chosen to descend while the conditions were still manageable. After dinner, I continued home and arrived at around 8:30 p.m.
 
 What had started as an attempt to climb Karagölbaşı, Karayelek, and Kekrecik had turned into two days of exploration and a series of unexpected additions: Kekrecik and Kızıltepe at sunrise, followed by Türbe Tepe, Geyikdede and Karatepe. Once again, the mountains had turned a relatively simple plan into something much bigger.
-![20260916_Karatepe](20260916_Karatepe.jpeg "Karatepe Peak")
+![20260916_Karatepe](pics/20260916_Karatepe.jpeg "Karatepe Summit – 16 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -298,8 +298,8 @@ Geyikdede :2
 -   Summit Date: September 16, 2026
 
 On September 16, 2026, I reached the summit of Geyikdede at approximately 12:00 p.m., marking the sixth summit of the two-day exploration in the Bolkarlar described above.
-![20260916_Geyikdede](20260916_Geyikdede.jpeg "Geyikdede Peak")
-![20260916_Geyikdede2](20260916_Geyikdede2.jpeg "Geyikdede Peak")
+![20260916_Geyikdede](pics/20260916_Geyikdede.jpeg "Geyikdede Summit – 16 September 2026")
+![20260916_Geyikdede2](pics/20260916_Geyikdede2.jpeg "Geyikdede Summit – 16 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -310,7 +310,7 @@ Türbe Hill :2
 -   Summit Date: September 16, 2026
 
 On September 16, 2026, I reached the summit of Türbe Hill at approximately 11:00 a.m., marking the fifth summit of the two-day exploration in the Bolkarlar described above.
-![20260916_Turbe](20260916_Turbe.jpeg "Turbe Peak")
+![20260916_Turbe](pics/20260916_Turbe.jpeg "Türbe Summit – 16 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286123284&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -321,8 +321,8 @@ Kızıltepe :1
 -   Summit Date: September 16, 2026
 
 On September 16, 2026, I reached the summit of Kızıltepe at approximately 7:20 a.m., marking the fourth summit of the two-day exploration in the Bolkarlar described above.
-![20260916_Kiziltepe](20260916_Kiziltepe.jpeg "Kiziltepe Peak")
-![20260916_Kiziltepe2](20260916_Kiziltepe2.jpeg "Kiziltepe Peak")
+![20260916_Kiziltepe](pics/20260916_Kiziltepe.jpeg "Kızıltepe Summit – 16 September 2026")
+![20260916_Kiziltepe2](pics/20260916_Kiziltepe2.jpeg "Kızıltepe Summit – 16 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286070187&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -333,9 +333,9 @@ Kekrecik :1
 -   Summit Date: September 16, 2026
 
 On September 16, 2026, I reached the summit of Mount Kekrecik at approximately 6:15 a.m., marking the third summit of the two-day exploration in the Bolkarlar described above.
-![20260916_Kekrecik](20260916_Kekrecik.jpeg "Kekrecik Peak")
-![20260916_Kekrecik2](20260916_Kekrecik2.jpeg "Kekrecik Peak")
-![20260916_Kekrecik3](20260916_Kekrecik3.jpeg "Kekrecik Peak")
+![20260916_Kekrecik](pics/20260916_Kekrecik.jpeg "Kekrecik Summit – 16 September 2026")
+![20260916_Kekrecik2](pics/20260916_Kekrecik2.jpeg "Kekrecik Summit – 16 September 2026")
+![20260916_Kekrecik3](pics/20260916_Kekrecik3.jpeg "Kekrecik Summit – 16 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286070187&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -346,7 +346,7 @@ Karayelek :1
 -   Summit Date: September 15, 2026
 
 On September 15, 2026, I reached the summit of Karayelek at approximately 4:15 p.m., marking the second summit of the two-day exploration in the Bolkarlar described above.
-![20260915_Karayelek](20260915_Karayelek.jpeg "Karayelek Peak")
+![20260915_Karayelek](pics/20260915_Karayelek.jpeg "Karayelek Summit – 15 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286060503&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -357,7 +357,7 @@ Karagölbaşı :1
 -   Summit Date: September 15, 2026
 
 On September 15, 2026, I reached the summit of Karayelek at approximately 2:40 p.m., marking the first summit of the two-day exploration in the Bolkarlar described above.
-![20260915_Karagolbasi](20260915_Karagolbasi.jpeg "Karagolbasi Peak")
+![20260915_Karagolbasi](pics/20260915_Karagolbasi.jpeg "Karagölbaşı Summit – 15 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=286060503&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -378,9 +378,9 @@ Just after passing the fruit-bearing trees, I noticed a purple crocus growing am
 The trail eventually brought me to the lower end of Bölük Ormanı. From there, I continued through the forest on a long walk back toward the campsite. At around 4:30 p.m., I finally arrived at Sarımemedin Yurdu. Since I was already in the area, I decided to make one more useful exploration before leaving. I wanted to see whether it was possible to reach Karayalak campsite by my vehicle after coming out of Emli Valley. I first drove toward the lower Sokullupınar campsite and successfully reached it. From there, I continued along the road and eventually made it all the way to Karayalak campsite.
 
 Although this was a relatively short and relaxed climb compared with Vay Vay, it turned out to be quite useful. Besides enjoying another beautiful section of the Aladağlar, I had also explored the road access to Karayalak. It gave me a much better reference point for planning future climbs in this part of the range.
-![20260907_EznevitYaylaTepe](20260907_EznevitYaylaTepe.jpeg "Eznevit Yayla Peak")
-![20260907_EznevitYaylaTepe2](20260907_EznevitYaylaTepe2.jpeg "Eznevit Yayla Peak")
-![20260907_EznevitYaylaTepe3](20260907_EznevitYaylaTepe3.jpeg "Eznevit Yayla Peak")
+![20260907_EznevitYaylaTepe](pics/20260907_EznevitYaylaTepe.jpeg "Eznevit Yayla Summit – 7 September 2026")
+![20260907_EznevitYaylaTepe2](pics/20260907_EznevitYaylaTepe2.jpeg "Eznevit Yayla Summit – 7 September 2026")
+![20260907_EznevitYaylaTepe3](pics/20260907_EznevitYaylaTepe3.jpeg "Eznevit Yayla Summit – 7 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=284498913&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -405,9 +405,9 @@ After reaching the Vay Vay base-camp area, we started climbing again. Shortly af
 For the return, we followed essentially the same route, with one difference: instead of Cebel East Pass, we used Cebel West Pass. By the time we had crossed the Kokorot Valley again, the sun had already set and the mountains were fading into twilight. We pushed ourselves to reach the pass while there was still some daylight, but darkness arrived before we could get there. We reached Cebel West Pass at approximately 8:45 p.m. After a short break, we started descending. The wind was extremely strong on the ridge, so there was little reason to linger. We descended toward Vali Konağı, where those who had run out of water refilled their bottles, and then continued down through Kocadölek Valley and eventually into the forest. At 1:05 a.m. on Monday, September 7, we finally reached the Bölükormanı camping area. Bilal abi was waiting for us there with the pickup truck. We drove back toward Sarımemedin Yurdu, where I was dropped off at my campsite. After a quick change of clothes, I went straight into my tent and finally allowed myself to sleep.
 
 This was a long and demanding expedition into the heart of the Aladağlar. The summit itself was only one part of the experience. The real challenge was the journey to reach it: moving through forests and remote valleys in darkness, crossing high passes, traversing the Kokorot Valley, climbing the rocky upper slopes of Vay Vay, and then making the entire journey back after sunset. Vay Vay was not simply another summit—it was a long journey through one of Türkiye's wildest mountain landscapes, and reaching its summit made every kilometer of the approach worthwhile.
-![20260906_VayVay](20260906_VayVay.jpeg "Vay Vay Peak")
-![20260906_VayVay2](20260906_VayVay2.jpeg "Vay Vay Peak")
-![20260906_VayVay3](20260906_VayVay3.jpeg "Vay Vay Peak")
+![20260906_VayVay](pics/20260906_VayVay.jpeg "Vay Vay Summit – 6 September 2026")
+![20260906_VayVay2](pics/20260906_VayVay2.jpeg "Vay Vay Summit – 6 September 2026")
+![20260906_VayVay3](pics/20260906_VayVay3.jpeg "Vay Vay Summit – 6 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=284442507&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -418,7 +418,7 @@ Küçük Cebel :1
 -   Summit Date: September 6, 2026
 
 On September 6, 2026, I reached the summit of Küçük Cebel Hill at approximately 7:20 a.m., marking the first summit of the Vay Vay expedition described above.
-![20260906_KucukCebel](20260906_KucukCebel.jpeg "Kucuk Cebel Peak")
+![20260906_KucukCebel](pics/20260906_KucukCebel.jpeg "Küçük Cebel Summit – 6 September 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=284442507&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -431,8 +431,8 @@ Mount Karanfil :1
 After descending from Alayaka, I packed up my gear and left Elmalı. However, the day was not over yet. Once I reached Akçaşehir, I started thinking about another possibility: Karanfil Mountain. Since I already had my climbing gear with me, I decided to take advantage of the opportunity and continue toward another summit. I stopped in Akçaşehir to complete some grocery shopping for the following day. From there, I continued to Pozantı, where I stopped at Aksu Restaurant and bought my dinner to take with me. I then drove toward the Karanfil Mountain camping area at Kızılboyun. I arrived at the campsite at around 6:00 p.m. and immediately set up my tent. After having dinner, I prepared my backpack for the following morning.
 
 I woke up around 3:00 a.m. on the climbing day. I tried to go back to sleep, but ended up mostly lying awake in my tent until around 4:30 a.m. The wind had picked up outside, and because I had not properly secured my tent's lines, it kept making noise throughout the night. At around 4:45 a.m., I finally got up, packed the tent, and prepared for the climb. After having a cup of coffee and a small snack, I started hiking at approximately 5:40 a.m. The ascent progressed steadily, and I reached the summit at around 8:50 a.m. I stayed there for roughly an hour, taking in the surroundings including a clear view of south face of Aladağlar range and enjoying the summit before beginning my descent. At approximately 11:35 a.m., I completed the hike and returned to my vehicle. After packing up, I stopped at the nearby fountain and rested my feet in the cold water for a while—a simple but very welcome way to recover after the climb. I left the camping area at around 12:15 p.m.
-![20260827_Karanfil](20260827_Karanfil.jpeg "Karanfil Peak")
-![20260827_Karanfil2](20260827_Karanfil2.jpeg "Karanfil Peak")
+![20260827_Karanfil](pics/20260827_Karanfil.jpeg "Karanfil Summit – 27 August 2026")
+![20260827_Karanfil2](pics/20260827_Karanfil2.jpeg "Karanfil Summit – 27 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=282348522&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -449,9 +449,9 @@ The lower part of the route was relatively straightforward, but as I gained elev
 This moment was particularly satisfying because I had previously seen the same mountain from the opposite direction. During my descent from Tekeköprüsü, I had passed roughly 100 meters below the Alayaka summit. From that side, the terrain had looked very technical. Now, standing above that same section, I had the opportunity to examine it from the opposite direction. My impression was confirmed: the route from that side was considerably more technical and exposed, and descending it without a rope did not look like a sensible option. After reaching the summit, I began my descent, retracing the route toward Elmalı. I eventually returned to my vehicle at approximately 2:40 p.m.
 
 The final rocky ridge and the exposed summit towers made Alayaka a very different experience from many of my previous Bolkarlar ascents. It was a relatively short outing in terms of time, but the character of the terrain made it feel much more like an alpine climb than a conventional summit hike.
-![20260826_Alayaka](20260826_Alayaka.jpeg "Alayaka Peak")
-![20260826_Alayaka2](20260826_Alayaka2.jpeg "Alayaka Peak")
-![20260826_Alayaka3](20260826_Alayaka3.jpeg "Alayaka Peak")
+![20260826_Alayaka](pics/20260826_Alayaka.jpeg "Alayaka Summit – 26 August 2026")
+![20260826_Alayaka2](pics/20260826_Alayaka2.jpeg "Alayaka Summit – 26 August 2026")
+![20260826_Alayaka3](pics/20260826_Alayaka3.jpeg "Alayaka Summit – 26 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=282197729&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -472,8 +472,8 @@ From Tersakan spring, I started climbing again toward the next section of the ro
 In total, the day became an unexpectedly long solo traverse linking 13 summits across the Bolkar Mountains: Gökboyun, Göllücebaşı, Adsız, Karatepe, Geyikdede, Bozdağ, Türbe Tepe, Küçük Yayla Tepe, Göreme Tepe, Tersakantepe, Tersakantaş Tepe, and Kuşkayası Tepe, together with the intervening ridges, valleys, and plateaus.
 
 What began with an early-morning start from Meydan Plateau turned into a full-day exploration of a large and relatively remote section of the Bolkarlar. By the time I returned to the plateau, I had spent almost thirteen hours on the mountain. It was another long and demanding solo day in the Bolkar Mountains, but also a rewarding opportunity to connect a large number of summits into a single continuous traverse.
-![20260823_Turbe](20260823_Turbe.jpeg "Turbe Peak")
-![20260823_Turbe2](20260823_Turbe2.jpeg "Turbe Peak")
+![20260823_Turbe](pics/20260823_Turbe.jpeg "Türbe Summit – 23 August 2026")
+![20260823_Turbe2](pics/20260823_Turbe2.jpeg "Türbe Summit – 23 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -484,8 +484,8 @@ Geyikdede :1
 -   Summit Date: August 23, 2026
 
 On August 23, 2026, I reached the summit of Geyikdede at approximately 11:00 a.m., marking the fourth summit of the traverse described above.
-![20260823_Geyikdede](20260823_Geyikdede.jpeg "Geyikdede Peak")
-![20260823_Geyikdede2](20260823_Geyikdede2.jpeg "Geyikdede Peak")
+![20260823_Geyikdede](pics/20260823_Geyikdede.jpeg "Geyikdede Summit – 23 August 2026")
+![20260823_Geyikdede2](pics/20260823_Geyikdede2.jpeg "Geyikdede Summit – 23 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -496,8 +496,8 @@ Karatepe :1
 -   Summit Date: August 23, 2026
 
 On August 23, 2026, I reached the summit of Karatepe at approximately 10:20 a.m., marking the third summit of the traverse described above.
-![20260823_Karatepe](20260823_Karatepe.jpeg "Karatepe Peak")
-![20260823_Karatepe2](20260823_Karatepe2.jpeg "Karatepe Peak")
+![20260823_Karatepe](pics/20260823_Karatepe.jpeg "Karatepe Summit – 23 August 2026")
+![20260823_Karatepe2](pics/20260823_Karatepe2.jpeg "Karatepe Summit – 23 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -508,8 +508,8 @@ Göllücebaşı :2
 -   Summit Date: August 23, 2026
 
 On August 23, 2026, I reached the summit of Göllücebaşı at approximately 8:50 a.m., marking the second summit of the traverse described above.
-![20260823_Gollucebasi](20260823_Gollucebasi.jpeg "Gollucebasi Peak")
-![20260823_Gollucebasi2](20260823_Gollucebasi2.jpeg "Gollucebasi Peak")
+![20260823_Gollucebasi](pics/20260823_Gollucebasi.jpeg "Göllücebaşı Summit – 23 August 2026")
+![20260823_Gollucebasi2](pics/20260823_Gollucebasi2.jpeg "Göllücebaşı Summit – 23 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -520,8 +520,8 @@ Gökboyun :3
 -   Summit Date: August 23, 2026
 
 On August 23, 2026, I reached the summit of Gökboyun at approximately 8:15 a.m., marking the first summit of the traverse described above.
-![20260823_Gokboyun](20260823_Gokboyun.jpeg "Gokboyun Peak")
-![20260823_Gokboyun2](20260823_Gokboyun2.jpeg "Gokboyun Peak")
+![20260823_Gokboyun](pics/20260823_Gokboyun.jpeg "Gökboyun Summit – 23 August 2026")
+![20260823_Gokboyun2](pics/20260823_Gokboyun2.jpeg "Gökboyun Summit – 23 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=281688449&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -554,7 +554,7 @@ The traverse from Erkaya to Karagedik Pass turned out to be one of the hardest s
 At approximately 8:10 p.m., I reached the summit of Gökboyun. From the summit, I descended carefully and slowly. Eventually, I reached the tractor road and followed it back toward Meydan Plateau. At around 10:00 p.m., I finally reached my car. After changing clothes, I decided to abandon my plans for the following day. I had originally intended to spend Saturday night at Meydan Plateau and climb the Göllücebaşı–Türbe Hill route on Sunday. However, the afternoon storm had already pushed me into taking more risk than I was comfortable with. The forecast for Sunday was even worse, with rain accompanied by thunderstorms and lightning. I therefore decided that the sensible choice was to call off the second day and return home. 
 
 What began as a planned two-day outing ultimately became a long solo traverse involving Top Hill, Tahtakayası, Koyunaşağı, Kızıldökük, Keşif Hill, Eğerkaya, Erkaya, and Gökboyun. Along the way, I encountered mountain goats, a shepherd moving his herd before nightfall, rapidly changing weather, heavy rain and hail, and several challenging sections of loose mountain terrain. It was a physically exhausting and occasionally uncomfortable day, but also one of those mountain experiences where the unexpected events become the most memorable part of the journey.
-![20260815_Kesif](20260815_Kesif.jpeg "Kesif Peak")
+![20260815_Kesif](pics/20260815_Kesif.jpeg "Keşif Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -565,8 +565,8 @@ Gökboyun :2
 -   Summit Date: August 15, 2026
 
 On August 15, 2026, I reached the summit of Gökboyun at approximately 8:10 p.m., marking the eighth summit of the traverse described above.
-![20260815_Gokboyun](20260815_Gokboyun.jpeg "Gokboyun Peak")
-![20260815_Gokboyun2](20260815_Gokboyun2.jpeg "Gokboyun Peak")
+![20260815_Gokboyun](pics/20260815_Gokboyun.jpeg "Gökboyun Summit – 15 August 2026")
+![20260815_Gokboyun2](pics/20260815_Gokboyun2.jpeg "Gökboyun Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -577,8 +577,8 @@ Erkaya :1
 -   Summit Date: August 15, 2026
 
 On August 15, 2026, I reached the summit of Erkaya Hill at approximately 6:20 p.m., marking the seventh summit of the traverse described above.
-![20260815_Erkaya](20260815_Erkaya.jpeg "Erkaya Peak")
-![20260815_Erkaya2](20260815_Erkaya2.jpeg "Erkaya Peak")
+![20260815_Erkaya](pics/20260815_Erkaya.jpeg "Erkaya Summit – 15 August 2026")
+![20260815_Erkaya2](pics/20260815_Erkaya2.jpeg "Erkaya Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -589,7 +589,7 @@ Eğerkaya :1
 -   Summit Date: August 15, 2026
 
 On August 15, 2026, I reached the summit of Eğerkaya Hill at approximately 6:00 p.m., marking the sixth summit of the traverse described above.
-![20260815_Egerkaya](20260815_Egerkaya.jpeg "Egerkaya Peak")
+![20260815_Egerkaya](pics/20260815_Egerkaya.jpeg "Eğerkaya Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -600,8 +600,8 @@ Kızıldökük Hill :1
 -   Summit Date: August 15, 2026
 
 On August 15, 2026, I reached the summit of Kızıldökük Hill at approximately 12:20 p.m., marking the fourth summit of the traverse described above.
-![20260815_Kizildokuk](20260815_Kizildokuk.jpeg "Kizildokuk Peak")
-![20260815_Kizildokuk2](20260815_Kizildokuk2.jpeg "Kizildokuk Peak")
+![20260815_Kizildokuk](pics/20260815_Kizildokuk.jpeg "Kızıldökük Summit – 15 August 2026")
+![20260815_Kizildokuk2](pics/20260815_Kizildokuk2.jpeg "Kızıldökük Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -612,8 +612,8 @@ Koyunaşağı :2
 -   Summit Date: August 15, 2026
 
 On August 15, 2026, I reached the summit of Koyunaşağı at approximately 10:45 a.m., marking the third summit of the traverse described above.
-![20260815_Koyunasagi](20260815_Koyunasagi.jpeg "Koyunasagi Peak")
-![20260815_Koyunasagi2](20260815_Koyunasagi2.jpeg "Koyunasagi Peak")
+![20260815_Koyunasagi](pics/20260815_Koyunasagi.jpeg "Koyunaşağı Summit – 15 August 2026")
+![20260815_Koyunasagi2](pics/20260815_Koyunasagi2.jpeg "Koyunaşağı Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -624,7 +624,7 @@ Tahtakayası :2
 -   Summit Date: August 15, 2026
 
 On August 15, 2026, I reached the summit of Tahtakayası at approximately 9:55 a.m., marking the second summit of the traverse described above.
-![20260815_Tahtakayasi](20260815_Tahtakayasi.jpeg "Tahtakayasi Peak")
+![20260815_Tahtakayasi](pics/20260815_Tahtakayasi.jpeg "Tahtakayası Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -635,7 +635,7 @@ Top Hill :1
 -   Summit Date: August 15, 2026
 
 On August 15, 2026, I reached the summit of Top Hill at approximately 8:10 a.m., marking the first summit of the traverse described above.
-![20260815_Top](20260815_Top.jpeg "Top Peak")
+![20260815_Top](pics/20260815_Top.jpeg "Toptepe Summit – 15 August 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=280005360&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -660,9 +660,9 @@ Day 5 – Technical Ascent of Cıngıllıbeşik: Our final climbing objective wa
 Return from Alaca Yayla: On the final morning, we packed our camp, once again loaded the heavy equipment onto the pack mules, and left Alaca Yayla at approximately 9:25 a.m. By 11:25 a.m., we had returned to Sarımemedin Yurdu, where our vehicles were waiting. After changing clothes and taking a final group photograph, we began the journey home.
 
 During the expedition, I completed 22 summit ascents (summited Ortaburun six times along the way), covering 17 distinct summits over six days in the Aladağlar, ranging from long ridge traverses to technical alpine objectives. The expedition demanded endurance, efficient camp life, and teamwork, while also providing opportunities for independent decision-making on more challenging terrain. From the broad ridges of Alacadağ to the exposed rock of Cıngıllıbeşik, every day offered a different experience and reinforced why the Aladağlar remain one of the finest mountaineering regions in Türkiye.
-![20260718_Cingillibesik](20260718_Cingillibesik.jpeg "Cingillibesik Peak")
-![20260718_Cingillibesik2](20260718_Cingillibesik2.jpeg "Cingillibesik2 Peak")
-![20260718_Cingillibesik3](20260718_Cingillibesik3.jpeg "Cingillibesik3 Peak")
+![20260718_Cingillibesik](pics/20260718_Cingillibesik.jpeg "Cıngıllıbeşik Summit – 18 July 2026")
+![20260718_Cingillibesik2](pics/20260718_Cingillibesik2.jpeg "Cıngıllıbeşik Summit – 18 July 2026")
+![20260718_Cingillibesik3](pics/20260718_Cingillibesik3.jpeg "Cıngıllıbeşik Summit – 18 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274772746&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -673,9 +673,9 @@ Eğri Hill :1
 -   Summit Date: July 17, 2026
 
 On July 17, 2026, I stood on the summit of Eğri Hill at around 2:37 p.m., completing the second summit of the day and the sixteenth of the seventeen summits climbed during the five-day expedition described above.
-![20260717_Egritepe](20260717_Egritepe.jpeg "Egritepe Peak")
-![20260717_Egritepe2](20260717_Egritepe2.jpeg "Egritepe2 Peak")
-![20260717_Egritepe3](20260717_Egritepe3.jpeg "Egritepe3 Peak")
+![20260717_Egritepe](pics/20260717_Egritepe.jpeg "Eğritepe Summit – 17 July 2026")
+![20260717_Egritepe2](pics/20260717_Egritepe2.jpeg "Eğritepe Summit – 17 July 2026")
+![20260717_Egritepe3](pics/20260717_Egritepe3.jpeg "Eğritepe Summit – 17 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274573603&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -686,8 +686,8 @@ Birocak :1
 -   Summit Date: July 17, 2026
 
 On July 17, 2026, I stood on the summit of Birocak at around 12:50 p.m., completing the first summit of the day and the fifteenth of the seventeen summits climbed during the five-day expedition described above.
-![20260717_Birocak](20260717_Birocak.jpeg "Birocak Peak")
-![20260717_Birocak2](20260717_Birocak2.jpeg "Birocak2 Peak")
+![20260717_Birocak](pics/20260717_Birocak.jpeg "Birocak Summit – 17 July 2026")
+![20260717_Birocak2](pics/20260717_Birocak2.jpeg "Birocak Summit – 17 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274573603&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -698,7 +698,7 @@ On July 17, 2026, I stood on the summit of Birocak at around 12:50 p.m., complet
 -   Summit Date: July 16, 2026
 
 On July 16, 2026, I stood on the summit of İkibaş at around 6:25 p.m., completing the seventh summit of the day and the fourteenth of the seventeen summits climbed during the five-day expedition described above.
-![20260716_Ikibas](20260716_Ikibas.jpeg "Ikibas Peak")
+![20260716_Ikibas](pics/20260716_Ikibas.jpeg "İkibaş Summit – 16 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -709,7 +709,7 @@ Akkapız :1
 -   Summit Date: July 16, 2026
 
 On July 16, 2026, I stood on the summit of Akkapız at around 5:15 p.m., completing the sixth summit of the day and the thirteenth of the seventeen summits climbed during the five-day expedition described above.
-![20260716_Akkapiz](20260716_Akkapiz.jpeg "Akkapiz Peak")
+![20260716_Akkapiz](pics/20260716_Akkapiz.jpeg "Akkapız Summit – 16 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -720,7 +720,7 @@ Küçük Alaca :1
 -   Summit Date: July 16, 2026
 
 On July 16, 2026, I stood on the summit of Küçük Alaca at around 4:40 p.m., completing the fifth summit of the day and the twelfth of the seventeen summits climbed during the five-day expedition described above.
-![20260716_KucukAlaca](20260716_KucukAlaca.jpeg "KucukAlaca Peak")
+![20260716_KucukAlaca](pics/20260716_KucukAlaca.jpeg "Küçük Alaca Summit – 16 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -731,7 +731,7 @@ Alaca (Lorut) :2
 -   Summit Date: July 16, 2026
 
 On July 16, 2026, I stood on the summit of Alaca (Lorut) at around 3:00 p.m., completing the fourth summit of the day and the eleventh of the seventeen summits climbed during the five-day expedition described above.
-![20260716_Alaca](20260716_Alaca.jpeg "Alaca Peak")
+![20260716_Alaca](pics/20260716_Alaca.jpeg "Alaca (Lorut) Summit – 16 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -742,7 +742,7 @@ Körtekli :1
 -   Summit Date: July 16, 2026
 
 On July 16, 2026, I stood on the summit of Körtekli at around 12:40 p.m., completing the third summit of the day and the tenth of the seventeen summits climbed during the five-day expedition described above.
-![20260716_Kortekli](20260716_Kortekli.jpeg "Kortekli Peak")
+![20260716_Kortekli](pics/20260716_Kortekli.jpeg "Körtekli Summit – 16 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -753,7 +753,7 @@ Mangırcı II :1
 -   Summit Date: July 16, 2026
 
 On July 16, 2026, I stood on the summit of Mangırcı II at around 10:00 a.m., completing the second summit of the day and the nineth of the seventeen summits climbed during the five-day expedition described above.
-![20260716_MangirciII](20260716_MangirciII.jpeg "MangirciII Peak")
+![20260716_MangirciII](pics/20260716_MangirciII.jpeg "Mangırcı II Summit – 16 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -764,7 +764,7 @@ Mangırcı I :1
 -   Summit Date: July 16, 2026
 
 On July 16, 2026, I stood on the summit of Mangırcı I at around 7:47 a.m., completing the first summit of the day and the eighth of the seventeen summits climbed during the five-day expedition described above.
-![20260716_MangirciI](20260716_MangirciI.jpeg "MangirciI Peak")
+![20260716_MangirciI](pics/20260716_MangirciI.jpeg "Mangırcı I Summit – 16 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274423798&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -775,7 +775,7 @@ Alacadağ :1
 -   Summit Date: July 15, 2026
 
 On July 15, 2026, I stood on the summit of Alacadağ at around 3:55 p.m., completing the sixth summit of the day and the seventh of the seventeen summits climbed during the five-day expedition described above.
-![20260715_Alacadag](20260715_Alacadag.jpeg "Alacadag Peak")
+![20260715_Alacadag](pics/20260715_Alacadag.jpeg "Alacadağ Summit – 15 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -786,7 +786,7 @@ Teke Hill :1
 -   Summit Date: July 15, 2026
 
 On July 15, 2026, I stood on the summit of Teke Hill at around 1:30 p.m., completing the fifth summit of the day and the sixth of the seventeen summits climbed during the five-day expedition described above.
-![20260715_Teketepe](20260715_Teketepe.jpeg "Teketepe Peak")
+![20260715_Teketepe](pics/20260715_Teketepe.jpeg "Teketepe Summit – 15 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -797,7 +797,7 @@ On July 15, 2026, I stood on the summit of Teke Hill at around 1:30 p.m., comple
 -   Summit Date: July 15, 2026
 
 On July 15, 2026, I stood on the summit of Çömlek Hill at around 12:40 p.m., completing the fourth summit of the day and the fifth of the seventeen summits climbed during the five-day expedition described above.
-![20260715_Comlek](20260715_Comlek.jpeg "Comlek Peak")
+![20260715_Comlek](pics/20260715_Comlek.jpeg "Çömlek Summit – 15 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -808,7 +808,7 @@ On July 15, 2026, I stood on the summit of Çömlek Hill at around 12:40 p.m., c
 -   Summit Date: July 15, 2026
 
 On July 15, 2026, I stood on the summit of Çobankırı at around 10:50 p.m., completing the third summit of the day and the fourth of the seventeen summits climbed during the five-day expedition described above.
-![20260715_Cobankiri](20260715_Cobankiri.jpeg "Cobankiri Peak")
+![20260715_Cobankiri](pics/20260715_Cobankiri.jpeg "Çobankırı Summit – 15 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -819,7 +819,7 @@ Hışır :1
 -   Summit Date: July 15, 2026
 
 On July 15, 2026, I stood on the summit of Hışır at around 9:30 a.m., completing the second summit of the day and the third of the seventeen summits climbed during the five-day expedition described above.
-![20260715_Hisir](20260715_Hisir.jpeg "Hisir Peak")
+![20260715_Hisir](pics/20260715_Hisir.jpeg "Hışır Summit – 15 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -830,7 +830,7 @@ Kızılınbaşı :1
 -   Summit Date: July 15, 2026
 
 On July 15, 2026, I stood on the summit of Kızılınbaşı at approximately 8:25 a.m., completing the first summit of the day and the second of the seventeen summits climbed during the five-day expedition described above.
-![20260715_Kizilinbasi](20260715_Kizilinbasi.jpeg "Kizilinbasi Peak")
+![20260715_Kizilinbasi](pics/20260715_Kizilinbasi.jpeg "Kızılınbaşı Summit – 15 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274268219&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -841,8 +841,8 @@ Ortaburun :1
 -   Summit Date: July 14, 2026
 
 On July 14, 2026, I stood on the summit of Ortaburun at around 4:20 p.m., completing the first of the seventeen summits climbed during the five-day expedition described above.
-![20260714_Ortaburun](20260714_Ortaburun.jpeg "Ortaburun Peak")
-![20260714_Ortaburun2](20260714_Ortaburun2.jpeg "Ortaburun Peak")
+![20260714_Ortaburun](pics/20260714_Ortaburun.jpeg "Ortaburun Summit – 14 July 2026")
+![20260714_Ortaburun2](pics/20260714_Ortaburun2.jpeg "Ortaburun Summit – 14 July 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=274111260&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -853,7 +853,7 @@ Tekeköprüsü :1
 -   Summit Date: June 28, 2026
 
 The Bolkar Mountains are one of the major ranges of the Taurus Mountains in southern Türkiye, renowned for their rugged limestone terrain, high alpine plateaus, and numerous peaks exceeding 3,000 meters. This outing was three-day, nine-summit adventure organized by YEBUDAK Mountaineering Club from Bursa and combined several classic summits of the range with a few lesser-visited peaks, making for three rewarding days in one of my favorite mountain regions. I completed my preparations on June 25, 2026. The following morning, I woke up at 5:00 a.m., left home shortly, and arrived in Pozantı around 7:35 a.m. There I was scheduled to meet with YEBUDAK. While waiting, I had breakfast at a local bakery before the group arrived around 10 a.m. After stopping for supplies, we drove to Elmalı Boğazı and reached the campsite at approximately 1:30 p.m. Once the tents were pitched, we headed out at 2:45 p.m. to Aksivri Peak for the first summit of the adventure. We reached the summit at around 5:40 p.m. and returned to camp at approximately 8:00 p.m. After cooking dinner, I went to bed around 9:30 p.m., knowing that the following day would be considerably longer. I woke at 4:20 a.m. on June 27, and our group departed camp at approximately 5:10 a.m. Strong winds accompanied us throughout the climb. We reached Kocagedik Peak around 10:00 a.m. The summit itself provided one of the most memorable moments of the trip. We had ascended from the northern side, where powerful winds made movement extremely difficult. Crossing the narrow summit ridge to the southern side required several of us to lock arms for stability against the wind. Continuing along the ridge, we reached Kızılgöltopu at approximately 11:15 a.m. After completing the traverse, we returned to camp around 3:40 p.m. We packed our equipment, drove into town for dinner, and then continued to Karboğazı, arriving at the campsite around 8:30 p.m. Another mountaineering club, TODOSK, was already camping there and planned to begin their ascent shortly after midnight. We preferred a more reasonable schedule and decided to start at 4:00 a.m. instead. On June 28, I woke up at 3:25 a.m., had a quick breakfast of coffee and an energy bar, and we left camp at approximately 4:10 a.m. We reached the summit of Bozkaya Hill at around 8:20 a.m. and continued toward Medetsiz, arriving on the highest summit of the Bolkar Mountains at approximately 11:10 a.m. After a long break on the summit, I left the group at around 12:15 p.m. to continue alone. Twenty-five minutes later, I reached Kopukgöl Peak. After only a brief stop, I continued toward Arpalığın Tepe, arriving there at approximately 1:20 p.m. From Arpalığın Tepe, I noticed Tekeköprüsü Peak, which we had discussed extensively the previous day while climbing Kocagedik. Another group had previously attempted the summit from the Kocagedik side but had been unable to cross the narrow rock ridge—known locally as the "goat bridge"—that gives the mountain its name. From my vantage point on Arpalığın Tepe, however, I could clearly see that the opposite side of the mountain offered a much easier approach. Realizing I had an opportunity to add another summit, I immediately changed my plans and headed toward Tekeköprüsü. At approximately 2:15 p.m., I stood on the summit of Tekeköprüsü, completing my fourth summit of the day. From there, I descended toward Alayaka Pass. Although Alayaka Mountain looked tempting, its steep and highly technical terrain convinced me not to attempt it solo. Instead, I continued descending through the valley. The descent passed beneath steep rock faces where rockfall is common, and patches of snow clearly revealed numerous stones that had recently fallen from above, reinforcing that I had made the right decision not to continue toward Alayaka. I returned to camp at approximately 4:35 p.m., where the others were making their final preparations to leave. I quickly packed my tent, and shortly afterward we all departed Karboğazı together. Over the course of three days, I climbed nine summits, shared memorable moments with fellow mountaineers, experienced severe winds on exposed ridges, and completed several solo extensions. What began as a club outing evolved into a rewarding blend of teamwork and independent exploration, once again reinforcing why the Bolkar Mountains remain one of my favorite mountain ranges in Türkiye.
-![20260628_Tekekoprusu](20260628_Tekekoprusu.jpeg "Tekekoprusu Peak")
+![20260628_Tekekoprusu](pics/20260628_Tekekoprusu.jpeg "Tekeköprüsü Summit – 28 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -864,29 +864,29 @@ Arpalığın Hill :1
 -   Summit Date: June 28, 2026
 
 On June 28, 2026, I stood on the summit of Arpalığın Hill at around 1:20 p.m., completing the seventh summit of the three-day, nine-summit adventure described above.
-![20260628_Arpaligin](20260628_Arpaligin.jpeg "Arpaligin Peak")
+![20260628_Arpaligin](pics/20260628_Arpaligin.jpeg "Arpalığın Summit – 28 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Kopukgöl :2
+Kopukgöl :2
 ==============
 
 -   Elevation: 3,428m
 -   Summit Date: June 28, 2026
 
 On June 28, 2026, I stood on the summit of Kopukgöl Hill at around 12:40 p.m., completing the sixth summit of the three-day, nine-summit adventure described above.
-![20260628_Kopukgol](20260628_Kopukgol.jpeg "Kopukgol Peak")
+![20260628_Kopukgol](pics/20260628_Kopukgol.jpeg "Kopukgöl Summit – 28 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Mount Medetsiz :2
+Medetsiz :2
 ==============
 
 -   Elevation: 3,524m
 -   Summit Date: June 28, 2026
 
 On June 28, 2026, I stood on the summit of Mount Medetsiz at around 11:10 a.m., completing the fifth summit of the three-day, nine-summit adventure described above.
-![20260628_Medetsiz](20260628_Medetsiz.jpeg "Medetsiz Peak")
+![20260628_Medetsiz](pics/20260628_Medetsiz.jpeg "Medetsiz Summit – 28 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -897,7 +897,7 @@ Mount Bozkaya :1
 -   Summit Date: June 28, 2026
 
 On June 28, 2026, I stood on the summit of Bozkaya Hill at around 8:20 a.m., completing the fourth summit of the three-day, nine-summit adventure described above.
-![20260628_Bozkaya](20260628_Bozkaya.jpeg "Bozkaya Peak")
+![20260628_Bozkaya](pics/20260628_Bozkaya.jpeg "Bozkaya Summit – 28 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271607026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -908,7 +908,7 @@ Kızılgöltopu :1
 -   Summit Date: June 27, 2026
 
 On June 27, 2026, I stood on the summit of Mount Kızılgöltopu at around 11:50 a.m., completing the third summit of the three-day, nine-summit adventure described above.
-![20260627_Kizilgoltopu](20260627_Kizilgoltopu.jpeg "Kizilgoltopu Peak")
+![20260627_Kizilgoltopu](pics/20260627_Kizilgoltopu.jpeg "Kızılgöltopu Summit – 27 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271411107&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -919,7 +919,7 @@ Kocagedik :1
 -   Summit Date: June 27, 2026
 
 On June 27, 2026, I stood on the summit of Mount Kocagedik at around 10:00 a.m., completing the second summit of the three-day, nine-summit adventure described above.
-![20260627_Kocagedik](20260627_Kocagedik.jpeg "Kocagedik Peak")
+![20260627_Kocagedik](pics/20260627_Kocagedik.jpeg "Kocagedik Summit – 27 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271411107&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -930,7 +930,7 @@ Aksivri :1
 -   Summit Date: June 26, 2026
 
 On June 26, 2026, I stood on the summit of Mount Aksivri at around 5:40 p.m., completing the first summit of the three-day, nine-summit adventure described above.
-![20260626_Aksivri](20260626_Aksivri.jpeg "Aksivri Peak")
+![20260626_Aksivri](pics/20260626_Aksivri.jpeg "Aksivri Summit – 27 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=271304026&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -941,7 +941,7 @@ Gelincikana :1
 -   Summit Date: June 14, 2026
 
 Arapyayla, Gelincikana, and Keçikaya are prominent summits of the Sultan Mountains in western Türkiye. Connected by long alpine ridges, these peaks offer a rewarding traverse across one of the most prominent mountain ranges between Central Anatolia and the Lakes Region. This climb was not planned in advance. My family and I had traveled to Konya for a weekend trip to Eğrigöl. We visited Eğrigöl on Saturday as planned, but a change in plans for Sunday unexpectedly left me with a free day. Anticipating that an opportunity for a climb might arise, I had brought my mountaineering equipment with me. As a result, I decided on Saturday evening to attempt a traverse of Arapyayla, Gelincikana, and Keçikaya the following day. Since we had returned late from Eğrigöl, I went straight to bed and woke up at around 6:00 a.m. After getting ready, I left Konya at approximately 7:10 a.m. On the way, I picked up a sandwich, a simit, and a pastry for breakfast, eating them during the drive. Using navigation, I followed my planned approach route and reached Ayvalı Village. From there, the road turned into a gravel track. However, I soon encountered deep tractor ruts, muddy sections, and standing water left behind by rainfall from the previous day. The conditions looked poor, and I decided to turn back. As I was returning, I met a local farmer driving a tractor. He confirmed that the road ahead was difficult even for a tractor. When I asked about accessing the route from Yarıkkaya, he explained that a road collapse during the winter had cut off vehicle access from that direction as well. He suggested that I could leave the car in Yarıkkaya Village and continue on foot. I drove to Yarıkkaya anyway, hoping the road might have reopened without his knowledge. A short inspection quickly proved otherwise. A massive landslide had destroyed part of the road, making vehicle passage impossible. At that point, I had three options: begin the climb from the landslide, return to Yarıkkaya and start from there, or abandon the climb altogether. I chose to continue. Starting from the landslide meant adding roughly 700–800 meters of extra elevation gain and an additional 14–15 kilometers of hiking to the day. At approximately 10:12 a.m., I began the ascent. After gaining some elevation, I spotted the first flock of sheep in the distance. Throughout the day I encountered several more flocks and did my best to pass unnoticed, avoiding unnecessary interactions with shepherd dogs. At around 12:15 p.m., I finally reached the point where I had originally intended to start the hike by vehicle. Just as I arrived, dogs from a flock grazing on a nearby hillside spotted me and began barking. Fortunately, they remained at a distance and eventually lost interest as I continued on my way. At approximately 2:15 p.m., I reached the first summit of the day, Arapyayla. Almost immediately after arriving, dense fog rolled in and drastically reduced visibility. Without lingering, I continued toward Gelincikana. Navigating through the fog, I reached the summit of Gelincikana at around 3:00 p.m. The visibility remained poor, so after a brief stop I continued toward my third objective. At approximately 3:45 p.m., I arrived on the summit of Keçikaya. Shortly after reaching the top, the fog began to lift and the views finally opened up. I was preparing to eat something and recharge my phone when I realized I had forgotten my power bank. My phone battery had dropped to only 7 percent. Knowing that a return of the fog could make navigation significantly more difficult and potentially hazardous, I decided not to waste any time. While visibility remained good, I immediately started the descent. On the way down, I encountered even more sheep flocks than during the ascent. To avoid conflicts with shepherd dogs, I frequently adjusted my route, sometimes making additional ascents and detours to keep a safe distance from the animals. At approximately 6:25 p.m., I completed the hike and returned to my vehicle. What had initially seemed like a straightforward day in the mountains turned into a far more demanding adventure. Unexpected road closures, a major landslide, dense fog, navigation challenges, and numerous encounters with livestock all added complexity to the outing. Yet the successful traverse of three summits—Arapyayla, Gelincikana, and Keçikaya—made the extra effort worthwhile and transformed an unplanned day into a memorable mountain adventure.
-![20260614_Gelincikana](20260614_Gelincikana.jpeg "Gelincikana Peak")
+![20260614_Gelincikana](pics/20260614_Gelincikana.jpeg "Gelincikana Summit – 14 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -952,7 +952,7 @@ Arapyayla :1
 -   Summit Date: June 14, 2026
 
 On June 14, 2026, I stood on the summit of Arapyayla Hill at around 2:15 p.m., completing the first summit of the triple-summit traverse described above.
-![20260614_Arapyayla](20260614_Arapyayla.jpeg "Arapyayla Peak")
+![20260614_Arapyayla](pics/20260614_Arapyayla.jpeg "Arapyayla Summit – 14 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -963,7 +963,7 @@ Keçikaya :1
 -   Summit Date: June 14, 2026
 
 On June 14, 2026, I stood on the summit of Keçikaya at around 3:45 p.m., completing the first summit of the triple-summit traverse described above.
-![20260614_Kecikaya](20260614_Kecikaya.jpeg "Kecikaya Peak")
+![20260614_Kecikaya](pics/20260614_Kecikaya.jpeg "Keçikaya Summit – 14 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269468152&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -974,7 +974,7 @@ On June 14, 2026, I stood on the summit of Keçikaya at around 3:45 p.m., comple
 -   Summit Date: June 13, 2026
 
 Çalamlı Mountain is a lesser-known summit of the Geyik Mountains, located near Eğrigöl in the Taurus Mountains of Türkiye. The ascent of Çalamlı Mountain was never really part of the plan. We were considering a family trip to the Eğrigöl area, and I packed my climbing equipment just in case an opportunity for a hike presented itself. On June 13, 2026, we arrived at Eğrigöl shortly after 2:00 p.m. After helping my family settle in, I seized the opportunity to head for the mountain. At around 3:00 p.m., I left Eğrigöl by car and drove toward Çalamlı Mountain near Seyircik Plateau. The approach involved roughly 15 kilometers of driving, more than half of it on gravel roads, bringing me close to the mountain. I started hiking at approximately 3:30 p.m. The route was short and straightforward, making for a relaxed afternoon ascent. With favorable weather and light gear, I made steady progress and reached the summit at around 4:10 p.m. After spending some time enjoying the summit and the surrounding views, I began my descent and returned to my vehicle at approximately 5:10 p.m. Although the climb was entirely unplanned and much shorter than many of my recent mountain outings, it provided exactly what I was looking for: a peaceful solo ascent, magnificent views of the Geyik Mountains—including Barçın and Geyik peaks—and another opportunity to explore a lesser-visited summit of the region.
-![20260613_CalamliDagi](20260613_CalamliDagi.jpeg "Calamli Peak")
+![20260613_CalamliDagi](pics/20260613_CalamliDagi.jpeg "Çalamlı Summit – 13 June 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=269289426&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -985,9 +985,9 @@ Mount Sarp :1
 -   Summit Date: May 27, 2026
 
 This outing was originally planned as a climb of Barla and Kıroğ, but it eventually evolved into a two-day, five-summit adventure. I completed my preparations on May 25, 2026, and left Karaman at around 3:15 p.m. After a scenic drive, I arrived at the Barla–Çamdağı Recreation Area at approximately 7:45 p.m. From the recreation area, I followed a gravel road down to a spring. Beyond the spring, the road became impassable. Turning the car around on the rough surface proved challenging, but eventually I made my way back to the recreation area, where I discovered an open mosque that would serve as my shelter for the night. After dinner, I climbed into my sleeping bag inside the mosque at around 10:00 p.m. and went to sleep, hoping for an early start at dawn. Following a somewhat restless night, I got up at 4:45 a.m., packed my gear, and prepared for the climb. At 5:30 a.m., I started hiking. The ascent to Barla Mountain unfolded through forests and open mountain slopes. One of the most memorable aspects of the climb was the presence of wild horses. Throughout the ascent, small groups of horses appeared at various points along the mountain. Each time they noticed me, they would move away, only to reappear later in a different location. This pattern continued throughout the day, creating the feeling that we were sharing the mountain and following parallel routes toward the summit. Another remarkable encounter came in the form of a wild flower known locally as Ayı Gülü, a species I had not expected to find during the climb. Combined with the fog drifting across the mountain and the frequent sightings of the horses, it added a distinctly wild atmosphere to the experience. I reached the summit of Barla at 9:00 a.m. The summit was cold, foggy, and windy, so after spending about fifteen minutes there, I continued toward my second objective, Kıroğ. At approximately 10:45 a.m., I reached the summit of Kıroğ. After a short break for snacks and photographs, I began descending at 11:11 a.m. and completed the hike back at the recreation area around 1:40 p.m. While preparing lunch, I noticed a tick crawling up my trousers near my knee. I immediately removed it and carefully checked both my clothing and body twice. A herd of cattle had been grazing nearby, and the tick had most likely attached itself while I was taking photographs or handling gear around the recreation area. After lunch, I set off for my next objective: Davraz Mountain. I arrived at the ski resort around 3:45 p.m. and attempted to drive higher along a gravel road, but a wooden barrier blocked vehicle access. Fortunately, there was enough space to pass around it, allowing me to continue up to the T-bar lift area. At 4:20 p.m., I began the ascent. The climb was steep but enjoyable, and I reached the summit of Davraz at 6:30 p.m. After a brief stay, I started descending at 6:40 p.m. and returned to the vehicle at approximately 8:00 p.m. With darkness approaching, I quickly drove down and searched for accommodation. I booked a room at the Nafiz Yürekli Anadolu Lisesi Practice Hotel in Eğirdir and spent the night there. The next morning, I woke at 6:00 a.m., had breakfast at 7:30 a.m., and by 8:00 a.m. was back on the road heading for my final objective: Sarp Mountain. I arrived at the trailhead at 9:30 a.m. and began hiking at 9:45 a.m. True to its name, Sarp Dağı ("Steep Mountain") immediately presented rugged terrain and demanding slopes. The route involved continuous steep climbing, exposed sections, and several rugged passages that required careful movement. One of the highlights of the day came when I encountered two red deer. Seeing such shy animals in their natural habitat was a special moment. They noticed me almost immediately and disappeared into the landscape within seconds, but the brief encounter was enough to make the climb even more memorable. At around 12:45 p.m., I finally reached the ridge after a long and strenuous ascent. At approximately 1:30 p.m., I stood on the summit of Tenderek Tepe. After a short rest, I continued along the ridge toward Ayaz Kırığı, arriving there at 2:35 p.m. After a brief stop, I began the long descent. At approximately 5:18 p.m., I returned to my vehicle. Before leaving, I spent some time collecting litter around the area and finally departed at 5:48 p.m. On the drive home, I stopped briefly at Melikler Plateau around 7:50 p.m. Since it was directly on my route, I wanted to visit it as daylight faded. After spending about half an hour enjoying the peaceful atmosphere of the plateau, I continued my journey. Over the course of two days, I climbed five summits, spent a night in a mountain mosque, encountered wild horses, red deer, and a tick, navigated fog, steep ridges, and long traverses, and experienced a wide variety of landscapes. What began as a simple plan for two summits evolved into a much larger adventure filled with unexpected moments and rewarding challenges. It was a physically demanding yet immensely satisfying journey—one that reminded me once again why I am drawn to the mountains.
-![20260527_SarpDagi](20260527_SarpDagi.jpeg "SarpDagi Peak")
-![20260527_SarpDagi2](20260527_SarpDagi2.jpeg "SarpDagi2 Peak")
-![20260527_SarpDagi3](20260527_SarpDagi3.jpeg "SarpDagi3 Peak")
+![20260527_SarpDagi](pics/20260527_SarpDagi.jpeg "Mount Sarp Summit – 27 May 2026")
+![20260527_SarpDagi2](pics/20260527_SarpDagi2.jpeg "Mount Sarp Summit – 27 May 2026")
+![20260527_SarpDagi3](pics/20260527_SarpDagi3.jpeg "Mount Sarp Summit – 27 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266416680&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -998,7 +998,7 @@ Davraz :1
 -   Summit Date: May 26, 2026
 
 On May 26, 2026, I stood on the summit of Davraz at around 6:30 p.m., completing the third summit of the two-day, five-summit adventure described above.
-![20260526_DavrazDagi](20260526_DavrazDagi.jpeg "DavrazDagi Peak")
+![20260526_DavrazDagi](pics/20260526_DavrazDagi.jpeg "Mount Davraz Summit – 26 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266288131&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1009,7 +1009,7 @@ Kıroğ :1
 -   Summit Date: May 26, 2026
 
 On May 26, 2026, I stood on the summit of Kıroğ at around 10:45 a.m., completing the second summit of the two-day, five-summit adventure described above.
-![20260526_KirogDagi](20260526_KirogDagi.jpeg "KirogDagi Peak")
+![20260526_KirogDagi](pics/20260526_KirogDagi.jpeg "Mount Kıroğ Summit – 26 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266285965&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1020,8 +1020,8 @@ Mount Barla :1
 -   Summit Date: May 26, 2026
 
 On May 26, 2026, I stood on the summit of Barla at around 9:00 a.m., completing the first summit of the two-day, five-summit adventure described above.
-![20260526_BarlaDagi](20260526_BarlaDagi.jpeg "BarlaDagi Peak")
-![20260526_BarlaDagi2](20260526_BarlaDagi2.jpeg "BarlaDagi2 Peak")
+![20260526_BarlaDagi](pics/20260526_BarlaDagi.jpeg "Mount Barla Summit – 26 May 2026")
+![20260526_BarlaDagi2](pics/20260526_BarlaDagi2.jpeg "Mount Barla Summit – 26 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=266285965&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1032,7 +1032,7 @@ Mount Orta :1
 -   Summit Date: May 19, 2026
 
 Orta Mountain is one of the prominent summits of the Bolkarlar range in the Taurus Mountains, located in Karaman, Türkiye. This was my first ascent of the mountain and a solo undertaking. On May 19, 2026, I woke up at 5:40 a.m., left home at 6:30 a.m., and reached the starting point of the climb at 8:20 a.m. I approached the mountain from Berendi village, following approximately 10 km of gravel road. I began the ascent at 8:25 a.m. Since the road had already brought me to nearly 2,200 meters in elevation, the climb itself was relatively easy. I reached the summit at 9:40 a.m. The summit was extremely windy and cold, so I did not stay long and immediately began descending. I returned to the starting point at 11:20 a.m., completing a short, easy, and relaxing day in the Bolkarlar.
-![20260519_OrtaDag](20260519_OrtaDag.jpeg "OrtaDag Peak")
+![20260519_OrtaDag](pics/20260519_OrtaDag.jpeg "Orta Dağ (Berendi) Summit – 19 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=264998059&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1043,8 +1043,8 @@ Reze (Büyük Gözet) :1
 -   Summit Date: May 17, 2026
 
 Reze Mountain, also known as Büyük Gözet, is one of the prominent peaks of the Küpe mountain range in Konya, Türkiye. This was my first ascent of the mountain and a solo undertaking. At around 8:50 a.m., I arrived at the trailhead, located approximately 1 km beyond the dam near Taraşçı village, and began climbing at 9:00 a.m. I followed a route that ascends directly toward Kızılgeçit. Below Kızılgeçit, I encountered hard snow conditions that I had not anticipated, and as a result, I had not brought technical equipment. Crossing the snowy sections without crampons or an ice axe required careful foot placement and constant attention. The terrain was highly exposed, with steep drop-offs adding to the seriousness of the traverse. After Kızılgeçit, both the exposure and snow coverage decreased significantly. I reached the first summit, Büyük Gözet, at around 1:00 p.m. For the descent, I decided not to retrace my ascent route due to the risks posed by the exposed snow traverse. Instead, I chose to continue traversing the range toward Reze Beli. This decision also gave me the opportunity to climb the highest point of the range, Küpe Sivrisi, which I reached at approximately 2:50 p.m. I then continued the traverse, but the route proved more demanding than expected. The terrain was extremely rocky, requiring constant ascents and descents rather than a straightforward crossing. After the first summit, fog also moved in and significantly reduced visibility. Near Reze Beli, I decided to continue descending toward Kocakoru Nature Park. Along the way, I had to pass near nomad camps and tried to avoid attracting the attention of shepherd dogs. At approximately 6:50 p.m., I completed the traverse—finishing a physically demanding yet deeply satisfying day in the Küpe mountain range.
-![20260517_RezeBuyukGozet](20260517_RezeBuyukGozet.jpeg "RezeBuyukGozet Peak")
-![20260517_RezeBuyukGozet2](20260517_RezeBuyukGozet2.jpeg "RezeBuyukGozet Peak")
+![20260517_RezeBuyukGozet](pics/20260517_RezeBuyukGozet.jpeg "Reze (Büyük Gözet) Summit – 17 May 2026")
+![20260517_RezeBuyukGozet2](pics/20260517_RezeBuyukGozet2.jpeg "Reze (Büyük Gözet) Summit – 17 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=264780389&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1055,7 +1055,7 @@ Reze Mountain, also known as Büyük Gözet, is one of the prominent peaks of th
 -   Summit Date: May 10, 2026
 
 Özyurt Mountain, locally known as Hacıbaba, is the highest peak in Karaman Province, Türkiye. This outing marked my eleventh ascent of the mountain and my seventh solo climb. This was an entirely unplanned trip. I was having a quiet Sunday when, close to noon, I suddenly decided to climb the mountain. I left home around 11:45 a.m., stopped briefly for some shopping and lunch on the way, and reached the trailhead at approximately 1:00 p.m. After a quick meal there, I began the ascent at 1:15 p.m. I followed one of my previous routes, starting from the Kızılyaka village side and continuing along an extended south-to-north ridge traverse. I reached the summit at 4:00 p.m. After spending around 40 minutes on the summit, I began my descent and returned to the trailhead at approximately 6:30 p.m. During the descent, I encountered a group of nomads gathering goats that had apparently been attacked by wolves. Around 10–15 animals had been killed—possibly even more—and while I was there, they managed to recover one wounded goat alive.
-![20260510_Hacibaba](20260510_Hacibaba.jpeg "Hacibaba Peak")
+![20260510_Hacibaba](pics/20260510_Hacibaba.jpeg "Hacıbaba Summit – 10 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=263680553&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1066,8 +1066,8 @@ Mount Yıldız :1
 -   Summit Date: May 1, 2026
 
 Mount Yıldız is one of the prominent summits of the Bolkarlar range in the Taurus Mountains, located on the border of Mersin and Karaman provinces. This outing was a solo ascent linking two summits—Yıldız first, followed by Çakırcan. On May 1, 2026, I woke up at 4:30 a.m., left home at 5:00 a.m., and reached the starting point of the climb at 7:20 a.m. The approach from Çatköy village involves about 33 km of gravel road. The previous week, I had driven 15 km of it to reach the base of Bolkardede, but the remaining 18 km was unknown to me in terms of accessibility. Fortunately, the road had been cleared of snow up to about 2 km before my planned trailhead. A snowplow left at that point suggested the clearing had been completed just the day before—an unexpected stroke of luck. I was happy to add the extra 2 km to the approach on foot. I started climbing at around 7:30 a.m. After approximately 7 km of hiking and 850 meters of elevation gain, I reached the summit of Mount Yıldız at 10:25 a.m. My plan was to continue to Mount Çakırcan. Based on my initial assessment using an online map, it appeared to be an additional 5 km traverse from Yıldız—challenging but manageable. However, the terrain proved to be far more demanding than expected. From Yıldız, I estimated the location of Çakırcan visually; it seemed distant but achievable. I reached what I initially believed to be the summit at around 1:25 p.m., only to realize that Çakırcan lay further beyond. Frustrated but determined, I pushed on and finally reached the true summit at 2:00 p.m. By that point, my total distance had reached 13.8 km—meaning I had the same distance to cover on the return. More concerning was the terrain between Çakırcan and Yıldız, which required descending and then re-ascending roughly 300 meters. Aware of the late hour and the long return ahead, I began my descent after a quick break. Clouds were moving in, and increasing fog significantly reduced visibility. To minimize risk, I chose to retrace my exact route, following my own tracks whenever visibility deteriorated. I reached the summit of Mount Yıldız again at 5:40 p.m. Strong winds prevented any pause, and I immediately continued descending. I arrived back at the starting point at 8:00 p.m., completing a long and physically demanding day. What began as a straightforward plan evolved into a challenging yet deeply rewarding solo winter traverse—linking two remote summits in the heart of the Bolkarlar.
-![20260501_Yildiz_web](20260501_Yildiz_web.jpeg "Yildiz Peak")
-![20260501_Yildiz](20260501_Yildiz.jpeg "Yildiz Peak")
+![20260501_Yildiz_web](pics/20260501_Yildiz_web.jpeg "Mount Yıldız Summit – 1 May 2026")
+![20260501_Yildiz](pics/20260501_Yildiz.jpeg "Mount Yıldız Summit – 1 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=262242828&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1078,8 +1078,8 @@ Mount Çakırcan :1
 -   Summit Date: May 1, 2026
 
 On May 1, 2026, I stood on the summit of Çakırcan at approximately 2:00 p.m., having continued on from Yıldız as described above.
-![20260501_Cakircan_web](20260501_Cakircan_web.jpeg "Cakircan Peak")
-![20260501_Cakircan](20260501_Cakircan.jpeg "Cakircan Peak")
+![20260501_Cakircan_web](pics/20260501_Cakircan_web.jpeg "Mount Çakırcan Summit – 1 May 2026")
+![20260501_Cakircan](pics/20260501_Cakircan.jpeg "Mount Çakırcan Summit – 1 May 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=262242828&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1090,7 +1090,7 @@ Mount Bolkardede :1
 -   Summit Date: April 23, 2026
 
 Bolkardede is one of the prominent summits of the Bolkarlar range in the Taurus Mountains. It is located in the Ayrancı district of Karaman province, near Çatköy village. This outing was an unplanned solo ascent. On April 23, 2026—National Sovereignty and Children’s Day—I traveled to Ayrancı with my family for sightseeing. While there, I decided to explore the Bolkardede area, a peak I had been considering climbing for some time, although I wasn’t sure how close I could get by vehicle. We managed to reach a point relatively close to the summit at around 4:30 p.m., at an elevation of approximately 2,100 meters. From there, the remaining ascent involved about 550–600 meters of elevation gain. Despite the late hour, I decided to give it a shot. I started climbing at around 4:40 p.m. and reached the summit within an hour. The route was largely covered with snow, but conditions did not require crampons or an ice axe. I spent about 20 minutes at the summit before descending, returning to the starting point in roughly 40 minutes and completing the outing around 6:40 p.m. At the summit, I noticed some structures marked as a tomb. After returning, I researched the site further and discovered that it has a history dating back approximately 800 years. The location is known as Bulgar Bozoğlan Hill, named after a person believed to have died there centuries ago.
-![20260423_Bolkardede](20260423_Bolkardede.jpeg "Bolkardede Peak")
+![20260423_Bolkardede](pics/20260423_Bolkardede.jpeg "Mount Bolkardede Summit – 23 April 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=260774624&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1101,7 +1101,7 @@ Mount Hasan :4
 -   Summit Date: April 12, 2026
 
 Mount Hasan, a volcano located in Aksaray province, Türkiye, is one of the most prominent peaks in Anatolia. This climb marked my fourth ascent of the mountain and my second winter experience. For this adventure, I once again joined the SEDAK mountaineering group. On April 11, 2026, I arrived at the base of the mountain—near Karbeyaz Hotel, an area that also offers several convenient camping spots. I reached the site around 5:00 p.m. and was expecting the rest of the group to arrive early the next morning. This area is usually crowded with mountaineers, but this time I was completely alone. After setting up my tent, I went to explore the beginning of our route for the next day. When I returned, another climber had also arrived early to camp before the ascent. We had dinner together and went to bed early, anticipating the group’s arrival around 4:00 a.m. We began our ascent at 4:45 a.m. via the Yılankar route, a classic line that is slightly steeper than the broader southern approach. Snow was minimal at the start but quickly increased with elevation. At lower altitudes, the snow was soft, but as we climbed higher and the terrain steepened, it became increasingly icy. At that point, we put on our technical gear—crampons and ice axes. The weather was unstable throughout the climb, shifting constantly between calm, sunny conditions and foggy, snowy periods. By 11:10 a.m., we reached the summit. Due to the poor weather, we initially planned to keep our stay short and have breakfast during the descent. However, conditions began to improve, and a clear window opened just as we arrived. Taking advantage of this, we spent about an hour on the summit—eating, resting, and enjoying the view, which revealed itself only during our time there. We started our descent around 12:15 p.m. and returned to the campsite at approximately 3:00 p.m.
-![20260412_Hasan](20260412_Hasan.jpeg "Hasan Peak")
+![20260412_Hasan](pics/20260412_Hasan.jpeg "Mount Hasan Summit – 12 April 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=258982633&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1112,13 +1112,13 @@ Göllücebaşı :1
 -   Summit Date: March 28, 2026
 
 Göllücebaşı is one of the prominent summits of the Bolkarlar range in the Taurus Mountains. After completing my solo Medetsiz traverse earlier, I had been eager to return—this time to experience the region under full winter conditions. I monitored the weather closely for weeks and finally found a suitable window, deciding to set out solo once again. On March 28, 2026, I woke at 4:30 a.m., left home at 5:30 a.m., and arrived in Maden village at 7:40 a.m. The road beyond this point, leading to Meydan Plateau, was completely impassable due to snow, so I began my approach on foot. After roughly 6 km of hiking, I reached Meydan Plateau at 9:30 a.m. and continued toward the high alpine basin. My first major waypoint was Karagöl, which I reached at 11:00 a.m. The lake was entirely frozen and buried under a thick layer of snow. I crossed it directly and continued toward Çiniligöl, arriving at 11:40 a.m. Like Karagöl, it was fully frozen and heavily snow-covered. After crossing Çiniligöl, I began the main ascent toward Göllücebaşı, clearly visible ahead. Although the weather was ideal—clear skies, no wind, and strong sun—the long approach began to take its toll. Progress slowed significantly, often limited to short bursts of 10–15 meters followed by rest. Unsure whether I could reach the summit in time, I set a turnaround time of 2:00 p.m. However, at that point I found myself only about 200 meters below the summit, and turning back so close did not feel right. Estimating that the descent would be faster, I decided to continue. I reached the summit of Göllücebaşı at 3:00 p.m. After about 20 minutes on top—enjoying the expansive winter landscape with tea and snacks—I continued my traverse instead of retracing my steps. Descending toward Gökboyun, I reached its summit at 3:40 p.m., roughly 20 minutes below Göllücebaşı. From there, I followed a line west of the lakes, returning to Meydan Plateau at 5:10 p.m. The final 6 km back to Maden village proved particularly exhausting, as the warming temperatures had softened the snow, making each step more demanding. I eventually reached the village at 7:20 p.m., completing a long and physically taxing day. This outing turned into a challenging yet deeply rewarding solo winter traverse, linking two frozen lakes and two summits in the heart of the Bolkarlar.
-![20260328_Gollucebasi](20260328_Gollucebasi.jpeg "Gollucebasi Peak")
-![20260328_Gollucebasi1](20260328_Gollucebasi1.jpeg "Gollucebasi Peak")
-![20260328_Gollucebasi2](20260328_Gollucebasi2.jpeg "Gollucebasi Peak")
-![20260328_Gollucebasi3](20260328_Gollucebasi3.jpeg "Gollucebasi Peak")
-![20260328_Gollucebasi4](20260328_Gollucebasi4.jpeg "Gollucebasi Peak")
-![20260328_Gollucebasi5](20260328_Gollucebasi5.jpeg "Gollucebasi Peak")
-![20260328_Gollucebasi6](20260328_Gollucebasi6.jpeg "Gollucebasi Peak")
+![20260328_Gollucebasi](pics/20260328_Gollucebasi.jpeg "Göllücebaşı Summit – 28 March 2026")
+![20260328_Gollucebasi1](pics/20260328_Gollucebasi1.jpeg "Göllücebaşı Summit – 28 March 2026")
+![20260328_Gollucebasi2](pics/20260328_Gollucebasi2.jpeg "Göllücebaşı Summit – 28 March 2026")
+![20260328_Gollucebasi3](pics/20260328_Gollucebasi3.jpeg "Göllücebaşı Summit – 28 March 2026")
+![20260328_Gollucebasi4](pics/20260328_Gollucebasi4.jpeg "Göllücebaşı Summit – 28 March 2026")
+![20260328_Gollucebasi5](pics/20260328_Gollucebasi5.jpeg "Göllücebaşı Summit – 28 March 2026")
+![20260328_Gollucebasi6](pics/20260328_Gollucebasi6.jpeg "Göllücebaşı Summit – 28 March 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=256376080&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1129,7 +1129,7 @@ Gökboyun :1
 -   Summit Date: March 28, 2026
 
 On March 28, 2026, I reached the summit of Gökboyun at approximately 3:40 p.m. while descending from Göllücebaşı.
-![20260328_Gokboyun](20260328_Gokboyun.jpeg "Gokboyun Peak")
+![20260328_Gokboyun](pics/20260328_Gokboyun.jpeg "Gökboyun Summit – 28 March 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=256376080&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1140,10 +1140,10 @@ On March 28, 2026, I reached the summit of Gökboyun at approximately 3:40 p.m. 
 -   Summit Date: March 7, 2026
 
 Özyurt Mountain, locally known as Hacıbaba, is the highest peak in Karaman Province, Türkiye. This outing marked my tenth time on the mountain and my sixth solo ascent. For this attempt, I planned to investigate another northwestern line, starting near Akarköy village. On March 7, 2026, after completing my preparations, I left home at 7:30 a.m. I arrived at the trailhead at 8:15 a.m. and began hiking at 8:30 a.m. The morning started under low visibility due to fog, and the forecast indicated that strong winds would develop around midday. The lower part of the climb progressed smoothly up to about 1,800 meters. Beyond this point, the conditions became significantly more demanding. Snow depth increased, and strong northerly winds began to affect balance and movement. In several places, the terrain required more careful climbing, as wind-packed snow formed unstable and physically taxing sections along the route. With the gusts occasionally forcing me to stop and regain stability, progress became slower and more deliberate. Each step required careful placement and constant attention to the terrain to maintain a safe line along the ridge. Despite these difficulties, I continued upward at a controlled pace and reached the summit at approximately 1:25 p.m. Conditions on the summit were harsh, with strong wind and poor visibility, so my stay was brief. After a quick cup of tea, I began descending at 1:40 p.m. I initially retraced my line along the northern ridge, then later diverted onto a separate east–west running ridge to complete the planned traverse. After a long but controlled descent through the windy upper slopes and snowy terrain, I reached my vehicle at around 6:15 p.m., finishing another physically demanding yet deeply rewarding solo winter ascent of Hacıbaba.
-![20260307_Hacibaba](20260307_Hacibaba.jpeg "Hacibaba Peak")
-![20260307_Hacibaba2](20260307_Hacibaba2.jpeg "Hacibaba Peak")
-![20260307_Hacibaba3](20260307_Hacibaba3.jpeg "Hacibaba Peak")
-![20260307_Hacibaba4](20260307_Hacibaba4.jpeg "Hacibaba Peak")
+![20260307_Hacibaba](pics/20260307_Hacibaba.jpeg "Hacıbaba Summit – 7 March 2026")
+![20260307_Hacibaba2](pics/20260307_Hacibaba2.jpeg "Hacıbaba Summit – 7 March 2026")
+![20260307_Hacibaba3](pics/20260307_Hacibaba3.jpeg "Hacıbaba Summit – 7 March 2026")
+![20260307_Hacibaba4](pics/20260307_Hacibaba4.jpeg "Hacıbaba Summit – 7 March 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=253319904&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1154,8 +1154,8 @@ Dedegöl :4
 -   Summit Date: February 22, 2026
 
 Mount Dedegöl, the highest peak of the Central Taurus Mountains, is located in Isparta Province, Türkiye. This ascent marked my fourth time on the mountain, undertaken as part of the Summit Turkey team. On February 22, 2026, I arrived at the Vali Fountain around 5:00 p.m. Due to snow-covered sections along the gravel access road, it was not possible to continue by car. As a result, I carried all my equipment—including camping and technical gear—and hiked up to Melikler Plateau. By the time I reached the plateau, the rest of the team had already established camp. I quickly set up my tent and completed preparations for the early alpine start. The following morning, I woke at 3:30 a.m., and we began the ascent at 4:45 a.m. under cold but stable conditions. Maintaining a steady pace, we gained elevation gradually and reached the summit at 11:30 a.m. The winter landscape was exceptional—clear skies, expansive snowfields, and dramatic alpine light combined to create what was likely one of the most stunning winter panoramas I have experienced on Dedegöl. After a brief but memorable summit break, we began descending at 12:20 p.m. and returned to camp around 3:30 p.m. Once back at Melikler Plateau, we packed our equipment and departed at approximately 5:00 p.m., concluding a physically demanding yet visually unforgettable winter ascent.
-![20260222_Dedegol](20260222_Dedegol.jpeg "Dedegol Peak")
-![20260222_Dedegol2](20260222_Dedegol2.jpeg "Dedegol Peak")
+![20260222_Dedegol](pics/20260222_Dedegol.jpeg "Dedegöl Summit – 22 February 2026")
+![20260222_Dedegol2](pics/20260222_Dedegol2.jpeg "Dedegöl Summit – 22 February 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=251686599&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1166,8 +1166,8 @@ Mount Dedegöl, the highest peak of the Central Taurus Mountains, is located in 
 -   Summit Date: February 14, 2026
 
 Özyurt Mountain, locally referred to as Hacıbaba, is the highest peak in Karaman Province, Türkiye. This climb represented my ninth attempt on the mountain and my fifth solo ascent. My goal was to revisit a previously used western approach near Kızılyaka village, this time modifying the line to incorporate an extended south-to-north ridge traverse. On February 14, 2026, after completing final preparations, I left home at 10:00 a.m., reached the trailhead at 11:05 a.m., and began hiking at 11:20 a.m. Fresh snow covered the lower elevations, likely from the previous day, and was already beginning to soften under rising temperatures. I initially followed the gravel road leading toward the marble quarry, then at approximately 1,900 meters diverted toward the southern start of the ridge. Snow depth increased progressively with elevation. Once on the ridge, sections of the route became more technical, with deep, wind-compacted snow adding both physical strain and exposure. Movement required deliberate pacing, stable footing, and continuous terrain assessment to maintain safety along the crest. Maintaining a steady rhythm, I reached the summit at approximately 2:55 p.m. Conditions at the top were calm enough to allow a short but enjoyable break, during which I took in the winter landscape and had tea and food. I began descending at 3:25 p.m., choosing a different line via the northern ridge to complete the traverse. The descent demanded continued focus but remained manageable, and I returned to my vehicle safely at around 5:40 p.m., concluding a physically demanding yet highly satisfying solo winter ascent.
-![20260214_Hacibaba](20260214_Hacibaba.jpeg "Hacibaba Peak")
-![20260214_Hacibaba2](20260214_Hacibaba2.jpeg "Hacibaba Peak")
+![20260214_Hacibaba](pics/20260214_Hacibaba.jpeg "Hacıbaba Summit – 14 February 2026")
+![20260214_Hacibaba2](pics/20260214_Hacibaba2.jpeg "Hacıbaba Summit – 14 February 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=250417784&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1178,7 +1178,7 @@ Sultan Dediği :1
 -   Summit Date: February 1, 2026
 
 Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent marked my first climb of the mountain, carried out as part of the SEDAK team from Konya. We chose the classical Yeşiltekke route, aiming for a clean and efficient winter ascent. On February 1, 2026, I woke at 6:15 a.m. and met three teammates in Karaman, from where we drove together to Yeşiltekke. We arrived at the trailhead around 8:30 a.m. and waited for the rest of the SEDAK team coming from Konya. Once the group was complete, we started the hike at 9:45 a.m. The ascent progressed steadily. Above approximately 2,000 meters, snow coverage increased noticeably, but both the weather and snow conditions remained stable and supportive, allowing for consistent movement without major technical difficulty. We reached the summit at around 1:30 p.m. and spent some time there enjoying the views while taking a relaxed break for food and drinks. We began our descent at 2:15 p.m., following the same route back down. The return was uneventful, and we completed the climb around 5:15 p.m., finishing a pleasant and well-paced winter ascent of Sultan Dediği Mountain.
-![20260201_SultanDedigi](20260201_SultanDedigi.jpeg "Sultan Dediği Peak")
+![20260201_SultanDedigi](pics/20260201_SultanDedigi.jpeg "Sultan Dediği Summit – 1 February 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=249034155&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1189,8 +1189,8 @@ Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent mark
 -   Summit Date: January 25, 2026
 
 Özyurt Mountain, locally known as Hacıbaba, stands as the highest summit in Karaman Province, Türkiye. This climb marked my eighth attempt on the mountain and my fourth solo ascent of the mountain. My objective this time was to investigate yet another new route, approaching from the western side near Muratdede village. I set out on January 25, 2026, waking at 6:20 a.m. and reaching the starting point shortly afterward. I began moving at 8:15 a.m., encountering continuous snow cover from the very first steps of the route. The snowpack was inconsistent—alternating between firm, icy sections and softer, unconsolidated layers—forcing a slow pace and careful movement throughout the climb. The ascent followed a gradual line toward the southern shoulder, from where I transitioned onto the summit ridge. Progress along the ridge demanded constant evaluation due to changing footing and exposure. I topped out at approximately 1:50 p.m., under clear and calm conditions. With the weather cooperating, I was able to linger on the summit, taking in the expansive views and refueling before the descent. During the final ridge traverse, I noticed climbers approaching from the eastern, standard route. They arrived roughly half an hour later, and we shared the summit briefly before visibility began to deteriorate as fog moved in, signaling it was time to leave. At 2:45 p.m., I started my descent, intentionally choosing a separate westward ridge to complete the loop. Despite improving visibility lower down, the mixed snow conditions continued to demand focus until I exited the technical terrain. I returned to the trailhead around 5:15 p.m., closing out a physically taxing and mentally demanding winter ascent—one that required disciplined pacing, conservative judgment, and sustained attention in complex terrain.
-![20260125_Hacibaba](20260125_Hacibaba.jpeg "Hacibaba Peak")
-![20260125_Hacibaba2](20260125_Hacibaba2.jpeg "Hacibaba Peak")
+![20260125_Hacibaba](pics/20260125_Hacibaba.jpeg "Hacıbaba Summit – 25 January 2026")
+![20260125_Hacibaba2](pics/20260125_Hacibaba2.jpeg "Hacıbaba Summit – 25 January 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=248268615&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1201,7 +1201,7 @@ Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent mark
 -   Summit Date: January 10, 2026
 
 Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. This ascent marked my seventh attempt on the mountain and my third solo climb. For this outing, I aimed to explore yet another new route, approaching from the north side, roughly between Özyurt village and Kazımkarabekir. On January 10, 2026, I woke at 6:45 a.m., reached the trailhead near Özyurt, and began hiking at 8:20 a.m. I made steady progress and reached the first shoulder around 9:45 a.m., where the north face of the mountain came fully into view. From this point onward, snow coverage began and gradually increased with elevation. Although the forecast had predicted sunny conditions, the weather deteriorated as I gained altitude. First, a strengthening snowstorm set in, followed by dense fog, significantly reducing visibility. Near the summit, I encountered a steep, exposed rocky section coated with a thin layer of ice. I attempted two possible lines but retreated both times due to the high objective risk. A third option—less steep and holding deeper, more stable snow—proved safer, allowing me to continue. I reached the summit at approximately 1:45 p.m., but conditions were severe, with intense wind and snowfall. After taking a few low-quality photos, I immediately began my descent. As planned, I followed a different route for the descent, but unfortunately, the weather continued to worsen throughout the snowy sections of the mountain. I completed the climb around 5:45 p.m., concluding a demanding, highly technical winter ascent of Hacıbaba—one that required constant route evaluation, conservative decision-making, and full commitment under challenging conditions.
-![20260110_Hacibaba](20260110_Hacibaba.jpeg "Hacibaba Peak")
+![20260110_Hacibaba](pics/20260110_Hacibaba.jpeg "Hacıbaba Summit – 10 January 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=246542218&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1212,7 +1212,7 @@ Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent mark
 -   Summit Date: December 28, 2025
 
 Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. This ascent marked my sixth attempt on the mountain, once again accompanied by my friend Özgür Culfa. For this climb, we followed the classical route from Kazımkarabekir, aiming for a straightforward winter ascent. On December 28, 2025, I woke at 7:15 a.m., reached the trailhead near Kazımkarabekir, and began hiking at 9:20 a.m. We made steady progress and reached the summit shoulder around 2:30 p.m. Fresh snow from the previous day was clearly visible, but the main challenge was a rapidly intensifying snowstorm at higher elevations. From the shoulder, I continued the final push solo. As the storm strengthened, wind-driven snow froze my face, and even keeping my eyes open became difficult. I was unable to put on my snow mask in these conditions and decided to push quickly for the summit, reaching it at approximately 3:00 p.m. Although the views from the top were spectacular, the combination of strong winds and freezing temperatures allowed only a very brief stay. I began descending almost immediately. We followed the same route on the descent and completed the climb around 7:00 p.m., concluding another demanding yet rewarding winter ascent of Hacıbaba.
-![20251228_Hacibaba](20251228_Hacibaba.jpeg "Hacibaba Peak")
+![20251228_Hacibaba](pics/20251228_Hacibaba.jpeg "Hacıbaba Summit – 28 December 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=245073346&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1223,7 +1223,7 @@ Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent mark
 -   Summit Date: December 21, 2025
 
 Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. This ascent marked my fifth attempt on the mountain, this time as part of the SEDAK team from Konya. For this climb, we followed the classical route from Kazımkarabekir, aiming for a straightforward winter ascent. On December 21, 2025, I woke at 7:00 a.m., reached the trailhead near Kazımkarabekir around 8:30 a.m., and began hiking at 9:15 a.m. We made steady progress and reached the summit at approximately 2:15 p.m. Snow coverage was noticeably lighter than the previous weekend, but melt–freeze cycles had turned many sections into hard ice, making progress slow and careful. Fortunately, relatively warm temperatures softened the surface throughout the day, improving traction and reducing overall risk. After a brief stay on the summit, we began our descent via the same route and completed the climb around 6:15 p.m., concluding a challenging yet rewarding winter ascent of Hacıbaba.
-![20251221_Hacibaba](20251221_Hacibaba.jpeg "Hacibaba Peak")
+![20251221_Hacibaba](pics/20251221_Hacibaba.jpeg "Hacıbaba Summit – 21 December 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=244396794&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1234,7 +1234,7 @@ Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent mark
 -   Summit Date: December 14, 2025
 
 Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. This ascent marked my fourth attempt on the mountain, once again accompanied by my friend Özgür Culfa. Notably, I had summited Özyurt solo just one day earlier, making this back-to-back effort both physically and mentally demanding. For this climb, we aimed to explore yet another new route, approaching from the western side near Muratdede village. On December 14, 2025, I woke at 5:00 a.m. and picked up Özgür at 7:30 a.m. We reached the trailhead near Muratdede village around 8:30 a.m. and began hiking immediately. Based on my ascent the previous day, I was already familiar with the increasing snow coverage at higher elevations. We made steady progress and reached the summit shoulder around 12:30 p.m. From there, the terrain transitioned into technical ridge climbing, with deep, compact snow significantly increasing both exposure and difficulty. From this point onward, I continued the final push solo, carefully managing each step along the ridge, and reached the summit at approximately 1:30 p.m. After a brief stay at the top, I descended back to where I had left Özgür. During our break, we noticed a domestic goat on the mountain and soon realized it was the same goat we had encountered during our climb two weeks earlier. Shy yet clearly curious, it approached us several times while we rested, sharing tea and food. We offered it some fruit and salty snacks before beginning our descent. We followed the same route down and reached our car around 5:30 p.m., concluding a challenging and memorable winter ascent—made even more special by an unexpected reunion on the mountain.
-![20251214_Hacibaba](20251214_Hacibaba.jpeg "Hacibaba Peak")
+![20251214_Hacibaba](pics/20251214_Hacibaba.jpeg "Hacıbaba Summit – 14 December 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=243780168&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1245,7 +1245,7 @@ Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent mark
 -   Summit Date: December 13, 2025
 
 Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. This ascent marked my third attempt on the mountain and my second solo climb. For this outing, I chose to explore another new route, this time approaching from the western side near Kızılyaka village. On December 13, 2025, after final preparations, I left home around 10:00 a.m. and arrived at the trailhead at 10:45 a.m., beginning the ascent immediately. Snow coverage became visible at higher elevations, gradually increasing as I gained altitude. Upon reaching the summit shoulder, the route transitioned into technical ridge climbing, with deep and compact snow significantly increasing the difficulty. Progress from this point required careful movement and precise foot placement to manage exposure and maintain safety. Despite the conditions, I continued steadily and reached the summit at approximately 1:30 p.m. I spent some time at the top enjoying the winter scenery, accompanied by tea and food, before beginning my descent at 2:10 p.m. Following the same route, I returned safely to my vehicle around 3:40 p.m., completing a demanding but rewarding solo ascent.
-![20251213_Hacibaba](20251213_Hacibaba.jpeg "Hacibaba Peak")
+![20251213_Hacibaba](pics/20251213_Hacibaba.jpeg "Hacıbaba Summit – 13 December 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=243602062&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1256,7 +1256,7 @@ Sultan Dediği Mountain is located in Konya Province, Türkiye. This ascent mark
 -   Summit Date: November 30, 2025
 
 Özyurt Mountain (also known as Hacıbaba) is the highest peak in Karaman Province, Türkiye. I solo climbed it last year, but this time I returned with a friend, Özgür Culfa, to attempt a new route from the north side of the mountain. Since I couldn’t find any previous ascents using this line, we had to navigate and discover the route on our own. On November 30, 2025, I woke up at 4:45 a.m. and picked up Özgür at 5:40 a.m. We reached Özyurt village around 6:00 a.m. and started hiking at 6:15. I had previously scouted the lower section of the mountain and recorded the early part of the trail. We followed this track slowly so that by the time the recorded section ended, the sun would rise and give us enough visibility to choose the best line upward. We reached the summit shoulder around 10:30 a.m. From this point, the route transitioned to mixed rocky terrain requiring occasional hands-on movement. We continued carefully, but about 30 meters below the summit, Özgür decided the terrain wasn’t worth the risk. I continued the final push solo and reached the summit at around 12:45 p.m. After a short stay on the top, I descended back to where I had left Özgür, and we had our brunch there. We then began our descent, making our way down the long northern route. We arrived back at our car around 5:30 p.m., completing a full day of exploration and the first known attempt and successful ascent of this specific northern route.
-![20251130_Hacibaba](20251130_Hacibaba.jpeg "Hacibaba Peak")
+![20251130_Hacibaba](pics/20251130_Hacibaba.jpeg "Hacıbaba Summit – 30 November 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=242156925&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1267,7 +1267,7 @@ Kaldı :1
 -   Summit Date: September 7, 2025
 
 Kaldı, the third-highest peak of the Aladağlar range in the Taurus Mountains, was my next objective with the Summit Turkey team. On September 6, 2025, we met in the village of Çukurbağ, Niğde, shared a hearty breakfast, and loaded our gear onto a pickup that carried us to the Bölükorman camping area—slightly beyond Sarı Memedin Yurdu. We arrived around 1:45 p.m., where four horses awaited to transport our equipment to the Çadıroluğu campsite in Parmakkaya Valley. From Bölükorman, we began our hike and reached Çadıroluğu around 4:30 p.m. I quickly set up my tent in anticipation of the forecasted rain. After dinner at 6:30 p.m., we held a technical meeting to review the planned route, equipment, and rope team strategy. By 8:00 p.m., I was back in my tent, and asleep an hour later. We woke at 1:45 a.m. and set off at 2:40 a.m. under clear, starlit skies. By 5:30 a.m., we reached Avcıbeli, then continued with a steady ascent toward Kaldıbaşı. At 9:00 a.m., we entered the top sahası section, where the route becomes technical. Here, we geared up for the rock climb to the summit. At 11:10 a.m., we stood on Kaldı’s 3,734-meter summit, rewarded with sweeping views across Aladağlar’s rugged skyline. Because of the forecasted afternoon rain, we limited our summit stay to 20 minutes before starting the descent. We returned to Çadıroluğu camp by 4:00 p.m., packed quickly, and departed at 5:15 p.m. for Bölükorman, reaching it at 6:40 p.m. After a final dinner in Çukurbağ, I began the drive home at 9:00 p.m.—exhausted, but fulfilled by another successful climb in Aladağlar.
-![20250907_Kaldi](20250907_Kaldi.jpeg "Kaldi Peak")
+![20250907_Kaldi](pics/20250907_Kaldi.jpeg "Kaldı Summit – 7 September 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=230684984&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1278,7 +1278,7 @@ Medetsiz :1
 -   Summit Date: August 24, 2025
 
 Medetsiz, the highest summit in the Bolkarlar mountain range of the Taurus Mountains, had long been on my list. This time, I set out solo. On August 23, 2025, I left home at 15:30 and reached the Meydan Plateau by 17:30. After pitching my tent, I had dinner around 18:45 and spent some time studying the mountain to plan my route before turning in for the night. I woke at 04:30 and started from camp at 05:30 a.m. Instead of following the classical route to Medetsiz, I chose a more challenging alternative that included traversing two additional summits along the way. My first stop was Tahtakayası (≈3,372 m), which I reached at 08:45. After a short 15-minute break, I continued toward Koyunaşağı (≈3,399 m), arriving at 09:40. A 20-minute rest here gave me the energy to push on toward Medetsiz. At 10:00 I left Koyunaşağı and, after a long ridge walk, reached Medetsiz summit (3,524 m) at 11:50 a.m. The panoramic views across the Bolkarlar were stunning. Though I was already tired, Köpükgöl Hill (≈3,438 m) ahead caught my eye, and I decided to include it while I was close. Leaving Medetsiz at 12:15, I summited Köpükgöl Hill at 12:53 and began my return at 13:20. Rather than reclimbing Medetsiz on the way back, I traversed around its slopes and reconnected with my earlier trail from the opposite side. I retraced my path to the pass below Koyunaşağı, then descended via the classical Medetsiz route toward Karagöl. By 17:30 I reached Karagöl, took a short rest, walked around the lake, and refilled my water at the fountain. Finally, I returned to Meydan Plateau at 18:50, packed my gear quickly before sunset, and departed camp at 19:30. It was a demanding yet deeply rewarding solo traverse of four summits in the heart of the Bolkarlar.
-![20250824_Medetsiz](20250824_Medetsiz.jpeg "Medetsiz Peak")
+![20250824_Medetsiz](pics/20250824_Medetsiz.jpeg "Medetsiz Summit – 24 August 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1289,7 +1289,7 @@ Tahtakayası :1
 -   Summit Date: August 24, 2025
 
 On August 24, 2025, I departed from my camp on Meydan Plateau at 5:30 a.m. and reached the summit of Tahtakayası at approximately 8:45 a.m., marking the first peak of my Medetsiz traverse.
-![20250824_Tahtakayasi](20250824_Tahtakayasi.jpeg "Tahtakayasi Peak")
+![20250824_Tahtakayasi](pics/20250824_Tahtakayasi.jpeg "Tahtakayası Summit – 24 August 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1300,18 +1300,18 @@ Koyunaşağı :1
 -   Summit Date: August 24, 2025
 
 On August 24, 2025, I left my camp on Meydan Plateau at 5:30 a.m., summited Tahtakayası (3,372 m) at 8:45 a.m., and continued on to reach Koyunaşağı at 9:40 a.m., marking the second peak of my Medetsiz traverse.
-![20250824_Koyunasagi](20250824_Koyunasagi.jpeg "Koyunasagi Peak")
+![20250824_Koyunasagi](pics/20250824_Koyunasagi.jpeg "Koyunaşağı Summit – 24 August 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Köpükgöl :1
+Kopukgöl :1
 ==============
 
 -   Elevation: 3,438m
 -   Summit Date: August 24, 2025
 
 On August 24, 2025, I departed my camp on Meydan Plateau at 5:30 a.m., summited Tahtakayası (3,372 m) at 8:45 a.m., Koyunaşağı (3,431 m) at 9:40 a.m., and Medetsiz (3,524 m) at 11:50 a.m., before continuing on to reach Köpükgöl Hill (3,438 m) at 12:53 p.m., the fourth peak of my Medetsiz traverse.
-![20250824_Kopukgol](20250824_Kopukgol.jpeg "Kopukgol Peak")
+![20250824_Kopukgol](pics/20250824_Kopukgol.jpeg "Kopukgöl Summit – 24 August 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=228546335&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1322,7 +1322,7 @@ Kızılkaya :1
 -   Summit Date: August 17, 2025
 
 Kızılkaya, the highest summit in the Aladağlar range and the second-highest peak in the entire Taurus Mountains, is one of Türkiye’s most iconic and technically demanding climbs. For this ascent, I once again joined the Summit Turkey group. On August 16, 2025, we gathered in Çukurbağ village, Niğde, and after breakfast, loaded our gear onto a tractor for transport to Karayalak Camp (2,200 m), arriving around 13:30. After pitching tents, we held a technical briefing covering rope team coordination, anchor placement, gear usage, and descent strategy. I had an early dinner and went to sleep at 9:00 p.m. to rest for the long climb ahead. We woke at 01:30 a.m. and set out from camp at 02:10 a.m. The initial approach followed the classical Karayalak route, involving loose scree and boulder fields. At 06:00 a.m., we reached Mola Taşı (approx. 3,000 m), a common rest point, and by 08:00 a.m., we were at Karasay Beli Pass (3,400 m), the shoulder connecting Kızılkaya and Karasay peaks. After a 45-minute break, we roped up for the technical rock section. The climb required multiple short pitches of Class III–IV rock (UIAA III-IV) with exposure. Several sections were protected with fixed belays and rope support. Progress was slow but steady, and we reached the summit of Kızılkaya (3,767 m) at 01:00 p.m., after nearly 11 hours on the move. The panoramic views across the Aladağlar—including Demirkazık, Alaca, and the Yedigöller plateau—were outstanding. Our descent began at 13:30 with three rope-assisted down-climbs (~60 m each) on the upper rock face. The lower rocky sections were descended without rope protection, requiring careful down-climbing on exposed terrain. We reached Karasay Beli again at 05:00 p.m. While waiting for others, I made a quick solo ascent of Karasay Peak (3,550 m), returning by 05:45 p.m. After a short rest, we descended the red scree gully back toward camp, reaching Karayalak Camp at 08:00 p.m. Following a brief dinner, we packed up and departed camp by 09:00 p.m., returning to Çukurbağ for a final meal. I began the drive home at 11:00 p.m., finally arriving at 02:00 a.m. the next morning.
-![20250817_Kizilkaya](20250817_Kizilkaya.jpeg "Kizilkaya Peak")
+![20250817_Kizilkaya](pics/20250817_Kizilkaya.jpeg "Kizilkaya Summit – 17 August 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=227340076&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1333,7 +1333,7 @@ Karasay :1
 -   Summit Date: August 17, 2025
 
 Karasay is considered one of the easier, non-technical summits of the Aladağlar range and is often climbed together with its neighboring peak, Eznevit (3,560 m). The two share a connecting ridge, making them a popular double ascent for trekkers who want a less technical alternative to the range’s bigger peaks. On August 16, 2025, during my descent from Kızılkaya with the Summit Turkey group, I reached the Karasay Beli pass. While waiting for the rest of the team to finish their rope-protected descent, I decided to make a quick solo ascent of Karasay. The route from the pass was straightforward, with a steady ridge climb taking about 15 minutes. I reached the summit around 5:15 p.m., where I enjoyed sweeping views of Kızılkaya, Demirkazık, and the high Aladağlar ridges. Although I didn’t continue on to Eznevit this time, the peak was clearly visible across the ridge—a tempting and natural extension for a future visit. After a short break, I descended back to Karasay Beli to rejoin the group and continued down toward our camp in Karayalak.
-![20250817_Karasay](20250817_Karasay.jpeg "Karasay Peak")
+![20250817_Karasay](pics/20250817_Karasay.jpeg "Karasay Summit – 17 August 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=227340076&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1344,7 +1344,7 @@ Alaca (Lorut) :1
 -   Summit Date: August 3, 2025
 
 Alaca (also known as Lorut) is the fifth-highest peak in the Aladağlar range, part of the Taurus Mountains. For this expedition, I once again joined the Summit Turkey team. On August 2, 2025, we met in the village of Çukurbağ in Niğde, shared a hearty breakfast, and loaded our gear onto a tractor that transported us to the Bölükorman camping area—slightly beyond the Sarı Memedin Yurdu campsite. We arrived around 1:00 p.m., and I immediately set up my tent, anticipating the forecasted rain. Sure enough, a downpour began around 3:00 p.m., forcing us to take shelter in our tents. The rain lasted well beyond 5:00 p.m., which I used as an opportunity to rest. After dinner around 6:30 p.m., we held our technical meeting and reviewed the planned route. I was back in my tent by 8:30 p.m. and asleep by 10:00 p.m. We woke at 1:00 a.m. and set off at 1:45 a.m. under starlit skies. By 7:20 a.m., we reached Avcıbeli. After a steady and scenic climb, we summited Alaca at 10:40 a.m., taking in the breathtaking views from one of Aladağlar’s iconic peaks. Due to the chance of afternoon rain, we limited our summit break to 30 minutes before beginning the descent. We returned to Bölükorman camp around 4:30 p.m. I packed my gear quickly, but just as I was about to take down my tent, the rain returned. We waited it out inside our tents. Once the rain stopped, we broke camp and departed by 6:00 p.m. After a well-deserved dinner back in Çukurbağ, I hit the road around 8:00 p.m., tired but fulfilled.
-![20250803_Alaca](20250803_Alaca.jpeg "Alaca Peak")
+![20250803_Alaca](pics/20250803_Alaca.jpeg "Alaca (Lorut) Summit – 3 August 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=224926571&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1355,7 +1355,7 @@ Büyük Demirkazık :2
 -   Summit Date: July 6, 2025
 
 Büyük Demirkazık, the second-highest summit in the Aladağlar range, is one of Turkey’s most iconic and technical peaks. I had climbed it once before, but the mountain commands so much respect that even a second ascent feels like a fresh challenge. For this expedition, I teamed up with the Summit Turkey group again. On July 5, 2025, I met the team in Çukurbağ village, Niğde. After a hearty breakfast, we loaded our gear onto a tractor and set off toward the Karayalak camping area. We arrived around 2:00 p.m., and setting up my tent turned out to be quite the challenge due to strong winds in the area. Once settled, we held a technical briefing covering gear usage, route plan, anchor points, and rope team coordination. Afterward, I returned to my tent, had dinner, and went to sleep around 9:00 p.m. The next morning started very early—we woke at 12:30 a.m. and began our ascent at 1:45 a.m. via the classical Red Scree (Kızılçarşak) route. By 5:15 a.m., we reached the base of the Red Scree section, and around 8:00 a.m., we arrived at the shoulder of the mountain. After a 30-minute break, we began the technical rock face climb. We summited Büyük Demirkazık at 11:30 a.m., enjoying spectacular views and well-earned rest at the top for about an hour. The descent began with two rope-assisted down-climbs, each approximately 60 meters. We completed the remainder of the rocky descent without rope protection and reached the shoulder again at 4:15 p.m. Following another break, we descended the Red Scree and arrived back at the Karayalak camp around 9:00 p.m. Tired but satisfied, we packed our gear and left the area by 10:00 p.m. After a final dinner stop in Çukurbağ village, I began the drive home around 11:45 p.m. Exhaustion caught up with me midway, so I pulled into a gas station, slept in the car until 6:30 a.m., and continued the drive back home. It was a demanding climb—both technically and physically—but an unforgettable adventure in one of Turkey’s most iconic alpine settings.
-![20250706_BDK](20250706_BDK.jpeg "BDK Peak")
+![20250706_BDK](pics/20250706_BDK.jpeg "Büyük Demirkazık Summit – 6 July 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=220905642&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1369,7 +1369,7 @@ Mount Hasan, an impressive stratovolcano in Türkiye’s Aksaray province, stand
 We began our ascent at 3:40 a.m. via the route known as Yılankar, which is considered a classical yet slightly steeper option than the broader southern approach. The route starts with a moderate incline over scree and transitions into rocky, semi-steep terrain around 2,800 meters. Snow presence was minimal to none, and no technical gear was required. 
 By 8:15 a.m., we had reached the so-called "small summit" at 3,256 meters. This is the point where most hikers conclude their climb and consider it the summit of Mount Hasan. However, across the crater lies the mountain’s true summit, slightly higher at 3,268 meters.
 While the group took a one-hour break at the small summit, I seized the opportunity to solo traverse the crater and reach the true summit on the opposite side. I returned around 9:40 a.m., rejoined the group, and we began our descent shortly after at 9:50 a.m. We arrived back at the campsite around 1:30 p.m.
-![20250622_Hasan](20250622_Hasan.jpg "Hasan Peak")
+![20250622_Hasan](pics/20250622_Hasan.jpg "Mount Hasan Summit – 22 June 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=219069738&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1380,7 +1380,7 @@ Pilot Tepe :1
 -   Summit Date: June 14, 2025
 
 Located in the beautiful Niğde Province of Türkiye, Pilot Tepe had been on my list for a while. On June 14, 2025, I set out with my family and we arrived at the Meydan Plateau around 11:30 a.m. We hadn’t fully decided whether we’d camp or not—and if we did, whether it would be at the plateau or by Karagöl. So we chose to hike up to Karagöl first, leaving our camping gear behind just in case. About 1.5 kilometers later, we arrived at Karagöl. The view was stunning—wildflowers blooming around the lake, with the mountains still wearing traces of snow. After setting up a small shade tent for my family, I went on a solo hike to Çiniligöl and then continued up to the summit of Pilot Tepe. I reached the top around 2:45 p.m. and spent about 45 minutes soaking in the incredible views of both Karagöl and Çiniligöl. Once I returned, we all agreed to camp by Karagöl. I made a quick round trip back to the Meydan Plateau to grab our gear and managed to set up camp just before nightfall. The next morning, I woke up early around 5 a.m. and took a quiet walk around Karagöl. After breakfast, we did a family hike to Çiniligöl. Later in the day, I carried some of our gear back to the car, returned for the rest, and after a relaxed lunch in our tent, we packed up and headed home—tired, happy, and already thinking about the next adventure.
-![20250614_PilotTepe](20250614_PilotTepe.jpg "Pilot Tepe Peak")
+![20250614_PilotTepe](pics/20250614_PilotTepe.jpg "Pilot Tepe Summit – 14 June 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=218076862&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1391,7 +1391,7 @@ Dedegöl :3
 -   Summit Date: May 25, 2025
 
 Mount Dedegöl, the highest peak in the Central Taurus Mountains, is located in Isparta Province, Türkiye. On May 24, 2025, I arrived at the Melikler Plateau around 5:30 p.m. and set up my camp. The next morning, I woke at 3:30 a.m. and began the ascent at 4:00 a.m. After a steady climb, we reached the summit at 7:45 a.m., where we paused to take in the breathtaking views. We began our descent at 8:45 a.m. and returned to camp around 11:00 a.m. After a brief rest in my tent, I packed up and headed to the nearby Yaka Canyon. I decided to attempt a solo passage through it. I trekked about 4.5 kilometers into the canyon and encountered two snakes resting on a rock directly in my path. I observed them for a while, took some photos and videos, then decided to turn back. Interestingly, the information board at the canyon entrance stated the total length as 4 kilometers. However, even after hiking 4.5 kilometers, the canyon continued. It seems that the 4 km distance likely refers not to the trail starting at the entrance, but to the narrower, more enclosed section of the canyon, which begins approximately 2 kilometers in.
-![20250525_Dedegol](20250525_Dedegol.jpeg "Dedegol Peak")
+![20250525_Dedegol](pics/20250525_Dedegol.jpeg "Dedegöl Summit – 25 May 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=215156117&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1402,7 +1402,7 @@ Dedegöl :2
 -   Summit Date: April 20, 2025
 
 Mount Dedegöl is the highest peak in the Central Taurus Mountains, located in Isparta province, Türkiye. On April 19, 2025, I arrived at Melikler Plateau around noon with my family and set up our camp. This climb wasn’t pre-planned, but I had the intention to summit if the conditions allowed. Coincidentally, the Anadolu Dağcılık club was also camping in the area, and I asked if I could join their climb. I woke up at 3:30 a.m. and began the ascent at 4:15 a.m. After a steady climb, we started using ice axes and crampons about 300 meters below the summit. We reached the top at 10:00 a.m., took a break to enjoy the breathtaking views, and began our descent at 11:00 a.m. I arrived back at camp around 1:00 p.m.
-![20250420_Dedegol](20250420_Dedegol.jpeg "Dedegol Peak")
+![20250420_Dedegol](pics/20250420_Dedegol.jpeg "Dedegöl Summit – 20 April 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=209896323&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1413,7 +1413,7 @@ Kızlar Sivrisi :1
 -   Summit Date: March 23, 2025
 
 Kızlar Sivrisi, the highest peak in the Bey Dağları mountain range, is part of the western Taurus Mountains. For this climb, I joined the Summit Turkey club from Istanbul. On March 21, 2025, I arrived in Elmalı, Antalya, around 11 p.m. and checked into Akça Hotel for the night. The next morning, I met up with the rest of the group, and we set off for Büyüksöyle Village. From there, we loaded our gear onto a tractor, which transported it as close to the base camp as possible. The final stretch required a 1 km hike with all our equipment. At the camping area, there was a chalet where most of the group stayed, but I opted to set up my own tent. We spent some time practicing crampon and ice axe techniques in preparation for the ascent. After dinner in my tent at 7:00 p.m., I went to bed early at 9:00 p.m. The summit push began early the next morning. We woke up at 2:30 a.m. and started our ascent at 3:45 a.m.. After a steady climb, we reached the summit at 11:00 a.m., took a short break to enjoy the breathtaking views, and began our descent at 11:30 a.m.. We arrived back at camp around 3:00 p.m. and eventually returned to Elmalı by 7:30 p.m. Exhausted from the climb and facing a six-hour drive home, I decided to spend another night at Akça Hotel to rest before making the journey back.
-![20250323_KizlarSivrisi](20250323_KizlarSivrisi.jpeg "KizlarSivrisi Peak")
+![20250323_KizlarSivrisi](pics/20250323_KizlarSivrisi.jpeg "Kizlar Sivrisi Summit – 23 March 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=205866607&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1424,7 +1424,7 @@ Erciyes :2
 -   Summit Date: March 2, 2025
 
 Mount Erciyes, an inactive volcano in Kayseri province, Türkiye, is the highest mountain and volcano in Central Anatolia and the fifth highest peak in the country. This was my second attempt to summit Erciyes, and my first winter ascent, with the Summit Turkey club from Istanbul. On March 1, 2025, I arrived at Erciyes Ski Resort around 10:30 a.m. and met up with the group. We took the first cable car to a café at the top of the hill, and the ski resort activated the second cable car for us, bringing us close to our camping area. We set up camp around 2:30 p.m. and spent some time practicing crampon and ice axe techniques. After having dinner in my tent at 6:30 p.m., I went to bed by 7:30 p.m. We woke up at 3:00 a.m. and started our ascent at 4:15 a.m. After a steady climb, we reached the summit at 11:20 a.m. and began our descent at noon. We returned to camp around 2:00 p.m. On the way back, the ski resort did not activate the second cable car, so we had to hike down with all our gear, including camping equipment. We finally reached the ski resort around 4:00 p.m.
-![20250302_Erciyes](20250302_Erciyes.jpg "Erciyes Peak")
+![20250302_Erciyes](pics/20250302_Erciyes.jpg "Erciyes Summit – 2 March 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=203491398&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1436,7 +1436,7 @@ Emler :2
 
 Emler is the fourth-highest peak in the Aladağlar mountain range, part of the Taurus Mountains. I attempted to summit this mountain for the second time, this time in winter, with the Summit Turkey club from Istanbul. On January 25, 2025, I arrived in Çukurbağ village, Niğde, around 10 a.m., where I met up with the rest of the group. After a shared breakfast, we loaded our gear onto a tractor, which took us to the Sokullupınar camping area. We set up camp and then hiked up to the Karayalak camping area for acclimatization. After dinner in our tents, we went to bed early, aiming to wake up around 11:30 p.m. Our hike began at 12:15 a.m., and thanks to the snow tracks from the previous day, we reached the Karayalak camping area in less than an hour. By around 6 a.m., we reached the point known as "Kapı" (Door). This is often considered the real starting point of the climb, but by this time, we were already significantly behind schedule. The challenging snow conditions made the hike much more difficult than anticipated. Before continuing on to the steep section beyond "Kapı," we conducted an avalanche risk assessment. The test indicated a potential risk, especially higher up, near a pass. Considering the avalanche threat and the fact that we were already behind schedule—making the summit unfeasible even if we had continued—we decided to prioritize safety and turn back.
 
-![20250126_Emler](20250126_Emler.JPG "Aladaglar Emler Peak")
+![20250126_Emler](pics/20250126_Emler.JPG "Aladağlar Emler Summit – 26 January 2025")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=199288867&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1447,7 +1447,7 @@ Mount Hasan :2
 -   Summit Date: December 1, 2024
 
 Mount Hasan, a volcano located in Aksaray province, Türkiye, is one of the most prominent peaks in Anatolia. This climb marked my second ascent of the mountain and my first experience with winter climbing. For this adventure, I joined a club called Alpin Dağcılık. On November 30, 2024, I arrived at the mountain’s base near Karbeyaz Hotel, the typical starting point for hikes, at around 1:30 p.m. and set up camp. We began our hike at 3:15 a.m., following the classical route. Snow from a recent snowfall a week prior covered the mountain, and as the first climbers since the snowfall, there were no visible tracks to follow. Fortunately, the weather was mild enough that we didn’t require technical equipment like ice axes or crampons. After a steady ascent, we reached the summit at approximately 10:45 a.m., taking about 7 hours and 30 minutes from base to summit. We spent around 30 minutes at the summit, enjoying the views, before starting our descent. Aware of the potential for freezing temperatures later in the day, we aimed to return to camp quickly. The descent was smooth and efficient, taking just 2 hours and 15 minutes. We arrived back at our camp at 1:30 p.m., completing a memorable and successful climb.
-![20241201_Hasan](20241201_Hasan.jpg "Hasan Peak Winter")
+![20241201_Hasan](pics/20241201_Hasan.jpg "Mount Hasan Summit – 1 December 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=193507382&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1462,7 +1462,7 @@ Büyük Demirkazık was the second summit of our expedition, following Küçük 
 After two rope-protected down-climbs, the sun set and it grew dark. We continued with several more technical descents, all in the dark. By 12:30 a.m., we reached the shoulder, but there was still a long way to go, and it was cold and dark. The East Scree route was too dangerous to navigate in the dark, so we decided to take the Red Scree route to reach the Karayalak camping area, where transportation had been arranged to take us back to Çukurbağ village.
 We finished descending the Red Scree around 2:30 a.m. and started hiking through the valley. Around 4:30 a.m., we encountered a dangerous snowy section of the valley that was risky to cross in the dark. We decided to find shelter and wait for dawn. After sunrise, we crossed the snowy area safely and reached the Karayalak camping area around 11:00 a.m. on October 29, 2024.
 The recorded trail below ends at the snowy section where we got stuck, as my phone battery died while we waited for dawn. As a result, approximately 8 km of the trail leading to the Karayalak camping area is missing.
-![20241028_BDK](20241028_BDK.jpeg "BDK Peak")
+![20241028_BDK](pics/20241028_BDK.jpeg "Büyük Demirkazık Summit – 28 October 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189906915&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1476,7 +1476,7 @@ Küçük Demirkazık is a peak in the Aladağlar mountain range. This climb was 
 We woke up around 5:30 a.m., prepared for the day, and left at 6:00 a.m. for our first summit, Küçük Demirkazık. This climb requires technical climbing experience, which I did not have, and it is known as one of the most challenging technical ascents in the region. We reached 3,300 meters elevation around 10:00 a.m. By this point, the climb had not been very technical, but the remaining ascent was much more difficult and required setting up ropes. Our guide, Emre Varol, climbed first and set the ropes along the route. However, after completing the first pitch, he suggested that I refrain from continuing due to the partial snow cover on the pitch and loose rocks. I agreed, recognizing that it wasn’t a safe climb without prior experience.
 I waited at that point while the rest of the group continued to the summit and then returned. We descended back to camp, arriving around 8:00 p.m. after sunset. After a quick dinner, we went to sleep to rest for the next summit the following day. Fortunately, the weather was warmer than the previous night, allowing me to sleep much better.
 I was only able to record the trail one way because my phone battery died.
-![20241027_KDK](20241027_KDK.jpeg "KDK Peak")
+![20241027_KDK](pics/20241027_KDK.jpeg "Küçük Demirkazık Summit – 27 October 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=189811174&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1487,7 +1487,7 @@ Erciyes :1
 -   Summit Date: August 18, 2024
 
 Mount Erciyes is an inactive volcano located in Kayseri province, Türkiye. It is the highest mountain and volcano in Central Anatolia and the fifth highest peak in Türkiye. I climbed this mountain with the SEDAK club from Konya province. We departed from Konya early in the morning on August 17, 2024, and arrived at the Erciyes Ski Resort in the afternoon. We took the cable car up to the café at the top of the hill, and from there, we hiked about 2 km with all of our gear, including our camping equipment. We set up camp around 5 p.m., enjoyed dinner, and went to bed. We woke up at around 1:30 a.m. and began hiking at 2:00 a.m. After a steady ascent, we reached the summit around 8:00 a.m., had breakfast, and began our descent at 9:20 a.m. We returned to camp around 1:00 p.m.
-![20240818_Erciyes](20240818_Erciyes.jpeg "Erciyes Peak")
+![20240818_Erciyes](pics/20240818_Erciyes.jpeg "Erciyes Summit – 18 August 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=181529944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1501,7 +1501,7 @@ Emler is the fourth highest peak in the Aladağlar mountain range, which is part
 We woke up around 1:30 a.m. and started our hike at 2:00 a.m. By the time we reached Dinlenme Taşı (Rest Stone), dawn had just broken, and the temperature was very cold. Not wanting to stay still too long as my sweat was chilling me and I didn’t have extra layers, I informed the others and decided to continue ahead. I reached the summit around 9:00 a.m., with the rest of the group arriving about an hour later. The view from the summit was breathtaking, with all the peaks of the Aladağlar range visible.
 After spending about an hour on the summit (I stayed for two hours since I had arrived earlier), we had breakfast, took photos, and soaked in the surroundings. We then descended back to the Karayalak camping area, where I arrived at around 3:00 p.m.
 The Emler hike demands strong physical endurance and acclimatization to altitude, but no technical climbing skills are required.
-![20240721_Emler](20240721_Emler.jpg "Aladaglar Emler Peak")
+![20240721_Emler](pics/20240721_Emler.jpg "Aladağlar Emler Summit – 21 July 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=178126944&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1514,7 +1514,7 @@ Aydos :1
 Mount Aydos, the highest peak in Konya province and the second highest in the Bolkar mountain range (part of the Taurus range), is a prominent climbing destination in Türkiye. I joined a mountaineering group (SEDAK) for this climb, who planned to arrive early in the morning at around 2 a.m. and begin the hike immediately. I decided to arrive earlier to set up camp and rest before the climb.
 On June 29, 2024, I reached Çakıllar village at around 7 p.m. Beyond the village, there’s an 8-kilometer gravel road leading to the trail base. After driving about 4 kilometers on this road, my car started experiencing issues. I decided to return to Çakıllar village to meet the group and travel with them to the trail base. Instead of setting up camp, I rested in my car while waiting for the group, who arrived at around 1:30 a.m. We reached the trail base together at approximately 2 a.m.
 We started hiking immediately, following what is known as the ERDAK Club Route, though with some modifications. By 10 a.m., we reached the summit, where we were treated to breathtaking views of Mount Hasan, Mount Erciyes, Demirkazık, and Medetsiz in the distance. We spent about an hour and a half enjoying the scenery before starting our descent. We returned to the trail base at approximately 2:30 p.m.
-![20240630_Aydos](20240630_Aydos.jpg "Aydos Peak")
+![20240630_Aydos](pics/20240630_Aydos.jpg "Aydos Summit – 30 June 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=175810091&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1527,7 +1527,7 @@ Mount Hasan :1
 Mount Hasan, a volcano located in Aksaray province, Türkiye, is a prominent peak in Anatolia. On June 8, 2024, I reached the mountain's base, where most hikes typically begin. This area features a hotel named Karbeyaz and several camping spots. I arrived at around 9 p.m., set up my camp, and went to sleep early, as I planned to join a hiking group (SEDAK) that was scheduled to arrive at 2 a.m. and start the hike immediately.
 We began the hike between 2:30 and 3 a.m., initially following the classical route. However, just below a rock structure called Damlataş, we deviated from the usual trail that winds through scree and instead ascended directly. This route was slightly precarious due to patches of snow and loose rocks.
 We reached the summit between 9 and 10 a.m., taking in the breathtaking views. For the descent, we followed the classical route and arrived back at the camp at around 3 p.m.
-![20240609_Hasan](20240609_Hasan.jpg "Hasan Peak")
+![20240609_Hasan](pics/20240609_Hasan.jpg "Mount Hasan Summit – 9 June 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=173603435&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1541,7 +1541,7 @@ We reached the summit between 9 and 10 a.m., taking in the breathtaking views. F
 The first attempt was on October 28, 2023, but I had to abandon the hike due to a family emergency. The second attempt took place on November 11, 2023. We began the hike around noon, but as we approached the summit, it became clear that it would get dark before we could complete the climb. Reluctantly, we decided to turn back approximately 500 meters below the summit.
 On January 6, 2024, I decided to make a third attempt, this time solo. I successfully reached the summit at around 3:30 p.m. Unfortunately, it got dark half way down and I was descending along a different trail down than the one I had taken up. While the trail wasn’t technical, it was rocky, and my physical fitness wasn’t adequate for such a challenging hike. By the time I finished, my legs were trembling, I struggled to sit for several days, and my toes were covered in blisters.
 Although the elevation of Özyurt Mountain isn’t particularly high and the climb isn’t technical, it does demand a good level of physical fitness—especially for the route I chose. That said, there are alternative, easier trails available for summiting this peak.
-![20240106_Hacibaba](20240106_Hacibaba.jpeg "Hacibaba Peak")
+![20240106_Hacibaba](pics/20240106_Hacibaba.jpeg "Hacıbaba Summit – 6 January 2024")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=253616203&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -1556,5 +1556,5 @@ This was my first attempt at climbing a mountain of this height. Although it did
 We began our ascent around 9 a.m. and reached the summit by approximately 1 p.m., but we had already run out of water on the way up. On the descent, we made another poor decision to go off-trail, hoping to find water. However, the terrain became increasingly difficult and led us farther from our base camp at Melikler Plateau. On top of that, we couldn’t locate any water sources.
 Thankfully, we encountered a shepherd family who generously provided us with water and tea. They also had guests with an off-road truck who were kind enough to offer us a ride back to our base camp.
 In the picture below, Melikler Plateau is visible in the far distance to the left of my right hand. In the trail I recorded below, the last 7 kilometers of the trail were recorded during the off-road truck ride back.
-![20190831_Dedegol](20190831_Dedegol.jpg "Dedegol Peak")
+![20190831_Dedegol](pics/20190831_Dedegol.jpg "Dedegöl Summit – 31 August 2019")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=167076774&elevation=on&images=off&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
