@@ -1,5 +1,3 @@
-# Expedition
-
 [Home](../README.md)
 
 Sarı Kaya :1
@@ -119,7 +117,7 @@ Aygörmez :1
 -   Summit Date: October 25, 2026
 
 On October 25, 2026, I reached the summit of Aygörmez at approximately 10:18 a.m., marking the 15th summit of the three-day summit expedition in the Tahtalı Mountains described above.
-![](pics/20261025_Aygörmez.jpeg "Aygörmez Summit – 25 October 2026")
+![](pics/20261025_Aygormez.jpeg "Aygörmez Summit – 25 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -130,7 +128,7 @@ Kelpınar Sivrisi :1
 -   Summit Date: October 25, 2026
 
 On October 25, 2026, I reached the summit of Kelpınar Sivrisi at approximately 9:43 a.m., marking the 14th summit of the three-day summit expedition in the Tahtalı Mountains described above.
-![](pics/20261025_Kelpınarsivrisi.jpeg "Kelpınar Sivrisi Summit – 25 October 2026")
+![](pics/20261025_Kelpinarsivrisi.jpeg "Kelpınar Sivrisi Summit – 25 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=293238431&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
@@ -174,7 +172,7 @@ Sarıkaya Başı :1
 -   Summit Date: October 24, 2026
 
 On October 24, 2026, I reached the summit of Sarıkaya Başı at approximately 3:15 p.m., marking the tenth summit of the three-day summit expedition in the Tahtalı Mountains described above.
-![](pics/20261024_SarikayaBasi.jpeg "Sarıkaya Başı Summit – 24 October 2026")
+![](pics/20261024_Sarikayabasi.jpeg "Sarıkaya Başı Summit – 24 October 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=292873830&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
