@@ -12,7 +12,7 @@ I finished my preparations on Friday, November 13, and set off at around 4:20 p.
 
 I woke up at around 6:00 a.m. on Saturday after a good night's sleep. Once I had packed my things, I drove towards Sulucaova. At approximately 7:30, I reached the closest point I could drive to the starting area and began hiking. I initially followed an unpaved road for about 2 kilometres, gradually gaining elevation. I then left the road and started climbing towards Minas Hill. The road itself continues up to around 2,800 metres, but reaching that point requires a proper off-road vehicle, or at least a vehicle with high ground clearance. I reached the summit of Minas Hill at around 9:00 a.m. From there, I decided to take a slightly longer route towards İlikara to avoid losing too much elevation. I reached İlikara at 10:35 and then Zülfününseki at 11:00. Both summits were around 200–300 metres lower than Minas Hill and the peaks I intended to visit afterwards. My initial plan was therefore to retrace my route and regain that elevation. However, I noticed another peak farther ahead, with a particularly prominent cairn. Curious about its identity, I checked the map and discovered that it was Kızlarkaya. I wasn't sure whether it was normally approached from this direction, but the route looked reasonably manageable from where I stood. After a quick assessment, I decided to go for it and changed direction. As I continued, I gradually realised that Kızlarkaya was farther away than it had appeared. However, having already committed to the detour, I wasn't particularly keen on turning back. After some time, I spotted a plateau between me and Kızlarkaya, with a few distinctive buildings. When I reached it, I discovered that it was Alim Pınarı (Alim Fountain). The buildings included a small mosque, a toilet and bathroom block, and a larger building with a sign identifying it as the Alim Pınarı Shelter. The shelter had a courtyard with two barbecue or cooking fireplaces, some seating, and two furnished rooms with carpets and wood-burning stoves. There was also a third, locked room. It was quite an interesting and well-equipped place to come across in such a remote setting. After exploring the area, I continued towards Kızlarkaya and reached its summit at 12:20 p.m. The route ahead involved a long series of descents and climbs. I eventually reached Arpalık at 1:45 p.m., followed by Eğrinin Hill at 2:30. Beyond Arpalık, I was travelling at higher elevations through snow-covered terrain. The wind was also strong and bitterly cold. Despite the conditions, I continued and reached Dereköyyayla at 3:10, Yıldız Tepe at 4:10, and Çifte at 4:35 p.m. By then, time was running out. I had originally planned to visit three more summits, but it was clear that I would have to leave them for another trip, preferably in spring or summer when the days are longer. I decided to continue from Çifte towards Çoban Kayası and descend from there. I reached Çoban Kayası at 5:30 p.m., around sunset. I still needed to descend to the unpaved road while there was enough twilight to navigate the terrain. Once I reached the road, the rest would simply involve following it back to my car. I arrived at the road at around 6:10 p.m. and followed it down, eventually reaching my car at approximately 7:00 p.m. On my way back towards my tent at the TDF mountain hut in Demirkazık, I noticed a place in Pınarbaşı called Müftü Baba'nın Yeri. Rather than having to prepare dinner at the campsite, I decided to stop and see if I could get something to eat. The woman there explained that they only had toast available at the moment. They normally served gözleme, but the dough had run out. They also had köfte, although her husband had gone out and I would have to wait for him to return. I said that toast would be fine and asked if they had tea as well. I enjoyed a mixed toast sandwich made with half a loaf of bread, accompanied by tea brewed in a traditional teapot on the wood-burning stove. They also served me a baked potato cooked on the stove, followed by some beet as a complimentary treat. It was a lovely, unexpected stop after a long day in the mountains. I returned to my tent at the mountain hut at around 8:45 p.m. and settled down to rest.
 
-I woke up at around 5:30 a.m. on Sunday, got ready, and drove towards Sulucaova once again. I hadn't made a definite plan for my second day. Initially, I had considered approaching the Aladağlar from the Yahyalı side and climbing some peaks there. However, after the previous day's activity, I decided to make another approach from Sulucaova instead. My idea was to climb the two summits I had left unfinished the day before and then visit as many additional peaks in the area as time and energy allowed. At around 7:00 a.m., I reached the farthest point accessible by car. After finishing my preparations, I started hiking at approximately 7:15. The unpaved road on this side continued to considerable elevations. In some places, it reached around 2,900 metres, and I even noticed tracks extending up to approximately 3,100 metres, apparently created by heavy machinery for mineral exploration. These roads, however, were still suitable only for off-road vehicles. I followed the road for about 3 kilometres, gaining elevation to approximately 2,600 metres. Eşektaşı Hill was immediately above me to the left, so I left the road and began climbing towards it. I reached its summit at 8:42 a.m., then continued to Çoban Hill, arriving at 9:15. The weather had been generally clear up to that point, but fog began rolling in afterwards. Every now and then it would briefly lift, revealing the surrounding mountains, only to close in again shortly afterwards. As a result, I had to rely heavily on the map and recorded route on my phone to navigate. Whenever the fog cleared, I used the opportunity to observe the terrain and check my direction visually as well. After a long traverse, I reached Alagöl, the highest summit of the day, at around 11:50 a.m. I continued towards Mount Maden, reaching its summit at 1:05 p.m. Kılıç Hill looked close enough to include, so I carried on and reached that summit at 1:35 p.m. My plan was then to descend to a large plateau at around 2,900 metres, cross it, and climb two more peaks on the opposite side before returning. After descending to and crossing the plateau, I reached Göbekkaya at 2:55 p.m., followed by Güneyyaka at 3:55. The afternoon had remained mostly foggy, with only occasional brief clearings. After reaching Güneyyaka, however, the fog closed in completely. I knew I needed to keep moving and connect with the unpaved road before darkness fell. I continued and reached the road at 4:50 p.m. From there, I had to descend approximately 4.5 kilometres along it to get back to my car. I finally arrived at around 6:55 p.m., just as a light drizzle was beginning. Concerned that the rain might intensify and cause problems on the unpaved road, I quickly changed my clothes and set off without delay. I first drove back to the TDF mountain hut, where my tent was still pitched. I had originally planned to spend the night there and return home the following morning. However, with rain expected overnight, I decided to pack up my tent and head home instead. I eventually arrived home at around 10:00 p.m., bringing an end to another rewarding two-day exploration of the Aladağlar.
+I woke up at around 5:30 a.m. on Sunday, got ready, and drove towards Sulucaova once again. I hadn't made a definite plan for my second day. Initially, I had considered approaching the Aladağlar from the Yahyalı side and climbing some peaks there. However, after the previous day's activity, I decided to make another approach from Sulucaova instead. My idea was to climb the two summits I had left unfinished the day before and then visit as many additional peaks in the area as time and energy allowed. At around 7:00 a.m., I reached the farthest point accessible by car. After finishing my preparations, I started hiking at approximately 7:15. The unpaved road on this side continued to considerable elevations. In some places, it reached around 2,900 metres, and I even noticed tracks extending up to approximately 3,100 metres, apparently created by heavy machinery for mineral exploration. These roads, however, were still suitable only for off-road vehicles. I followed the road for about 3 kilometres, gaining elevation to approximately 2,600 metres. Eşektaşı Hill was immediately above me to the left, so I left the road and began climbing towards it. I reached its summit at 8:40 a.m., then continued to Çoban Hill, arriving at 9:15. The weather had been generally clear up to that point, but fog began rolling in afterwards. Every now and then it would briefly lift, revealing the surrounding mountains, only to close in again shortly afterwards. As a result, I had to rely heavily on the map and recorded route on my phone to navigate. Whenever the fog cleared, I used the opportunity to observe the terrain and check my direction visually as well. After a long traverse, I reached Alagöl, the highest summit of the day, at around 11:50 a.m. I continued towards Mount Maden, reaching its summit at 1:05 p.m. Kılıç Hill looked close enough to include, so I carried on and reached that summit at 1:35 p.m. My plan was then to descend to a large plateau at around 2,900 metres, cross it, and climb two more peaks on the opposite side before returning. After descending to and crossing the plateau, I reached Göbekkaya at 2:55 p.m., followed by Güneyyaka at 3:55. The afternoon had remained mostly foggy, with only occasional brief clearings. After reaching Güneyyaka, however, the fog closed in completely. I knew I needed to keep moving and connect with the unpaved road before darkness fell. I continued and reached the road at 4:50 p.m. From there, I had to descend approximately 4.5 kilometres along it to get back to my car. I finally arrived at around 6:55 p.m., just as a light drizzle was beginning. Concerned that the rain might intensify and cause problems on the unpaved road, I quickly changed my clothes and set off without delay. I first drove back to the TDF mountain hut, where my tent was still pitched. I had originally planned to spend the night there and return home the following morning. However, with rain expected overnight, I decided to pack up my tent and head home instead. I eventually arrived home at around 10:00 p.m., bringing an end to another rewarding two-day exploration of the Aladağlar.
 ![](pics/20261115_Guneyyaka.jpeg "Güneyyaka Summit – 15 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296634363&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -23,7 +23,7 @@ Göbekkaya :1
 -   Elevation: 2,816m
 -   Summit Date: November 15, 2026
 
-On November 15, 2026, I reached the summit of Göbekkaya at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 15, 2026, I reached the summit of Göbekkaya at approximately 2:55 p.m., marking the sixteenth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261115_Gobekkaya.jpeg "Göbekkaya Summit – 15 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296634363&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -34,18 +34,18 @@ Kılıç :1
 -   Elevation: 2,816m
 -   Summit Date: November 15, 2026
 
-On November 15, 2026, I reached the summit of Kılıç at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 15, 2026, I reached the summit of Kılıç at approximately 1:35 p.m., marking the fifteenth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261115_Kilic.jpeg "Kılıç Summit – 15 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296634363&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
 
-Maden :1
+Maden Hill :1
 ==============
 
 -   Elevation: 2,816m
 -   Summit Date: November 15, 2026
 
-On November 15, 2026, I reached the summit of Maden at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 15, 2026, I reached the summit of Maden at approximately 1:05 p.m., marking the fourteenth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261115_Maden.jpeg "Maden Summit – 15 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296634363&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -56,7 +56,7 @@ Alagöl :1
 -   Elevation: 2,816m
 -   Summit Date: November 15, 2026
 
-On November 15, 2026, I reached the summit of Alagöl at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 15, 2026, I reached the summit of Alagöl at approximately 11:50 a.m., marking the thirteenth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261115_Alagol.jpeg "Alagöl Summit – 15 November 2026")
 ![](pics/20261115_Alagol2.jpeg "Alagöl Summit – 15 November 2026")
 ![](pics/20261115_Alagol3.jpeg "Alagöl Summit – 15 November 2026")
@@ -69,7 +69,7 @@ On November 15, 2026, I reached the summit of Alagöl at approximately 1:15 p.m.
 -   Elevation: 2,816m
 -   Summit Date: November 15, 2026
 
-On November 15, 2026, I reached the summit of Çoban Hill at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 15, 2026, I reached the summit of Çoban Hill at approximately 9:15 a.m., marking the twelfth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261115_CobanTepe.jpeg "Çoban Hill Summit – 15 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296634363&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -80,7 +80,7 @@ Eşektaşı :1
 -   Elevation: 2,816m
 -   Summit Date: November 15, 2026
 
-On November 15, 2026, I reached the summit of Eşektaşı at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 15, 2026, I reached the summit of Eşektaşı at approximately 8:40 a.m., marking the eleventh summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261115_Esektasi.jpeg "Eşektaşı Summit – 15 November 2026")
 ![](pics/20261115_Esektasi2.jpeg "Eşektaşı Summit – 15 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296634363&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
@@ -92,7 +92,7 @@ On November 15, 2026, I reached the summit of Eşektaşı at approximately 1:15 
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Çoban Kayası at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Çoban Kayası at approximately 5:30 p.m., marking the tenth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_CobanKayasi.jpeg "Çoban Kayası Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -103,7 +103,7 @@ On November 14, 2026, I reached the summit of Çoban Kayası at approximately 1:
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Çifte at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Çifte at approximately 4:35 p.m., marking the nineth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Cifte.jpeg "Çifte Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -114,7 +114,7 @@ Yıldız :1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Yıldız at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Yıldız at approximately 4:10 p.m., marking the eighth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Yildiz.jpeg "Yıldız Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -125,7 +125,7 @@ Dereköy Yayla :1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Dereköy Yayla at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Dereköy Yayla at approximately 3:10 p.m., marking the seventh summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Derekoyyayla.jpeg "Dereköy Yayla Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -136,7 +136,7 @@ Eğrinin :1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Eğrinin at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Eğrinin at approximately 2:30 p.m., marking the sixth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Egrinin.jpeg "Eğrinin Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -147,7 +147,7 @@ Arpalık :1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Arpalık at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Arpalık at approximately 1:45 p.m., marking the fifth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Arpalik.jpeg "Arpalık Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -158,7 +158,7 @@ Kızlarkaya :1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Kızlarkaya at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Kızlarkaya at approximately 12:20 p.m., marking the fourth summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_AlimPinari.jpeg "Alim Pınarı – 14 November 2026")
 ![](pics/20261114_Kizlarkaya.jpeg "Kızlarkaya Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
@@ -170,7 +170,7 @@ Zülfününseki :1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Zülfününseki at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Zülfününseki at approximately 11:00 a.m., marking the third summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Zulfununseki.jpeg "Zülfününseki Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -181,7 +181,7 @@ On November 14, 2026, I reached the summit of Zülfününseki at approximately 1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of İlikara at approximately 1:15 p.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of İlikara at approximately 10:35 a.m., marking the second summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Ilikara.jpeg "İlikara Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
@@ -192,7 +192,7 @@ Minas :1
 -   Elevation: 2,816m
 -   Summit Date: November 14, 2026
 
-On November 14, 2026, I reached the summit of Minas at approximately 9:00 a.m., marking the second summit of the traverse around Susam Lake described above.
+On November 14, 2026, I reached the summit of Minas at approximately 9:00 a.m., marking the first summit of the two-day exploration of the Aladağlar from Sulucaova described above.
 ![](pics/20261114_Minas.jpeg "Minas Summit – 14 November 2026")
 <iframe frameBorder="0" scrolling="no" src="https://www.wikiloc.com/wikiloc/embedv2.do?id=296421188&elevation=on&images=on&maptype=H" width="600" height="500"></iframe><div style="color:#777;font-size:11px;line-height:16px;">Powered by&nbsp;<a style="color:#4C8C2B;font-size:11px;line-height:16px;" target="_blank" href="https://www.wikiloc.com">Wikiloc</a></div>
 
